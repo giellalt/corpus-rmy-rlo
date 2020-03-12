@@ -1,0 +1,74 @@
+<document xml:lang="rmy-rlo" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>767</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rlo"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Romska-lovara/Tipsura-te-avel-maj-lao-manuesko-aaripe</origFileName>
+    <parallel_text xml:lang="eng" location="how-to-improve-self-esteem.html"/>
+    <parallel_text xml:lang="fin" location="vinkkeja-itsetunnon-kohentamiseen.html"/>
+    <parallel_text xml:lang="fit" location="tipsia-kuinka-parantaa-ommaa-ittentuntoa.html"/>
+    <parallel_text xml:lang="sma" location="raerieh-buerebe-jijtjedomtesasse.html"/>
+    <parallel_text xml:lang="sme" location="guoiggus-buoret-iedovdui.html"/>
+    <parallel_text xml:lang="smj" location="gatjastusa-nannusap-iesjdabdduj.html"/>
+    <parallel_text xml:lang="swe" location="tips-for-battre-sjalvkansla.html"/>
+    <parallel_text location="ideori-sar-te-vortos-iri-zor.html" xml:lang="rmy-rka"/>
+    <parallel_text location="tipsi-bao-poukar-korkorioset.html" xml:lang="rmn"/>
+    <parallel_text location="hilprepha-gla-fedigare-soluskansla.html" xml:lang="rmu"/>
+    <parallel_text location="rejchern.html" xml:lang="yid"/>
+    <parallel_text location="tipsi-te-lel-fendide-iegohoiba.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Tipsura te avel maj lašo manušesko ačaripe</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Tipsura te avel maj lašo manušesko ačaripe</p>
+    <p xml:lang="swe">But bajura birij pe te kerel pe te vazdel o manuš pesko ačaripe. Kate si uni bajura so šaj te zumavel pe:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Te si jekhes čoro ačaripe perel o manuš lokho ande negativne ghindura pa peste. Kana si e manušes e ghindura ke čoroj thaj ke kanči či žal šaj o manuš te pušel pe korkori pestar: žutin man kadal ghindura? Čačipej kodo ke či sim lašo ande variso?</p>
+      <p type="listitem" xml:lang="swe">Te mukhel pe e ghindura sar o manuš mezij thaj prestatci, so naj kanči khetanes kusa o ačaripe, birij o manuš te pušel pe kodolendar ande kaste tume pacan te pušen sostar tume san lenge drago. Šaj te manges e manušes te iskrij jekh lista thaj pala kodo šon kodi lista pe jekh than khaj šaj te diken.</p>
+      <p type="listitem" xml:lang="swe">Šaj vi te ghindis save laše righa si khaj kaver. Numa so si čačimasa vazno? Te aves <span type="quote" xml:lang="swe">”šukar”</span>, maj lašo ande skola vaj ke o manuš kamel te zumavel, del pe ghindo pe kaver, godžaver, fantaziako vaj tromako manuš so tromal te avel pe korkori?</p>
+      <p type="listitem" xml:lang="swe">Kodo zurarel manušesko ačaripe te avel e manušes laše relatci khaj kaver, vi khaj amala, kamimaske relatci thaj familja. Te si manuš nasul jekh jekheske ande familja vaj khas tume pindžaren, šaj te mangen len te na aven maj but nasul. Kam birin e manuš te phenen variso positivno jekh kavereske maj feder?</p>
+      <p type="listitem" xml:lang="swe">Šaj te kerel pe bajura so normalno či kerel pe. Te si kade ke šoha či san kodo kon vazdel o vast angluno, biris te keres kodo pe kaver lektcia. Vaj zumavel pe te phenel pe kodoleske so prasal varikhas vaj khaj si nasul varikhaske, rode jekh buči khaj si tumenge drago, te vorbij pe varikhaste vaj sikavel pe jekh novelo khaj iskirisardan.</p>
+      <p type="listitem" xml:lang="swe">Sar te ašol o manuš ande nasul ghindura pa kodo so sas čores ando trajo, šaj te acceptulij pe kodo so sas thaj e ačarimata so sas atunči. Te si kade sar eksemplo ke e dat/dej či dikhenas pala jekheste kana vov sas cino, kam si varikhon kaver kon dikhel pala jekheste akanak. Šaj te pušel pe o manuš pestar so si maj lašo peske akanak. Kodo či značil pe ke naštik te sikavel pe ke o manuš si brigako pa kodo so kerdas pe, kam si kade ke trobuj o manuš te rigij ekcera thaj te mukhel kodo pala peske dume.</p>
+    </list>
+    <p type="title" xml:lang="swe">Maj laše tipsura khatar ungdomspanel (ternimatongo panelo)</p>
+    <p xml:lang="swe">UMO:sko ternikano panelo del peske maj laše tipsura sar te avel jekhes maj lašo ačaripe.</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Si te zumavel pe te avl pe maj tromako thaj te tromal pe inke maj but: phen so ghindos, puš pa kodo so či žanes, na dara te keres variso so šaj te žal čores thaj sikav kon san tu.</p>
+      <p type="listitem" xml:lang="swe">Šaj te aves ande kunpania manušenca khaj ačares tu mišto thaj pacako.</p>
+      <p type="listitem" xml:lang="swe">Šaj te ačarel pe o manuš maj feder thaj maj zuralo kana šunel pe muzika khaj si tuke drago, sar eksemplo kana žas varikhaj khaj naj tuke mišto vaj te keres variso so daravel tut, šaj kado te žutij.</p>
+      <p type="listitem" xml:lang="swe">Šaj te kerdžos maj laši te les karing tute ašarimata thaj komplimangura. Sar te ačares ke lažas tu, cirde jekh baro rozduho, najisin anda o ašaripe thaj loša khatar e vorbi.</p>
+      <p type="listitem" xml:lang="swe">Šaj te ašarel pe o manuš andral pala jekh laši buči sar eksemplo kana e lektcia si gata kerdi vaj kana vorbisardan varikhaj khaj sas phares.</p>
+      <p type="listitem" xml:lang="swe">Šaj te aves jekh lašo amal khaj des dumo len thaj alosaren amalen khaj den dumo vi tut anda kodo kon san.</p>
+      <p type="listitem" xml:lang="swe">Na inkren andre ande tumende ašarimata pa jekh kavereste feri sikaven thaj phenen jekh kavereske so tume ghindin.</p>
+      <p type="listitem" xml:lang="swe">Kikiden tumen but!</p>
+      <p type="listitem" xml:lang="swe">Vi te naj o pacape thaj o ačaripe sa kodo, šaj o ačaripe te kerdžol maj lašo kana kerel pe variso so žanes mišto te keres.</p>
+      <p type="listitem" xml:lang="swe">Skrin opre kodo so tuke si drago pa tute.</p>
+      <p type="listitem" xml:lang="swe">Skrin opre kodo so tut lošarel.</p>
+      <p type="listitem" xml:lang="swe">Šuv tuke opre sako džes, sar eksemplo te keres variso so si tuke drago vaj variso so či kerdan maj anglal thaj na ghindon vaj mišto gelas kodo avri vaj kodo sas šukar vaj žungalo.</p>
+      <p type="listitem" xml:lang="swe">Manušesko ačaripe žal khetanes kusa sumjenje (samvete). Te san nasul, si tut čoro sumjene thaj atunči avla tuke čores. Kaver si kana san lašo thaj pacako, atunči si tuke maj feder thaj les vi maj lašo ačaripe.</p>
+      <p type="listitem" xml:lang="swe">Jekh lašo sikavno so del dumo šaj te vazdel opre jekhe manušes.</p>
+      <p type="listitem" xml:lang="swe">Mang žutipe khaj psykologo vaj kuratoro te si kade ke trobuj kodo, sar eksemplo ande ungdomsmottagningen.</p>
+    </list>
+    <p xml:lang="swe">» Manušesko ačaripe (självkänsla)</p>
+  </body>
+</document>

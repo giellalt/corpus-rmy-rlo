@@ -1,0 +1,58 @@
+<document xml:lang="rmy-rlo" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>539</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rlo"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Regler-och-rattigheter/Vard-i-Sverige-om-man-ar-asylsokande-gomd-eller-papperslos</origFileName>
+    <parallel_text xml:lang="eng" location="vard-i-sverige-om-man-ar-asylsokande-gomd-eller-papperslos.html"/>
+    <parallel_text xml:lang="fin" location="vard-i-sverige-om-man-ar-asylsokande-gomd-eller-papperslos.html"/>
+    <parallel_text xml:lang="sme" location="vard-i-sverige-om-man-ar-asylsokande-gomd-eller-papperslos.html"/>
+    <parallel_text xml:lang="swe" location="vard-i-sverige-om-man-ar-asylsokande.html"/>
+    <parallel_text location="vard-i-sverige-om-man-ar-asylsokande-gomd-eller-papperslos.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Doktoritsko žutipe ando Švedo te rodel pe azylo, garudino vaj si bi lilengo / Vård i Sverige om man är asylsökande, gömd eller papperslös - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib lovarickaRomska lovara</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Doktoritsko žutipe ando Švedo te rodel pe azylo, garudino vaj si bi lilengoVård i Sverige om man är asylsökande, gömd eller papperslös</p>
+    <p xml:lang="swe">Te rodes azyl vaj san bi lilengo si tut vi kade čačipe khaj doktoritsko žutipe vaj khaj o dentista ando Švedo. Šavora tela 18 berš inkren butivar čačipe te len žutipe pe jiva – bi lovengo.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Darajipe thaj našadipe</p>
+    <p xml:lang="swe">Te ačares ke trobuj tut garajipe sar našutno ke našaven tut ande čiro them šaj te rodes azylo ando Švedo. Šaj te aven vi kaver doša ke rodes azylo, kaver vorbenca ke manges te les pača thaj te ašos ando Švedo.</p>
+    <p xml:lang="swe">Te garudžol manuš vaj si bi lilengo ando Švedo si o manuš ilegalno ando them, šaj te avel kade ke o manuš sas avri deportirime anda Švedo.</p>
+    <p type="title" xml:lang="swe">Sastimasko dikhipe</p>
+    <p xml:lang="swe">Sa manuš so roden azylo šavora thaj phure si te len jekh šajipe te len jekh sastimaski kontrola bi lovengo. Kadi sastimaski kontrola si te avel kerdi sar maj sigo sar o manush areslas ando Švedo. Te san bi lilengo vaj garuves tu si te les jekh šajipe te les te keres jekh sastimasko dikhipe kana manges žutipe.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Azylantura, garudine thaj šavora so si bi lilenge</p>
+    <p xml:lang="swe">Šavora thaj terne tela 18 berš si te len sastimaski- thaj žutipe thaj dandengo žutipe pe sa kodol konditsi sar sa kaver šavora so trajin ande kodo landsting thaj roden žutipe. Maj but anda e landsting thaj regioni či len počin kana šavora thaj terne tela 18 berš mangen žutipe.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Azylantura, garudine thaj maj phure so si bi lilenge</p>
+    <p xml:lang="swe">Sar phuro, kodol so aresle 18 berš, lel doktoritsko žutipe thaj dandengo žutipe khaj chi birij te žukarel feri musaj te kerel pe akanak. Kodo si vi kana žuvlja žan khaj doktori pe žuvlikane buča, žutipe kusa abortsia thaj žutipe kusa preventivne buča.</p>
+    <p xml:lang="swe">Kana žal pe khaj doktoritsko vizita pe jekh vårdcentral anda doktoritsko žutipe so les pala remiso počnes 50 kronor. Jekh vizita, kusa remiso, khaj kaver žutipe počines 25 kronor. Kodo šaj te avel jekh vizita khaj kuratoro.</p>
+    <p xml:lang="swe">Tu šaj te keres jekh vizita pe jekh vårdcentral vaj khaj jekh phuterdo specialist žutipe ande savo landsting manges ande intrego Švedo. Te rodes azylo musaj te les jekh remiso maj anglal te si kade ke trobuj tu jekh remiso pe čiro nasvalipe.</p>
+    <p xml:lang="swe">Žutipe khaj dentista ando folktandvården kerel 50 kronor.</p>
+    <p xml:lang="swe">Pe medicina so si pe recepta počines 50 kronor, thaj te trobuj tut nasvalimaske tradimata koštulij kodo maksimalno 40 kronor. Te si o tradipe ande jekh kaver landsting počines intrego košta.</p>
+    <p xml:lang="swe">Prevenciake šavorengo thaj dejango žutipe, žutipe kana e žuvli si phari/kamni thaj kana o šavoro arakhadžol/biandžol si bi lovengo. Te san nasvalo thaj čiro nasvalipe perel kaveren si kado žutipe pe jiva.</p>
+    <p xml:lang="swe">Kana rodes doktoritsko žutipe sar azylanto si te sikaves opre jekh karta khatar Migrationsverket, Kadi karta bušol LMA-karta. LMA žnacij lagen om mottagande av asylsökande zakono sar lel pe jekhe azylantos thaj kadi karta si pe vrama thaj jekh identifikatsiaki karta tela kodi vrama so roden azylo.</p>
+  </body>
+</document>

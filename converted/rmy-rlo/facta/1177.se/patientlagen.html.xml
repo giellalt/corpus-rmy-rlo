@@ -1,0 +1,86 @@
+<document xml:lang="rmy-rlo" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>837</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rlo"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Regler-och-rattigheter/Patientlagen</origFileName>
+    <parallel_text xml:lang="eng" location="patientlagen.html"/>
+    <parallel_text xml:lang="fin" location="patientlagen.html"/>
+    <parallel_text xml:lang="fit" location="patientlagen.html"/>
+    <parallel_text xml:lang="sma" location="patientlagen.html"/>
+    <parallel_text xml:lang="sme" location="patientlagen.html"/>
+    <parallel_text xml:lang="smj" location="patientlagen.html"/>
+    <parallel_text xml:lang="swe" location="patientlagen.html"/>
+    <parallel_text location="patientlagen.html" xml:lang="rmy-rka"/>
+    <parallel_text location="patientlagen.html" xml:lang="rmf"/>
+    <parallel_text location="patientlagen.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Patsiengtongo žakono / Patientlagen - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib lovarickaRomska lovara</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Patsiengtongo žakonoPatientlagen</p>
+    <p xml:lang="swe">Patsientongo žakono si kerdo tuke khaj san patsiento. Ande kado zakono si buča skirisarde informatsiasa pa čiro nasvalipe thaj save žutimata šaj les. Atunči šaj vi tu te les detsizia pa čiro žutipe. Kote šaj vi te žanes khaj šaj te les kodo žutipe so tut trobuj.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Informatsia</p>
+    <p xml:lang="swe">Sajek si kon tu san vaj khatar aves e žutimaske bučara si te den tu kodi informatcia khaj čačes tut trobuj. Kodo značij ke te trubuj tut tolmačo vaj skirisardo lil , te ačares sa ande čiro žutipe si te den tut kodo.</p>
+    <p xml:lang="swe">E informatsia si te avel kerdi pala čiri situatsia thaj tu te biris te ačares kodo. Važno si te ačares čiri situatsia thaj te les partča ande čiro žutipe. Tu alos korkori sode aktivno san, thaj si tut vi šajipe te phenes so kames te žanes vaj so manges.</p>
+    <p xml:lang="swe">Kana tu ačares save alternatsi tut si thaj save šajimata tut si šaj te phenes so tu ghindis, vaj te phenes ke kames kodo so del pe tut. Šaj vi te alos te phenes ke či kames kodo žutipe. Vi te phendan ke kames jekh žutipe šaj te paruves čiro ghindo po žutipe.</p>
+    <p xml:lang="swe">Šavoren si jekh šajipe te phenen so von ghindon. Te si o šavoro tsino si kado te avel kerdo kusa e šavoresko gazda (vårdnadshavare), te si o šavoro maj baro si maj važno te birij o šavoro te phenel so ghindoj thaj te lel partča ando žutipe. Te avel o manuš aktivno ande pesko žutipe si atunči važno te ačarel o šavoro e informatsia.</p>
+    <p type="title" xml:lang="swe">Pa soste si kadi informatsia?</p>
+    <p xml:lang="swe">Tu si te les informatsia pa</p>
+    <list>
+      <p type="listitem" xml:lang="swe">čiro sastipe</p>
+      <p type="listitem" xml:lang="swe">save medoti si pala doktoritsko rodipe (undersökning), žutipe thaj bolnicaki žutipe</p>
+      <p type="listitem" xml:lang="swe">save žutimata si</p>
+      <p type="listitem" xml:lang="swe">kana šaj žukares ke den tut konsultatsia (råd)</p>
+      <p type="listitem" xml:lang="swe">savo resultato dela o žutipe so si žukardo tuke</p>
+      <p type="listitem" xml:lang="swe">save rizikura si pe komplikatsi thaj save komplikatsi šaj aven</p>
+      <p type="listitem" xml:lang="swe">sar si o dujto žutipe (eftervården), so šaja te trobuj tut, thaj khaj avla kodo</p>
+      <p type="listitem" xml:lang="swe">save metodi si te na lel pe kadala nasvalimata vaj kaver dukhajimata</p>
+      <p type="listitem" xml:lang="swe">šajipe khaj Försäkringskassan te žanel pe vaj šaj lel pe žutipe ande jekh kaver EES-them vaj ando Schweizo.</p>
+    </list>
+    <p xml:lang="swe">Univar šaj te avel kade ke trubij informatsia čire paše manušen pa čiro žutipe. Pala o sekreteso so si šaj kadi informatsia feri te avel avri te desa tu čiro šajipe pe kodo vaj te avesa korkori po than.</p>
+    <p xml:lang="swe">Te si akutne situatsi, sar eksemplo te či žanes tutar (medvetslös) thaj či biris te des šajipe pe kodo, lesa vi kade žutipe te si dar pa čiro trajo.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Alosaripe pe phuterdo žutipe (öppen vård) ande intrego them</p>
+    <p xml:lang="swe">Tu si te les informatsia savo žutipe čiro landsting šaj te del tut thaj te si kade ke biris te les žutipe ande jekh kaver landsting.</p>
+    <p xml:lang="swe">Šaj vi te alosares jekh phuterdo žutipe akarkhaj ando Švedo. Kodo žnacij ke šaj te alosares phuterdo žutipe vaj phuterdo specialistosko žutipe pe jekh doktoritsko dikhipe. Eksemplo si phuterdo specialist žutipe si operatsia pe jakha (gråstarrsoperationer).</p>
+    <p xml:lang="swe">Sajek si vaj o žutori si themesko vaj privatno kana kado si počindo khatar o landstinget.</p>
+    <p xml:lang="swe">Kana alosarel pe te avel pe ande jekh vårdcentral bušol univar listning. Numa mindik si tut šajipe te žas ande jekh vårdcentral ande intrego Švedo. Pe jekh vårdcentral šaj vi te alosaren jekh stalo košta.</p>
+    <p xml:lang="swe">Šaj te alosares učo specialisovano phuterdo žutipe ande jekh regionalno bolnica ande jekh kaver landsting, sar eksemplo kana lel pe žutipe po cancer.</p>
+    <p type="title" xml:lang="swe">Čire medicinake trubujimata len decizia</p>
+    <p xml:lang="swe">Kana rodes žutipe ande jekh kaver landsting dikhel pe pala čire trubujimata ande medicinake žutimata. Doktora dikhen save trobujimata trobun tut. Tu si te les sa kodo phuterdo žutipe pe sa kodol konditsi sar kodol so si skirisarde ande kodo landsting. Kodo žnacij ke tu počines sa keči ande patsientongi košta sar sa e kaver so roden phuterdo žutipe. Korkori si te počines e droma thaj o trajo kana tu alosares žutipe ande jekh kaver landsting.</p>
+    <p xml:lang="swe">Tu, khaj aves anda jekh kaver landsting, či inkerdžos tela vårdgaranti ande kodo landsting so alosares.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Nevo medicinako dikhipe</p>
+    <p xml:lang="swe">Te si tut jekh daravno nasvalipe vaj jekh dukh khaj trubuj phare medicinake decizi šaj te manges jekh nevi dikhipe khatar doktora. Kado nevo dikhipe les khatar jekh kaver doktori sar kodo so dikhlas angluni data, vaj ande čito landsting vaj ande jekh kaver landsting.</p>
+    <p xml:lang="swe">E košti pe jekh nevo medicinako dikhipe počinel čiro kheresko landsting.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Šaj te avel kaver te trobuj tut remiso</p>
+    <p xml:lang="swe">Te si kade ke musaj te avel jekh remiso khaj o phuterdo specialist žutipe ande čiro kheresko landsting vaj ande kaver lansting khaj rodes žutipe musaj te inkres remiso khatar čiro vårdcentral.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Te či čaljol tut o žutipe</p>
+    <p xml:lang="swe">Ande sako landsting si jekh patsientosko nämnd so si te žutij tut te či san čalo ande čiro žutipe. Patientnämnden šaj te žutij tut te aves ande kontakto kusa žutimaske bučara thaj te les informatsia sar te raportulis pa kodo so nakhlan.</p>
+  </body>
+</document>

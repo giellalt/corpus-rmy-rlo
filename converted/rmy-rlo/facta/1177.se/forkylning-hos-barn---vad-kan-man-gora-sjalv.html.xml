@@ -1,0 +1,80 @@
+<document xml:lang="rmy-rlo" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1055</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rlo"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Egenvard-barn/Forkylning-hos-barn---vad-kan-man-gora-sjalv</origFileName>
+    <parallel_text xml:lang="eng" location="forkylning-hos-barn--vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="fin" location="forkylning-hos-barn--vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="fit" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sma" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sme" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="smj" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="swe" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
+    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
+    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
+    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
+    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Trozna khaj šavora – so šaj kerel pe korkori? / Förkylning hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib lovarickaRomska lovara</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Trozna khaj šavora – so šaj kerel pe korkori?Förkylning hos barn - vad kan man göra själv?</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Trozna, xas thaj univar uči temperatura</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Maj lokho avla e šavoreske te phurdel te sovla maj učes. Šaj te vazdel pe e pato kana šol pe ekstra šeranda tela materaso.</p>
+    </list>
+    <p xml:lang="swe">Šavora so kerdžile troznale si butivar khine, ekcera brigake thaj roven ekcera e anglune džes. Lengo nakh si buthivar phandado vaj šordžol/folil anda nakh thaj šajdukhal o kirlo vaj dukh ande khan. Šaj vi te avel kade ke si lokho xas thaj univar uči temperatura.</p>
+    <p xml:lang="swe">Anglunimastar si e lim uži thaj pala uni džes kerdžol kodo maj thulo, thaj galbeno vaj zeleno.</p>
+    <p xml:lang="swe">Tela e anglune džes khatar e trozna ačarel pe o šavoro maj čores. Pala jekh ži khaj duj kurke xasajvel e trozna anda peste. E doš khaj e trozna si viruso, thaj karing viruso naj či soske medicini so birij te žutij e šavores te saščol maj sigo.</p>
+    <p type="title" xml:lang="swe">Šavoren khaj si uči temperature thaj khine trobuj te ašon khere</p>
+    <p xml:lang="swe">Šavora si si khine thaj si len uči temperatura trobun te ašon khere thaj te pehenin. But šavora trobun vi te ašon khere o angluno džes khaj naj len uči temperatura, bi medicinako žutipe. Trobuj te saščon e šavora te birin te džan ande škola.</p>
+    <p type="title" xml:lang="swe">Pehenipe trobuj</p>
+    <p xml:lang="swe">Mištoj te pehenin e šavora, numa či trobun te ašon ando pato. Šavoro ačarel korkori sode vov birij.</p>
+    <p xml:lang="swe">Šaj te avel e šavoreske maj feder kana sovel maj opre kusa ekstra šeranda tela pesko šero. Kodo si maj but e maj phure šavorenge so pašljon maj but. Cine šavora šaj te aven ande jekh bersele, ande babysitter vaj ande čang tela o džes.</p>
+    <p type="title" xml:lang="swe">Mangimasko xabe thaj maj but pipe</p>
+    <p xml:lang="swe">Bute šavoren si maj čoro aptito sar normalno. Šaj te del pe e šavores kodo so vov kamel, sar eksemplo vällingo, yogurto vaj lodo/paho. Te si e šavores uči temperatura si mišto te del pe maj but pipe.</p>
+    <p type="title" xml:lang="swe">Koksaltlösning/londopaji vaj nakhesko sprajo si kana o nakh si phandado</p>
+    <p xml:lang="swe">Te si o nakh phandado šaj te šorel pe koksaltlösning ando nakh, kado sanjarel e trozna. Trobuj kovles te lel pe tele resti khatar e lim. Koksaltlösning birj pe te khinel pe ande apoteka. Šaj vi te kerel pe kado paji korkori kodo kerel pet e mukhel pe avri lon ande jekh mililitra – jekh kryddmått- lon ande jekh decilitra paji. Te mukhel pe andre o koksaltlösning ande šavoresko nakh šaj te mukhel pe kusa jekh kovlo kaštoro (bomullstuss)</p>
+    <p xml:lang="swe">Te si maj phari trozna birij pe te del pe nakheske kropli so len tele o šuvlipe kusa nakheske kropli thaj nakhesko spraj khaj lel tele o šuvlipe. Kadala medicini/draba šaj khinel pe bi receptako thaj či trobuj te lel pe kodo medicini/drab maj but sar deš džes. Nakheske kropli si kerde pala e šavoreske berš, thaj kodo si skirime pe pačka.</p>
+    <p type="title" xml:lang="swe">Medicina bi receptako so malavel tele uči temperature</p>
+    <p xml:lang="swe">Uči temperature či trobuj te malavel pe mindig tele kusa medicina. Maj but anda e šavora khaj si uči temperature birin te phiraven/inkren/rebdin uči temperatura thaj kodo naj lenge nasul. Numa šaj te del pe medicina so malavel tele uči temperatura te si e šavoreske cores khatar e uči temperatura, sar eksemplo te dukhal o stato, rovel, xal thaj pel maj čores, či birij te sovel thaj naj len pača pe račate.</p>
+    <p xml:lang="swe">Či trobuj te del pe medicine cine šavorenge tela šov šon bi kontaktosa khatar e medecinsko žutipe.</p>
+    <p xml:lang="swe">Karing uči temperature šavorenge so si opral trin šon si medicina so inkrel paracetamol, sar eksemplo sar Alvedon thaj Panodil. Pala šov šon birij šavoro te lel Ipren vaj Ibumetin, so si bi receptako thaj si kerdo po ibuprofen. E medicina si ande pajasli forma thaj sar čopki (stolpiller) kusa laši dosa cine šavorenge. Maj phure šavorenge si vi tabletki. Inkren tume pala e informatcia so si skirime pe pačka. Nak keren kombinatci kusa diferentne medicine. Šavora so si tela 18 berš thaj si tela uči temperatura či trobun te len medicina karing uči temperatura kusa acetylsalicyra, sar eksemplo Magnecy, Treo thaj Albyl.</p>
+    <p type="title" xml:lang="swe">Xaseski medicina bi receptako</p>
+    <p xml:lang="swe">Xaseski medicina bi receptako či žutij butivar. Kana o šavoro xasal si zurales važno te xasal o šavoro opre kodol lima so si ande phuridimaske ruri (luftrören). Medicina so žutij karing xas kerel jekh pharipe e šavorenge te xasan opre e lim. Medicina so mukhel opre e lim či sikaven jekh čačo efekto. Te žutij pe e xas šaj te zumavel pe te del pe thato vaj šudro pipe. Šavorenge tela duj berš či del pe šoha xasimaski medicina bi informatciako khatar doktori.</p>
+    <p type="title" xml:lang="swe">So šaj te kerel pet e na perdžon kaver?</p>
+    <p xml:lang="swe">Te na perdžon jekh kavarendar si mišto te sičarel pe e šavoren te xasčin thaj te xasan ando vast paša kuj thaj te phiraven papirušune servetki. Trobuj te dikhel pe te thoven e šavora penge vast butivar ando džes. Zumaven te sičaren e šavoren tena hunaven ando nakh vaj ande jakha. Kote ašol o viruso maj sigo thaj kotar perdžol vi o nasvalipe. O nasvalipe či džala maj dur te na khelena pe e šavora kusa nasvale šavora. Mukhen e šavora te aven sar maj but avral, vi kana si jivent.</p>
+    <p xml:lang="swe">Ghindon pe kodo ke šavora so si pa ša civarako thuv perdžol maj sigo khatar trozna.</p>
+    <p type="title" xml:lang="swe">Šaj te avel kade ke trobuj te lel pe kontakto kusa medicinsko žutipe</p>
+    <p xml:lang="swe">Mištoj te dikhel pe ekstra sar o šavoro ačarel pe. Si te rodel pe žutipe tela jokvareste kusa jekh vårdcentral vaj akutno žutipe kana o šavoro si khino bi zorako thaj či birij te pel. Sa kade te si e šavoreske phardes te phurdel vaj te kerdžol e xas maj phari, specialno te šundžol maj pharo.</p>
+    <p xml:lang="swe">Te šordžol paji anda khan trobuj te lel pe kontakto po vårdcentral vaj jouržutipe, te avel o šavoro dikhlo.</p>
+    <p xml:lang="swe">Te si kade ke o khan dukhal, thaj či nakhel e dukh, trobuj te lel pe kontakto kusa jekh vårdcentral tela jekh džes.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Mangen žutipe</p>
+    <p xml:lang="swe">Šaj vi te vorbin kusa jekh sjuksköterska tela intrego džes thaj rači. Vorbin 1177. E manuš so vorbinas tusa birin te phenen pe savo vårdcentral tu san andre skirime.</p>
+  </body>
+</document>

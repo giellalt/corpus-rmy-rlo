@@ -1,0 +1,68 @@
+<document xml:lang="rmy-rlo" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>606</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rlo"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Egenvard-barn/Ont-i-orat-hos-barn---vad-kan-man-gora-sjalv</origFileName>
+    <parallel_text xml:lang="eng" location="ont-i-orat-hos-barn.html"/>
+    <parallel_text xml:lang="fin" location="ont-i-orat-hos-barn.html"/>
+    <parallel_text xml:lang="fit" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sma" location="d.html"/>
+    <parallel_text xml:lang="sme" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="smj" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="swe" location="l1.html"/>
+    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
+    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
+    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
+    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
+    <parallel_text location="ont-i-orat-hos-barn---egenvard.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Dukh ande šavoresko khan - so šaj te kerel pe korkori? / Ont i örat hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib lovarickaRomska lovara</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Dukh ande šavoresko khan - so šaj te kerel pe korkori?Ont i örat hos barn - vad kan man göra själv?</p>
+    <p xml:lang="swe"></p>
+    <list>
+      <p type="listitem" xml:lang="swe">Te pašlol o šavoro učes e šeresa perel o šuvlipe ando khan thaj atunči dukhal maj cera. Jekh drom khaj o vazdipe e šeresko si te šol pe šeranda tela o madratsi.</p>
+    </list>
+    <p type="title" xml:lang="swe">Butivar dukh račansa</p>
+    <p xml:lang="swe">Šavora so traznon/troznajven shaj te dukhadžon ando khan kana kodo šuvliol. Šaj vi te lel pe dukh kana pumbarel maškaral ando khan, khanengi infamatcia. Vi trozna thaj khanengi inflamatcia si normalne nasvalimata khaj e šavora. Butivar ušten e šavora pe račate khatar e dukh ke o šuvlipe šuvljiol maj but kana von pašlion. Šaj te avel maj lokho te sovel pe maj učes thaj šaj te šol pe šeranda tela o šero.</p>
+    <p xml:lang="swe">Kaver problemura so šaj te dek khanengo dukh si inflamatcia maškaral e khan (hörselgång) so žal andre ando khan, kana pherdžol o khan khatar vaks/mom vaj kana si problemo kusa (e falči) o paluno muj (käklederna).</p>
+    <p type="title" xml:lang="swe">Khaneski inflamatcia aresel vi o maškaral ando khan</p>
+    <p xml:lang="swe">Jekh khaneski infamatcia khaj si maškaral ando khan lel pe hirtelen thaj či inkerdžol pe but vrama. Paša kado šaj o šavoro te ačarel ke čores šunel thaj ke o khan si tele phandado. Si vi normalno ke e temperatura vazdel pe opre (feber). Univar pharadžol o khan andral (trumhinnan) thaj paji šordžol avri. Atunči xasajvel but anda e dukh. Šavoren šaj vi te avel khanengi inflamatcia thaj ten a dukhal.</p>
+    <p type="title" xml:lang="swe">Žutimaske medicini</p>
+    <p xml:lang="swe">Te žanel pe ke e šavores si khanengi inflamatcia shaj te del pe žutimaski medicina pe kodo so inkrel paracetamol. Sar eksemplo Alvedon thaj Panodil, vaj medicina so inkrel ibuprofen, sar eksemplo Ipren thaj Ibumetin. Medicina si ande pajeski forma, sar čopki thaj tabletki. Maj laši informatcia si pe pačka.</p>
+    <p xml:lang="swe">Kana si šavora so si tela šov šon či trobuj te del pe medicina bi vorbimasko kusa doktori vaj sjuksköterska.</p>
+    <p xml:lang="swe">Šavora so si tela 18 berš či trobun te len žutimaske medicine/draba khaj malaven tele e temperatura kusa acetylsalicyra, sar eksemplo Magnescyl, Treo vaj Albyl minor, te či phenadas jekh doktori te lel pe kodo.</p>
+    <p type="title" xml:lang="swe">Nakhesko sprejo</p>
+    <p xml:lang="swe">Nakheske sprejura so malaven tele šuvlipe vaj phandade nakha kerel te birin e šavora te purden maj feder. Numa te sikadžol pe ke kado žutij karing khaneske inflamatci či birij pe te sikavel pe.</p>
+    <p type="title" xml:lang="swe">Khanenge problemura thaj najaripe</p>
+    <p xml:lang="swe">Te si kade ke pharadžilas o khan trobuj te žukarel pe te najol o šavoro ži pun o paji agorisardas te šordžol anda khan. Kana saštilas o khan, kado žal sigo, birij o šavoro te najol normalno. Te si e šavores rura ando khan vaj te si khaneski inflamatcia či trobuj pe te šol pe o šero tela paji.</p>
+    <p type="title" xml:lang="swe">Kam si kade ke trobuj te inkrel pe kontakto kusa o žutipe</p>
+    <p xml:lang="swe">Šavoren šaj te lel khaneski dukh kana o šavoro lel trozna. Numa te na xasajvel e dukh, vi te la spe medicina thaj inkerdas pe o šero učes, trobuj o šavoro te djal te dikhel doktoros pala duj-trin džes.</p>
+    <p xml:lang="swe">Te si o šavoro khino, či birij te khelel pe vaj te pel paji vaj si tela šov šon trobuj te lel pe kontakto kusa doktora direktno.</p>
+    <p xml:lang="swe">Mindik trobuj te lel pe kontakto kusa e doktora te šordžol paji avri anda šavoresko khan – vi te si kade ke či dukhal.</p>
+    <p xml:lang="swe">Mindik šaj o manuš te vorbij khaj sjukvårdsrådgivningen te lel pe maj but informatcia.</p>
+  </body>
+</document>

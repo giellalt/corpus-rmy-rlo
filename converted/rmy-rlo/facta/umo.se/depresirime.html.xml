@@ -1,0 +1,85 @@
+<document xml:lang="rmy-rlo" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>1051</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rlo"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Romska-lovara/Depresirime</origFileName>
+    <parallel_text xml:lang="fin" location="alakuloisuus.html"/>
+    <parallel_text xml:lang="fit" location="matalapaine-eli-alakulonen.html"/>
+    <parallel_text xml:lang="sma" location="hujnesne.html"/>
+    <parallel_text xml:lang="sme" location="lossesvuohta.html"/>
+    <parallel_text xml:lang="smj" location="hajesvuohta.html"/>
+    <parallel_text xml:lang="swe" location="nedstamdhet.html"/>
+    <parallel_text location="togalopha.html" xml:lang="rmu"/>
+    <parallel_text location="mulano.html" xml:lang="rmf"/>
+    <parallel_text location="tristimos.html" xml:lang="rmy-rka"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Depresirime</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Depresirime</p>
+    <p xml:lang="swe">Ke univar ačarel pe khino, brigako, nervovo vaj ke ačarel pe ke naj maj dur loš si jekh naturalno drom ando trajo. Šaj te aven kasave džes ke naj e manušes zor te kerel kanci, kanci naj voja vaj ke si o manuš ande ghindura. Univar hasajven kadal ačarimata pala jekh vrama. Si uni bučia so šaj te kerel pe te ačarel pe o manuš maj feder, thaj si vi š utipe te si kade ke trobuj e manušes žutipe pe kado.</p>
+    <p xml:lang="swe">Depresi aven thaj žan ando trajo. Naj musaj o manuš te daral te mukhel avri negativne ghindura thaj ačarimata. Te phandavela pe kadal ačarimata kana von aven šaj te kerdžol pe ke maj phares kerdžol pe thaj šaj te lel pe maj but ångesto. Uni bajura musaj te ačardžon thaj univar musaj kodo te lel peski vrama.</p>
+    <p type="title" xml:lang="swe">Univar žanel pe sostar kodo si</p>
+    <p xml:lang="swe">Univar šaj variso specialno te kerel ke ačarel pe o manuš depresirime. Sar eksemlo šaj te mukhen pe duj žene, o dat thaj e dej mukhen pe vaj kana si kaver problemura familjasa vaj amalenca.</p>
+    <p xml:lang="swe">Manuš šaj vi te kerdžol depresirime te parudžol pe variso ando trajo sar eksemplo khiden pe e manuš, paruvel pe skola, vaj kana lel pe gymnasium vaj kana lel pe te kerel pe buči.</p>
+    <p xml:lang="swe">Butivar nakhavel o manuš korkori kadal problemura žutimasa e amalenca vaj familjasa, vi te ačardžol pe kado zurales phares kana kado kerel pe.</p>
+    <p xml:lang="swe">Si vi normalno ke o manuš si brigako vi te si kade ke kanci či kerdas pe. Te si kade ke si o manuš sar eksemplo stressirime vaj či birij te sovel ke phares si ande skola vaj pe buči birij o manuš te kerdžol brigako thaj depresirime. Ghindura pa seksualiteto, sar si te avel o manuš thaj khaj si o stato te barol kado šaj avel pharo. Žuvlia šaj te kerdžon brigake džesa angla o žuvliako šon.</p>
+    <p type="title" xml:lang="swe">Či dičol mindig po muj sar o manuš ačarel pe andral</p>
+    <p xml:lang="swe">Butivar či ačaren e amala, dat thaj dej, sikavne thaj kaver sar čačimasa ačarel pe o manuš. Naj musaj te dičol kado avri vi te ghindoj o manuš ke trobusardov kodo te dičol.</p>
+    <p xml:lang="swe">Te si o manuš depresirime šaj o manuš te avel maj holjiako thaj lokho kerdžol nervozno. Atunči len manuš sama ke maj holjiako san, numa šaj te avel kade ke von či ačaren ke čiri holji si anda kodo ke tu san brigako thaj depresirime. Anda kodo si mišto te phenel pe manušenge sar ačares tu te biris te les žutipe. Kana vorbij pe varikhasa ačardžol pe butivares maj feder pala kodo.</p>
+    <p type="title" xml:lang="swe">So šaj te kerel pe korkori?</p>
+    <p xml:lang="swe">Šaj korkori te keres afecto pe čiro sastipe. Ačarel pe maj feder thaj birij pe maj but kana o manuš miškij, kam trenulij, sar kana či kerel pe kanci. Te ačarel pe o manuš maj feder trobuj vi te hal pe pe vrami, thaj te sovel pe dosta but. Atunči rebdij o stato maj feder bučia so šaj te ačardžon pe phare. Šaj te kerdžol p manuš khino ke či sovel pe dosta but vaj te sovel za but.</p>
+    <p xml:lang="swe">Si uni bučia so trobuj te del pe ghindo manuš kana si depresirime:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Maj feder ačarel pe o manuš kana kerel pe bajura so si e manušeske drago sar eksemplo maladžol pe amalenca. Numa šaj te avel vi kade ke o manuš trobuj te avel korkori jekh vrama.</p>
+      <p type="listitem" xml:lang="swe">Šaj te žutij te miškij pe o manuš. Sar eksemplo šaj te žal pe te piravel pe o manuš vaj te trenulij o manuš kado žutij te si e manušes but ghindura ke kado kerel ke sovel pe maj feder.</p>
+      <p type="listitem" xml:lang="swe">Mištoj te avel pe avral kana si džes avral, ke o odut kerel ke o manuš si maj zuralo.</p>
+      <p type="listitem" xml:lang="swe">Šaj te žutij kana vorbij pe varikhasa, sar jekh amal vaj varikhasa ande familja. Šaj vi te žal pe te vorbij pe sar eksemplo skolsköterska vaj jekhe kuratorosa.</p>
+      <p type="listitem" xml:lang="swe">Šaj vi te skrij pe tele kodo so ačarel pe. Ke kana šol pe vorbi pe e ačarimata thaj ghindura kerel kodo ke o manuš ačarel pe korkori maj feder, thaj atunči dikhel pe vaj si varesave problemura so trobuj o manuš te lašarel.</p>
+    </list>
+    <p type="title" xml:lang="swe">Alkoholo thaj drogi naj laše</p>
+    <p xml:lang="swe">Te si o manuš deprisirime šaj te ačardžol ke maj feder avla te pela pe alkoholo vaj drogi. Šaj te ačardžol anglunimastar ke maj feder si thaj bistrel pe o pharipe, numa vramasa šaj te kerdžol pe inke maj phares ke sa pharipe kerdžol maj zuralo. Šaj vi te avel kade ke o alkoholo thaj e drogi kerel ke ačarel pe o manuš deprisirime.</p>
+    <p type="title" xml:lang="swe">Kado načol butivar kana si o manuš deprisirime</p>
+    <p xml:lang="swe">Šaj te ačarel pe o manuš zurales čorres kana ačarel pe o manuš deprisirime. Anda kodo šaj te ačardžol kodo mišto ke žanel pe ke kado šaj te hasajvel anda peste, vi te šaj te nakhel ekcera vrama.</p>
+    <p type="title" xml:lang="swe">Univar trobuj žutipe</p>
+    <p xml:lang="swe">Univar si mišto te vorbij pe avri o manuš varikhasa khaj naj paše. Te mangel pe žutipe šaj te lel pe kontakto sar eksemplo jekh ungdomsmottagning, vårdcentral vaj elevhälsan. Von si sikle te maladžon ternimatonca so ačaren pe brigake thaj tele. Te trobuj birin von te žutin kontaktosa sar eksemplo kusa jekh doktori vaj psykologo.</p>
+    <p xml:lang="swe">Si telefonicne jourura so žutin kana vorbij pe lende, thaj si vi thana po Internet khaj šaj te kerel pe čatta, maila thaj te ghinavel pe kana trobuj žutipe. Kothe šaj vi te avel o manuš anonymno.</p>
+    <p type="title" xml:lang="swe">Depressia</p>
+    <p xml:lang="swe">Jekh depressia si variso khaver sar te aves ekcera deprisirime thaj brigako. Šaj te lel pe depressia kana sas lungo vrama o manuš deprisirime thaj tela sa kodi vrama</p>
+    <list>
+      <p type="listitem" xml:lang="swe">hasarel o intereso ande bajura so sas lenge maj anglal interesno</p>
+      <p type="listitem" xml:lang="swe">sovel za cerra vaj za but</p>
+      <p type="listitem" xml:lang="swe">phares te inkrel pe koncentratsia</p>
+      <p type="listitem" xml:lang="swe">hasarel pe e bokh</p>
+      <p type="listitem" xml:lang="swe">hal pe maj but sar maj anglal</p>
+      <p type="listitem" xml:lang="swe">holjajvel zurales sigo</p>
+      <p type="listitem" xml:lang="swe">či pačal maj dur ande peste thaj kerel kritika pe peste intrego vrama</p>
+      <p type="listitem" xml:lang="swe">garudžol khatar kaver manuš</p>
+      <p type="listitem" xml:lang="swe">bešel but vrama ande peske ghindura</p>
+      <p type="listitem" xml:lang="swe">kerdžon problemura ande skola vaj ande buči</p>
+      <p type="listitem" xml:lang="swe">aven suicidne ghindura (ghindo te lel pe pesko trajo).</p>
+    </list>
+    <p xml:lang="swe">Te las pe jekh depressia trobuj e manušes profesionalno žutipe te avel maj feder e manušeske. Te lel pe kado žutipe šaj te lel pe kontakto kusa sar eksemplo jekh ungdomsmottagning, vårdcentral vaj elevhälsan.</p>
+  </body>
+</document>

@@ -1,0 +1,107 @@
+<document xml:lang="rmy-rlo" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1623</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rlo"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Regler-och-rattigheter/Om-man-inte-ar-nojd-med-varden</origFileName>
+    <parallel_text xml:lang="eng" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="fin" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="fit" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="sma" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="sme" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="smj" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="swe" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmy-rka"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmn"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmu"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="yid"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Te či san čalo kusa o žutipe / Om man inte är nöjd med vården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib lovarickaRomska lovara</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Te či san čalo kusa o žutipeOm man inte är nöjd med vården</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">So šaj te kerel pe?</p>
+    <p type="title" xml:lang="swe">Si tut čačipe te phenes ke či san čalo</p>
+    <p xml:lang="swe">Sar paciento ande sastimasko thaj nasvalengo thaj sastimasko žutipe (hälso- och sjukvården) si e manušes čačipe te avel dikhlo kusa respekto thaj te lel ačardi informatsia pa sastipe thaj pa e eksaminaci so kamel pe te kerel pe khatar e doktora. Si te lel pe jekh lašo žutipe kusa lašo kvaliteto.</p>
+    <p xml:lang="swe">Te či san čalo e žutimasa vaj te si kade ke varikhon nas tuke lašo, si tut čačipe te phenes so ačares thaj phenes čire ghindura. Kado šaj te avel sa khatar maj cine problemura ži khaj phare situatsi so kerde ke varikhon ašilas dukhado vaj khaj mulas. Šaj vi te del pe opre variso te kamel te pe kerdžol e bučaki situatsia maj laši.</p>
+    <p xml:lang="swe">Si vi diferentne thana khaj šaj te del pe opre e buča so holjaren tume. Šaj te avel mišto te mangel pe jekh skirisardo atveto palpale kana del pe opre variso te birij pe maj palal te ginavel pe o atveto pačasa ke atunči kam či avna buča so naj ačarde.</p>
+    <p type="title" xml:lang="swe">De opre o problemo khaj e bučara</p>
+    <p xml:lang="swe">Mišto si te del pe opre e buči khaj o doktori vaj khaj kaver bučari so kerde eksaminacia vaj das žutipe. Univar šaj te avel kade ke e manuš či ačarde pe mišto thaj jekh vorbipe lenca šaj te kerel ke kerdžol pe maj feder thaj či avla problemo po dujto. Šaj vi te del pe opre e buči khaj o šerutno pe kodo than, sar eksemplo khaj o šefo pe jekh ortopedicko klinika.</p>
+    <p xml:lang="swe">Kana si e buči pa jekh komunalno sastimasko thaj nasvalengo žutipe boldel pe o manuš khaj e medicinske šerutni sjuksköterska, vi akhardi sar MAS, ande komuna.</p>
+    <p xml:lang="swe">E buča si inkerde pa landstinget vaj komuna pe medicinsko žutipe šaj te avel diferentno krujal ando them. Šaj te pušel pe ande peske komuni vaj landstinget kon inkrel e responsebilita po medicinsko žutipe. Maj butivar inkrel e komuna e responsebilita pe maj lokhe khereske žutimata (hemsjukvård) thaj o landstinget inkrel maj avancovanomedicinsko žutipe ando kher.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Pacientnämnden</p>
+    <p type="title" xml:lang="swe">Lel komplikatsi (klagomål) peste</p>
+    <p xml:lang="swe">Jekh than khaj šaj te mukhel pe ghindura si pacientnämnden, univar phenel pe vi pe kado förtroendenämnd. Pacientnämnden si te kerel te avel uco paciape ande pacientongo žutipe ande sastimasko thaj nasvalengo žutipe.</p>
+    <p xml:lang="swe">Nämnden si te avel ande sa e landsting te birin te len opre e manušenge komplikatsi so von den opre thaj ghindura sar e manuš den respekto, diagnosi, medicina, pocinimata, sekretesspušimata thaj o vårdgaranti. Ando nämnden bešen politikura thaj bučara keren buči e bučanca so e manuš den opre (komplikatsi). Nämndenoske politikura thaj bučara inkren tystnadsplikt (naštik te phenen maj dur so šunen).</p>
+    <p xml:lang="swe">Pacientnämnden naj panglo kusa o hälso- och sjukvården thaj či kostulij kanci te boldel p ekhote o manuš kusa peske komplikatsi.</p>
+    <p xml:lang="swe">Paša e sastimaske thaj nasvalengo žutipe si vi dandengo žutipe te avel inkerdo khatar landstinget thaj privatno dandengo žutipe si ekcera finansovano khatar landstinget.</p>
+    <p xml:lang="swe">Paša kodo si vi e kaver sastimaske thaj nasvalenge žutimata so si kerde kusa e komuna, thaj e buči so si kusa Socialtjänstlagen so aven ande buči ande jekhutni buči ande kadal duj thana.</p>
+    <p xml:lang="swe">Khatar pacientnämnden šaj te lel pe žutipe kadalesa sar eksemplo</p>
+    <list>
+      <p type="listitem" xml:lang="swe">informatsia so trobuj e manušes te birij pe te inkrel pe e intressura ande hälso- och sjukvården (sastimasko thaj nasvalengo žutipe)</p>
+      <p type="listitem" xml:lang="swe">kontakto kusa žutimaske bučara</p>
+      <p type="listitem" xml:lang="swe">te arakhel pe o čačo than khaj e raj khaj trobuj te boldel pe</p>
+      <p type="listitem" xml:lang="swe">te kerel pe raporto pe dikhhimata pe kodo so si mišto thaj naj mišto thaj so kerdas pe reaktsi pe thana khaj žutin.</p>
+    </list>
+    <p type="title" xml:lang="swe">Vi buča so del pe opre vorbasa thaj skirimasa si te aven dikhle</p>
+    <p xml:lang="swe">Šaj vi te vorbij pe thaj te skrij pe andre komplikatsi khaj pacientnämnden. E bučara len sama pala e komplikatsi thaj cirden andre e instansura so si te aven andre ande buči.</p>
+    <p xml:lang="swe">Pacientnämnden či birij korkori te lel decizia vaj varisavi buči sas čori kerdi khatar e žutimaske bučara. Kado si jekh pušipe khaj e manuš so inkren e responsebilta pe kodo than vaj khaj e departamentura sar Socialstyrelsen.</p>
+    <p xml:lang="swe">Informatsia pa pacientnämnden si te aven khote khaj tu lan o žutipe thaj vi po landstingets Internet righa.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Socialstyrelsen</p>
+    <p type="title" xml:lang="swe">Lišij o kvaliteto thaj e sekurita</p>
+    <p xml:lang="swe">Socialstyrelsen si jekh dikhhimasko departamento pe hälso- och sjukvården thaj kerel inspektsi pe e bučake thana te dikhhel ke sa si mišto thaj te aven e pacientura ande pača, te na kerdžon dukhajimata thaj te len tele e rizikura ande medicinsko žutipe. Socialstyrelsen si te inkrel fokus pe e doša so kerde pe, kado bušol systemfel (systemoske doša) thaj so te kerel pe te na kerdžol kodo po dujto.</p>
+    <p xml:lang="swe">Khaj Socialstyrelsen del pe opre jekh specificno buči vaj pe varesave bučara. Ande jekh komplikatsia so del pe opre či trobuj te phenel pe kaski sas e responsebilita pa e doš. Savori so si tela hälso- och sjukvården, vaj keren buči ande komun, landsting vaj privatno žutimaski firma, šaj te avel opre dini.</p>
+    <p xml:lang="swe">Jekh komplikatsia šaj vi te inkrel kritika karing e organizatsia vaj te si doša ande pacientongi sekurita so trobuj te kerdžol maj laši. E komplikatsi so si opre dine si te aven dikhle bi ghindosko. Či trobuj o manuš korkori te žanel so sas čoro kerdo vaj kon kerdas e doš feri dostaj te del pe e buči opre.</p>
+    <p xml:lang="swe">Socialstyrelsen šaj te del kritika vi karing jekh organizatsia, sar eksemplo landsting, thaj vi pe e bučara. Kodo šaj vi te avel kerdo vi te naj komplikatsi kerde khatar pacientura vaj khatar lenge manuš. Te trobuj anda e pacientongi sekurita birij o Socialstyrelsen vi te mukhel restriktsi so e organizatsi musaj te inkren. Socialstyrelsen šaj vi te mukhel perdal e buča khaj pacientnämnden. Decizi so aven khatar Socialstyrelsen či birij te del pe appelatsia.</p>
+    <p xml:lang="swe">Buča so del pe opre so šaj te aven kriminalne te pe perdal khaj e policia. Kodo šaj sar eksemplo te avel kana bučara kerde seksualno zor vaj marde varikhas pe bučako than.</p>
+    <p xml:lang="swe">Vi komplikatsi so aresen thaj e decizi so Socialstyreslen lel si phuterde handlingar (lila) so savori šaj te ginaven. Numa journalura so si pacientonge thaj kaver buča so anen pe journalura šaj te aven tela sekretess.</p>
+    <p type="title" xml:lang="swe">Dikhhel pe perdal Lex Maria-komplikatsi</p>
+    <p xml:lang="swe">Socialstyrelsen keren vi buči kusa Lex Maria-komplikatsi, kana medicinsko žutipe del pe korkori opre anda seriozne problematiki. Jekh Lex Maria-komplikatsia si te avel perdal dikhhli ta avel e pacienton sekurita. Kodo šaj te kerel ke o Socialstyrelsen del opre bučaren khaj Hälso- och sjukvårdens ansvarsnämnd, HSAN.</p>
+    <p type="title" xml:lang="swe">Hälso- och sjukvårdens ansvarsnämnd</p>
+    <p xml:lang="swe">Feri Socialstyrelsen, Justitieombudsmannen thaj Justitiekanslern šaj te del opre komplikatsi khaj Hälso- och sjukvårdens ansvarsnämnd, HSAN. Kodo šaj te kerel pe kana dikhhel pe ke trobuj te lel pe decizi pe protektsiake buča, ke ašavel pe rutini thaj bučake formi so šaj te aven kusa rizika. HSAN šaj te zumavel thaj te lel decizia pa</p>
+    <list>
+      <p type="listitem" xml:lang="swe">kodo te cirdel palpale e legitimatsia khatar o doktori vaj khatar sjuksköterska so kerdas jekh čori buči</p>
+      <p type="listitem" xml:lang="swe">kodo ke mukhel prubaki vrama, kodo kerel ke o doktori vaj sjuksköterska musaj te avel tela prubake jakha ži khaj trin berš, thaj ke kerel pe jekh specialno plano tela kadi vrama</p>
+      <p type="listitem" xml:lang="swe">ke cirdel pe andre vaj šol pe restriktsia pe doktorosko čačipe te skrij avri medicina.</p>
+    </list>
+    <p xml:lang="swe"><em type="italic">﻿﻿Khatar juni 2013 las e Inspektionen för vård och omsorg, IVO, las e lišimaske buča khatar Socialstyrelsen. Kodo značil ke del pe opre buča so naj laše ando vård och omsorg ande medicinsko žutipe. Šaj vi te des opre bučaren anda bučake thana, sar khaj kerlas pe maj anglal khaj Socialstyrelsen. </em></p>
+    <p xml:lang="swe"><em type="italic">Čorimata thaj bange buča so kerdžon ande diferentne žutimaske thana si te den pe korkori ope khaj Inspektionen för vård och omsorg. </em></p>
+    <p xml:lang="swe"><em type="italic">O nevo departamento si vi te lel peske initiativa te dikhel thaj te rodel buča thaj te lišij te avel maj lašo o kvalitetit haj sekurita ande medicinsko žutipe. </em></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Kaver droma pe komplikatsi</p>
+    <p type="title" xml:lang="swe">Policia, pacientonge organizatsi thaj politikura</p>
+    <p xml:lang="swe">Te si kade ke ačarel pe ke jekh kriminalno buči sas kerdo ande e medicinsko žutipe šaj te del pe kodo opre pe policia. E buči šaj te avel dini opre sar vållande till annans död (doš khaj kaver manušesko meripe). Ando Švedo naj kodo normalno ke kasave buča žan khaj krisi thaj malavel varikhas krisasa, ke ande zakono skrij pe ke trobuj jekh ghindo nasulimasa vaj jekh buči khaj či dikhlas pe kanci tela bučaki vrama te birij varikhon te astarel jekh kris.</p>
+    <p xml:lang="swe">Pacientonge organizatsi šaj univar te žutin bučansa so si kusa komplikatsi. Von šaj te dikhhen sar mezij e buči thaj khaj savi instansa trobuj te mukhel pe ekomplikatsi thaj šaj žutin e bučasa te del pe opre e buči (anmälan).</p>
+    <p xml:lang="swe">Diskrimineringsombudsmannen, DO, kerel buči te malavel tele diskriminatsia. Te ačarel pe ke nas laši buči kerdi anda kodo ke sas diferentno manušipe, manušipesko identiteto, manušikano ghindo, berš, etnicno inkeripe, religia vaj kaver pačape, nasvalipe vaj seksualno identiteto, šaj kadal buča te aven opre dine khaj DO.</p>
+    <p xml:lang="swe">Si mindig šajipe te del pe opre komplikatsi khaj e sjukvårdspolitikura so inkren e politicno responsebilita ande landsting vaj komuna.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Pacientombudsmän</p>
+    <p xml:lang="swe">Ande uni landsting si uni specialne pacientombudsmän, so univar akardžon pacientombud vaj pacientvägledare.</p>
+    <p xml:lang="swe">Te ačarel pe sar eksemplo manuš čores dikhlo vaj naj čalo kusa o žutipe šaj atunči te lel pe lenca kontakto. Pacientombudsmannen šaj te žutij thaj vi te žutij khaj te ingrel pe e buči maj dur te avel jekh atveto khaj či čaljiarel e manušes vaj te nas lašo kontakto kusa e bolnicia kana vorbisardas pe o manuš lenca anglunes.</p>
+  </body>
+</document>

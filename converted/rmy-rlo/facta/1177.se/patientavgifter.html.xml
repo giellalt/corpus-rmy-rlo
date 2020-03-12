@@ -1,0 +1,98 @@
+<document xml:lang="rmy-rlo" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1278</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rlo"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Regler-och-rattigheter/Patientavgifter</origFileName>
+    <parallel_text xml:lang="eng" location="patientavgifter.html"/>
+    <parallel_text xml:lang="fin" location="patientavgifter.html"/>
+    <parallel_text xml:lang="fit" location="patientavgifter.html"/>
+    <parallel_text xml:lang="sma" location="patientavgift.html"/>
+    <parallel_text xml:lang="sme" location="patientavgifter.html"/>
+    <parallel_text xml:lang="smj" location="patientavgifter.html"/>
+    <parallel_text xml:lang="swe" location="patientavgifter.html"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmy-rka"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmn"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmu"/>
+    <parallel_text location="patientavgifter.html" xml:lang="yid"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Pacientongi košti / Patientavgifter - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib lovarickaRomska lovara</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Pacientongi koštiPatientavgifter</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">So počinel pe?</p>
+    <p xml:lang="swe">Hälso- och sjukvården ando Švedo si maj but finansovano khatar e landstings- thaj komunalno skato. E košta so počinel pe jekh medicinsko vizita si feri jekh cino kotor anda e čači košta.</p>
+    <p xml:lang="swe">Kado naj pa o privatno medicinsko žutipe, sar eksemplo plasticno kirurgia so naj medicinsko motivovano. Atunči počinel pe e intrego košta korkori.</p>
+    <p type="title" xml:lang="swe">Diferentne si e košti ande diferentne landsting thaj komuni</p>
+    <p xml:lang="swe">Landstingen thaj e komuni šaj korkori te alosaren keči e košti si te kostulin kana žal pe medicinske viziti thaj kaver žutimata ande medicinsko žutipe. Krujal mezin e košti sa kade naj bari diferencia ande e diferentne landsting. Te si kade ke trobuj but medicinsko žutipe si jekh högkostnadskydd (maksialno počin), pa kado skrija ande kaver kotor.</p>
+    <p xml:lang="swe">Sastimasko thaj nasvalengo žutipe (Hälso- och sjukvård) si pe jiva ande but landsting thaj regioni kana si o manuš tela 20 berš.</p>
+    <p xml:lang="swe">Kadal teluno košti si po o phuterdo žutipe thaj khaj privatne so skirisarde jekh kontrakto kusa jekh landsting.</p>
+    <p xml:lang="swe">Te si kade ke si te sovel ande bolnicia kostulij kodo maksimalno 100 sako rači.</p>
+    <p xml:lang="swe">Kana žal pe khaj o doktori ande vårdcentralen si jekh variatsia maškar 100 thaj 300 koroni. Kana žal pe khaj jekh gynekologo vaj šavorongo doktori si jekh variatsia maškar 200 thaj 350 koroni. Te si kade ke lel pe jekh remiso khatar kadal doktora pe jekh röntgen či trobuj pe te počinel pe variso ekstra. Kana žal pe khaj kaver specialistura počinel pe maškar 150 thaj 350 koroni. Kana žal pe akutno ande jekh bonicia počinel pe maškar 220-380 koroni. Kana žal pe khaj sjuksköterska vaj pe sjukgymnastika šaj e košta te avel maškar 50-220 koroni pe sako vizita.</p>
+    <p xml:lang="swe">Mamografia te dikhhel pe vaj si kolinesko cancer thaj kaver celake prubi khatar e mačyca, gynekologycno sastimaski kontrola, šaj te kostulij ži khaj 200 koroni.</p>
+    <p xml:lang="swe">Uni landsting len vi love kana si transportura kusa ambulanso vaj helikopteri.</p>
+    <p xml:lang="swe">Uni landsting počinen vi palpale e vizitaki košta te si kade ke žukardas o manuš but vrama pala e vrama so sas dini anglunes. Te či del pe jekh notifikatsia ke či birij pe te avel pe pe jekh data so sas gata maj anglal počinel pe anda kodi vrama vi kade.</p>
+    <p xml:lang="swe">Vaj alosarel pe phuterdo vaj phandado žutipe ande jekh kaver landsting sar kote khaj si o manuš skirisardo počinel pe sa kodol patsientonge košti so si ande kodo landsting khaj lel pe o žutipe.</p>
+    <p type="title" xml:lang="swe">Kaver žutimaske instansura šaj te len kaver košti</p>
+    <p xml:lang="swe">Kodo kon žal zafšom privatno vaj inkrel jekh nasvalengi insuransa khatar e buči šaj te počinel kaver košti.</p>
+    <p xml:lang="swe">Ande o komunalno sastimasko thaj nasvlalengo žutipe, so si vi maj phurenge khaj si nasvale, si vi kaver košti so lel pe khatar e sjuksköterska.</p>
+    <p xml:lang="swe">Pe Sveriges Komuner och Landstings internetoski righ si adresi khaj komuni, landsting thaj regioni. Kodol si aktualne thaj den jekh maj barvali informatsi pa e diferentne košti.</p>
+    <p type="title" xml:lang="swe">Košti e manušenge so si citizentura ande kaver thema</p>
+    <p xml:lang="swe">Manuš so si citizentura ande kaver them inkren čačipe khaj akut žutipe ando Švedo.</p>
+    <p xml:lang="swe">Avel pe anda jekh kaver EU-them, EES-them vaj anda Schwaizo si te lel pe jekh europako insuransovo kartcia pesa, EU-kartcia, khaj sikavel pe ke si e manušes čačipe khaj akutno žutipe normalne kostenca. Te naj tusa kodi kartcia šaj te avel kade ke počinel pe intrego košta.</p>
+    <p xml:lang="swe">Te si kade ke kamel pe žutipe khaj naj akutno thaj či kamel pe te počinel pe intrego košta trobuj te avel jekhes jekh certifikatsia anda pesko them khaj sikavel ke o them počinela e kaver košta. Te si kade ke naj kodo počinel pe intrego košta korkori.</p>
+    <p xml:lang="swe">Maj but anda e manuš so aven anda thema so si avri anda EU, EES thaj Schwaizo počinen intrego žutimaski košta vi te si kado feri pa akutno žutipe.</p>
+    <p type="title" xml:lang="swe">Te kerdžol jekh švedano nasvalo ande kaver them</p>
+    <p xml:lang="swe">E europako insuransovo kartcia, so šaj te mangel pe khatar Försäkringskasan, del e švedickone citizenton čačipe khaj akutno žutipe ande kaver EU-,EES-thema thaj Schwaizo pe sa kodol ekonomicne konditsi sar penge citizenton. Ande e nordicne (nordiska) thema či trobuj te sikavel pe kodi kartcia.</p>
+    <p xml:lang="swe">Te trobuj e manušes medicinsko žutipe ande kaver thema so naj ande EU-,EES-thema thaj Schwaizo či birij pe te lel pe palpale peske love, či anda Švedo thaj či anda kodo them khaj si o manuš. Anda kado si importanto te avel e manušen jekh privatno tradimasko insuranso (privat reseförsäkring) so žutij e manušeske e košti sar eksemplo po transporto. Te si e manušes jekh kheresko insuranso (hemförsäkring) si butivar ande kodi insuransa jekh tradimasko insuranso so žutij ande kasave košti.</p>
+    <p xml:lang="swe">Försäkringskasans internetoski righ inkrel maj but informatsia sar lel pe žutipe kana si o manuš ande kaver them.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Högkostnadskydd (maksimalno žutimasko počinipe)</p>
+    <p xml:lang="swe">Si jekh maksimalno košta keči jekh manuš trobuj te počinel pe sastimasko thaj nasvalengo žutipe (hälso och sjukvård) Kodo bušol högkostnadskyt thaj so sa kade kerdo ande sa e landsting. Kadi kartci žal ande sa e landsting kana mangel pe žutipe ande e diferentne landsting.</p>
+    <p xml:lang="swe">Högkostnadskyddet si ke tela jekh dešuduje šoneski vrama thaj khote počinel pe maksimalno 1 100 koroni ande pacientonge košti. Lel pe te ginavel pe khatar e angluni vizita, sajek si kana kodi si tela o berš. Kana počindas pe 1 100 koroni lel pe jekh frikort so inkrel tela e resti ande kodi dešuduje šoneski vrama. Kana nakle kodol dešuduj šon lel pe te počinel pe pale pe peske viziti ži pun počinads pe e 1 100 koroni po dujto.</p>
+    <p xml:lang="swe">Högkostnadskyddet či žutij butivar</p>
+    <list>
+      <p type="listitem" xml:lang="swe">e košti so kerdžon so si te aven počinde pe sako džes kana sovel pe ande bolnicia</p>
+      <p type="listitem" xml:lang="swe">vakcinatsi</p>
+      <p type="listitem" xml:lang="swe">certifikatura (nasvalo lil) thaj sastimaske eksaminaci</p>
+      <p type="listitem" xml:lang="swe">kaver angla nasvalimaske eksaminaci, sar eksemplo mamografiake kontroli</p>
+      <p type="listitem" xml:lang="swe">košta kana či avel pe jekh vramaki vizita</p>
+      <p type="listitem" xml:lang="swe">košta pe jekh kopia anda o journalo</p>
+      <p type="listitem" xml:lang="swe">ekspediciaki košta, so počinel pe kana počinel pe po krediti vaj kana bišaven jekh faktura khere.</p>
+    </list>
+    <p xml:lang="swe">Ande dandengo žutipe či žutij maj butivar omedicinsko žutimasko högkostnadskydd.</p>
+    <p xml:lang="swe">Numa šaj o högkostnadskyddet te ginadžol jekhe manušeske pe dandengo sastipe kana trobuj e manušes jekh lungo vramako žutipe ande pesko personalno žutipe sako džes. Högkostnadskyddet šaj vi te ginadžol te si e manušes jekh nasvalipe thaj o dandengo sastipe ginadžol ande kodo nasvalipe. Te si jekhes jekh nasvalipe so kerel ke vazdel pe o riziko pe dandenge dukhajimata vaj te si problemo te inkrel pe pesko personalno mujeski hygiena šaj te lel pe jekh počin so si andre ando högkostnadskyddet.</p>
+    <p xml:lang="swe">Pe medicina so si avri skirisardo khatar doktori, sjuksköterska vaj kaver manuš so šaj te skrin avri recepti si pe kado jekh kaver högkostnadskyddet so phenel ke počinel pe maksimalne 2 200 ande jekh dešuduje šoneski perioda. Medicina so naj pe recepta či ginadžol pe ande kado högkostnadskydd.</p>
+    <p xml:lang="swe">Pala kodo si vi högkostnadskydd pe nasvalenge tradimata thaj pe teknicne žutimata so si decidirime khatar e landstingen. Kodo značil pe ke e reguli šaj te aven ekcera maj kaver maškar e diferentne landsting.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Bi počinimasko sastimasko- thaj nasvalengo žutipe (hälso- och sjukvård)</p>
+    <p xml:lang="swe">Uni žutimata ande sastimasko thaj nasvalengo žutipe šaj te avel pe jiva khatar uni landsting. Medicini so si avri skirime pe kodol viziti počinel pe vi kade.</p>
+    <p xml:lang="swe">Viziti pe mödravårds- thaj barnavårdsmottagningar (MVC thaj BVC)</p>
+    <p xml:lang="swe">Ando skolhälsovården (skolako sastimasko žutipe) si pe jiva thaj sa so del pe khote sar vakcinatsi si pe jiva.</p>
+    <p xml:lang="swe">Ande e maj but landsting či počinen šavora thaj ternimata ži khaj 20 berš ande sastimasko- thaj nasvalengo žutipe, sar eksemplo viziti khaj vårdcentral thaj ungdomsmottagning.</p>
+    <p xml:lang="swe">Žutipe thaj medicini so del pe pe nasvalimata so si nasul savorenge (almänfarlig) pala o zakono Smittskyddslagen si pe jiva.</p>
+  </body>
+</document>

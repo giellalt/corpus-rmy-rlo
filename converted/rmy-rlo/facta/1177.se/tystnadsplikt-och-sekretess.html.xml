@@ -1,0 +1,81 @@
+<document xml:lang="rmy-rlo" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1080</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rlo"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Regler-och-rattigheter/Tystnadsplikt-och-sekretess</origFileName>
+    <parallel_text xml:lang="eng" location="professional-secrecy-and-confidentiality.html"/>
+    <parallel_text xml:lang="fin" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="fit" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="sma" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="sme" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="smj" location="tystnadplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="swe" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmy-rka"/>
+    <parallel_text location="tystnadsplikt-och-sekretess-.html" xml:lang="rmn"/>
+    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmu"/>
+    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="yid"/>
+    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Vorbimaski konfidensia thaj sekreteso (garajipe) / Tystnadsplikt och sekretess - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib lovarickaRomska lovara</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Vorbimaski konfidensia thaj sekreteso (garajipe)Tystnadsplikt och sekretess</p>
+    <p xml:lang="swe">Kana boldel pe o manuš khaj o žutipe si kodo važno te ačarel pe jekh pačape khaj e bučara. Pačape si važno te ačarel pe o manuš pačako thaj te tromal te vorbij phuterdes pa sa e problemura thaj symtomura so si e manušes te birij kodo te lel čačo žutipe. Anda kodo si sa e bučara so keren buči ande hälso- och sjukvården (sastimasko thaj nasvalengo žutipe) tela tystnadsplikt.</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe">Grundosko principo si kodo ke či sosko bučari šaj te mukhel avri informatcia pa jekheste te si kade ke či kamel o manuš kodo. Sar eksemplo informatcia pa nasvalimata khaj si jekhes, vaj pa o žutipe khaj lel pe vaj privatno situatcia.</p>
+    <p xml:lang="swe">Ando sjukvården si sa pacienton sekretoso thaj sajek si vaj e pacientura si anda Švedo vaj na.</p>
+    <p xml:lang="swe">Tystnadsplikten si inkerdo tela zakono offentlighets- och sekretesslagen kodolenge si keren buči ando them, landsting thaj komuni thaj e kaver so keren buči tela privatne firmi ando žutipe thaj von si te inkren pe tela o zakono pacientsäkerhetslagen. Kodo bučiari so phagel o tystnadsplikten šaj te lel krisi ande kris vaj te lel kaver kris khatar kaver themeske departamentura.</p>
+    <p xml:lang="swe">Maškar e bučiara ande bolnica vaj vårdcentral si tystnadsplikt. Feri kodol so keren buči ande jekh than thaj žutin sa kodole manušes šaj te vorbin jekh kaveresa pa e pacientongo sastipe thaj personalne bučia. Kodo značil pe sar eksemplo ke jekh doktori šaj te diskutulij pa jekh pacientosko žutipe kusa jekh kolega te si kade ke vi vov kodoles žutij.</p>
+    <p xml:lang="swe">Tystnadsplikten si khaj sa e bučiara ande žutimaske thana. Sajek si vaj si kodo privatno žutipe vaj te si kodo e themesko thaj sajek si vaj kodo si doktori, sjuksköterska (bolnicaki phej) vaj administrativno bučari. Tolmacura thaj kodol so bolden šiba thaj keren buči ando hälso- och sjukvården inkren pe tela tystnadsplikt. Tystnadsplikt si vi pe kodol manuš so keren buči ande apoteka.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Manuš alosarel korkori</p>
+    <p xml:lang="swe">Zakonura phenen ke vi e maj paše anda familja naj musaj te žanen so si kerdo thaj phendo ande bolnicia te na kames von te žanen. Butivar pušen e bučara vaj šaj te mukhen avri informatcia thaj kaske atunči te den kodo avri. Atunči alosarel o manuš korkori vaj si te žal avri e inormatica pa jekheste. Sar eksemplo birij o manuš angla jekh operatcia te phenel e bučiarenge ke von šaj te den avri informatcia pa operatcia kana o manuš uštel pa operatcia.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Šavorenge thaj ternenge so si tela 18 berš</p>
+    <p xml:lang="swe">Šavorenge thaj ternenge so si tela 18 berš si sar regulo kodo ke o gazda inkrel čačipe te lel parta ande peske šavoresko žutipe thaj kodo so si skirisardo ando žurnalo. Numa šavora thaj terne so si tela 18 berš šaj vi te inkren o čačipe kaske thaj kana e bučara aj te sikaven e informatsia. Kodo žnačij kodo ke e gazdi vaj kaver paše manuš či inkren mindik o čačipe te žanen sa so sas phendino thaj kerdo ande e žutimaske thana vaj ande žurnalura.</p>
+    <p xml:lang="swe">Naj či soski beršeski granitsa kana o šavoro porunčij feri kodo si dikhlo khatar sako individa.</p>
+    <p xml:lang="swe">Te si kade ke ghindoj pe ande žutimaske thana vaj socialoske e šavoreske si čores khaj pesko vårdnadshavare, vaj ke o vårdnadshavaren či lel sama pala pesko šavoro, či del pe avri o journalo atunči.</p>
+    <p xml:lang="swe">Tuke so si tela 18 berš thaj žas ande jekh ternikano than - ungdomsmottagning inkerdžol o tystnadsplikten ande maj buča. E bučarengo sekreteso šaj te padžol te si kade ke korkori phenes ke šaj te avel kade vaj te si čiro sastipe ande dar.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Ekseptcia khatar o tystnadsplikten</p>
+    <p xml:lang="swe">Vi te si o sekreteso thaj tystnadsplikt zurale zakonura šaj kadal te padžon univar, vi te na das pestar e pacienta peski vorba. Kodo si kana</p>
+    <list>
+      <p type="listitem" xml:lang="swe">jekh krisi-,policia-, kronofogde- vaj skattemyndigheten mangel te žanen vaj o manuš si ande žutimaske thana</p>
+      <p type="listitem" xml:lang="swe">socialstyrelsens råd för rättsliga, sociala och medicinska frågor rodel informatcia pe peski buči</p>
+      <p type="listitem" xml:lang="swe">transportstyrelsen rodel informatcia te dikhel vaj šaj te avel manušen tradimasko lil (körkort, traktorkort vaj taxiförarlegitimation)informatcia trobuj kana si te zumavel pe te phandavel pe tele jekhe studentos anda högskoleutbildning</p>
+      <p type="listitem" xml:lang="swe">informatcia trobuj angla jekh krisako rodipe (rättsmedicinsk undersökning).</p>
+    </list>
+    <p xml:lang="swe">Kana si ghindo ke si varisave kriminalne bučia kerde so šaj te del maj cera jekh berš temlica birij e bučiara ande žutimaske thana te phagen o zakono pa tystnadsplikten thaj te den opre e buči khaj e policia thaj te den atvetura khaj e policia- thaj åklagarmyndigheterna. Eksemplo pe kasave kriminalne bučia si mudaripe, te kerel pe zor thaj zuralo maripe. Si vi uni kriminalne bučia ande trafika sar kana manuš pien alkoholo thaj traden vurdon kana žutimaske manuš si te den kodo opre.</p>
+    <p type="title" xml:lang="swe">Specialne ekspektsi (undantag) šavorenge</p>
+    <p xml:lang="swe">Kana žal e buči pa šavora phagel pe o tystnadsplikten te si ghindo ke si variso kriminalno kerdo karing o šavoro. Kodo šaj te avel pa kodo ke o šavoro mardžol vaj ke varikhon kerel seksualne nasulimata po šavoro.</p>
+    <p xml:lang="swe">Te si ghindo khatar žutimaske bučiara ke jekhe šavoreske si čores si kodola ghindura te aven opre khaj o socialo, so pala kodo del kodo opre khaj e policia. Sa kade si te žal e buči te si varisavi investigatcia so si pa šavoreski protektcia. Žutimaske bučiara musaj atunči te den avri kodi informatcia so šaj te žutij ande e investigatcia.</p>
+    <p type="title" xml:lang="swe">Försäkringskassan thaj insuransove firmi (försäkringsbolag)</p>
+    <p xml:lang="swe">Korkori alosarel o manuš vaj kamel pe te del o hälso- och sjukvården avri informatcia pe save nasvalimata si tut thaj kaske kodo si te žal. Numa te si o manuš nasvalo thaj mangel sjukersättning (love po nasvalo lil) khatar försäkringskassan šaj e žutimaske bučiara te den avri informatcia te birij pe te mangel o manuš kadal love.</p>
+    <p xml:lang="swe">Sa kadej kana san nasvalo vaj nakhes jekh aksidento thaj kames love khatar čiri insuransovo firma. Atunči si a firma khatar o insuranso čačipe te len partča khatar e informatcia te dikhen vaj si te den tut love.</p>
+    <p type="title" xml:lang="swe">Phagipe pa zakono tystnadsplikten</p>
+    <p xml:lang="swe">Vi te si kasave situatci khaj e žutimaske bučiara birin te phagen o zakono si kodo feri ande specialne situatci. Grundosko ghindo kusa o tystnadsplikt si te del pe protektcia e pacientos.</p>
+    <p xml:lang="swe">Te si kade ke e paciental el sama ke varikhon phagel kado zakono birij kodo te del kodo opre khaj e policia vaj Socialstyrelsen. Kodo šaj te žal kade dur ke o manuš lel krisi ande kris.</p>
+  </body>
+</document>

@@ -1,0 +1,65 @@
+<document xml:lang="rmy-rlo" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>843</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rlo"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Regler-och-rattigheter/Remiss</origFileName>
+    <parallel_text xml:lang="eng" location="remiss.html"/>
+    <parallel_text xml:lang="fin" location="remiss.html"/>
+    <parallel_text xml:lang="sme" location="remiss.html"/>
+    <parallel_text xml:lang="swe" location="remiss.html"/>
+    <parallel_text location="remiss.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Remiso / Remiss - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib lovarickaRomska lovara</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">RemisoRemiss</p>
+    <p xml:lang="swe">Univar trobuj te les žutipe ande jekh kaver žutimasko than sar kodo than so žutij tut. Atunči trobuj tut univar jekh remiso te biris te areses kote.</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe">Te žas ande jekh vårdcentral vaj ande jekh kaver akutno than so del tut žutipe či trobuj tut jekh remiso. Kote kerel pe jekh anglunimasko dikhipe pe kodo žutipe so tut trobuj. Te trobuja te žas khaj jekh kaver spesialisto, sar eksemplo jekh morčako doktori vaj jekh fysioterapeuto, sjukgymnasto – so žutij gymnasitikasa.</p>
+    <p xml:lang="swe">Remiso inkrel informatsia pa kodo savo tut žutipe trobuj, šaj te avel jekh doktoritsko dikhipe, ghindo vaj žutipe. Remiso sikavel vi sar eksemplo informatsia sar tuke si, save sumtomura tut si thaj save nasvalimata thaj dukha tut sas maj anglal.</p>
+    <p xml:lang="swe">Butivar skrij o doktori avri o remiso, numa šaj vi te avel kade ke kaver žutimaske bučara birin te keren kodo, sar eksemplo jekh bolnicaki phej - sjuksköterska pe jekh barnavårdscentral.</p>
+    <p xml:lang="swe">Butivar či dikhes korkori o remiso, numa si te žanes sostar sas o remiso bišado thaj savo žutipe tut žukarel thaj kana si te aves akarhardo khaj žutimasko than so lel o remiso khatar o kaver than. Si vi te žanes sode vrama tsirdela ži pun aresesa khaj e bolnica, sar khaj šaj te avel pe jekh regionalno bolnica.</p>
+    <p xml:lang="swe">Pe uni žutimaske thana musaj mindik te avel jekhes jekh remiso khatar jekh doktori te birij o manuš te aresel kote. Save žutimata thaj save žutimaske thana mangen remiso trobuj korkori te žanes avri. Save reguli so si pe sako than thaj remiso porunčij sako landsting thaj regiona korkori.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Remiso ande jekh kaver landsting vaj regioni</p>
+    <p xml:lang="swe">Univar birij o manuš te lel remiso khaj jekh specialist žutipe ande jkhe kaver landsting vaj region, sar eksemplo te naj kodo žutipe kote khaj tu trajis. Atunči počinel čiro landsting vaj regioni e tradimata khaj kadal thana thaj vi čire košti.</p>
+    <p xml:lang="swe">Te si kade ke les jekh remiso khaj jekh phuterdo specialist žutipe, kana či trobus te ašos te soves, šaj te alosares kasavo žutipe akharkhaj ando intrego them. Jekh gråstarrsoperatsia pe jakh si jekh kasavo žutipe. Atunči počines korkori čire tradimata thaj čire košti.</p>
+    <p xml:lang="swe">Te si kade ke alos te manges phuterdo specialst žutipe ande jekh kaver landsting vaj regioni si atunči važno te žanes avri save remisreguli si pe kodo žutimasko than khaj kames te areses.</p>
+    <p xml:lang="swe">Te si kade ke musaj te avel tut jekh remiso ande čiro landsting vaj regiona kana rodes žutipe musaj atunči vi te avel tut remiso kana rodes žutipe pe kodol thana, trobuj tut vi atunči jekh remiso ande kaver landsting thaj regiona vi te naj lenge musaj kote te avel remiso.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Egenanmälan – Kana del pe opre korkori</p>
+    <p xml:lang="swe">Ande but landsting birij pe butivar direktno te mangel pe vrama khaj jekh specialist doktori, bi remisosko. Uni anda e žutimaske thana mangen te skrij jekh egenanmälan, so univar vi bušol manušesko remiso vaj kana mangel pe korkori žutipe.</p>
+    <p xml:lang="swe">Kana skrij pe jekh kasavo lil khaj žutimasko than skrij pe sar o manuš ačarel pe thaj sostar mangel pe žutipe. Univar si aba gata lila pe jekh kasavo - egenanmälan. Te si kade ke kodo kon dikhel pe čiro lil ghindoj ke tut čačes trobuj žutipe atunči les vi jekh akharipe khere khaj o žutimasko than.</p>
+    <p xml:lang="swe">Jekh egenanmälan te les žutipe ande jekh kaver landsting vaj regioni biris feri te skrij korkori te si kade ke naj musajipe ande čiro landsting vaj regiona pe jekh remiso.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Sode vrama trobuj te žukares?</p>
+    <p xml:lang="swe">Tut si čačipe te vorbis čire doktorosa khaj trobus te les remiso. Khaj uni than šaj te avel lunge žukarimata. Atunči šaj manges remiso khaj jekh kaver than khaj si maj skurte žukarimaske vrami thaj te si kade ke trobuj tut maj sigo žutipe trobuj vi kodo te avel andre skirisardo ando remiso. Numa mindik ašol pe žutimasko than so lel o remiso sode vrama si te žukares pe vrama.</p>
+    <p type="title" xml:lang="swe">Vårdgarantin - žutimaski garantsia si diferentno</p>
+    <p xml:lang="swe">Kana les remiso khaj jekh žutimasko than ande čiro landsting vaj regioni atunči inkerdžo e themeski žutimaski garantsia - den nationella vårdgarantin, kado phenel ke tut si čačipe te les žutipe tela jekh vrama. Pe specialist thana či trobus te žukares maj but sar 90 džes ži pun les jekh žutimaski vrama.</p>
+    <p xml:lang="swe">Kana les jekh remiso thaj alosares žutipe ande jekh kaver landsting vaj regiona atunči naj tut e žutimaski garantsia maj but. Atunči dikhel pe pala čire medicinake trobujimata po žutipe so sikavel sode vrama si te žukares.</p>
+    <p xml:lang="swe">Patsientongi košta pe jekh vizita koštulij diferentno, kodo si khaj o manuš žal thaj save žutimata trobuj thaj khaj kodo si bišado. E košta si andre ande högkostnadsskyddet.</p>
+    <p xml:lang="swe">Tela kodi vrama so žukares te areses khaj kodo than so o remiso mangel inkrel o doktori so skirisardas o remiso e responsebilita te les kodo žutipe so tut trobuj tela kodi vrama. Te avla maj čores tuke tela kodi vrama so žukares pe vrama si te les kontakto kodoles so skirisardas o remiso.</p>
+  </body>
+</document>

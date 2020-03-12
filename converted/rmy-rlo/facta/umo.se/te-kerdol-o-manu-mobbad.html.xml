@@ -1,0 +1,67 @@
+<document xml:lang="rmy-rlo" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>646</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rlo"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Romska-lovara/Te-kerdol-o-manu-mobbad</origFileName>
+    <parallel_text xml:lang="fin" location="kiusatuksi-joutuminen.html"/>
+    <parallel_text xml:lang="fit" location="jos-kokkee-mobbausta.html"/>
+    <parallel_text xml:lang="sma" location="jis-irhkesavva.html"/>
+    <parallel_text xml:lang="sme" location="jus-givssiduvvo.html"/>
+    <parallel_text xml:lang="smj" location="jus-nuppastuvva.html"/>
+    <parallel_text xml:lang="swe" location="om-man-mobbas.html"/>
+    <parallel_text location="baschi-diro-bliddrar-miakt-kerrad.html" xml:lang="rmu"/>
+    <parallel_text location="kana-avelas-holjavel.html" xml:lang="rmf"/>
+    <parallel_text location="te-kerdol-o-manu-belenkerevo.html" xml:lang="rmy-rka"/>
+    <parallel_text location="manu-te-ulo-mobimo.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Te kerdžol o manuš mobbad</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Te kerdžol o manuš mobbad</p>
+    <p xml:lang="swe">Kana nakhel pe mobbing si atunči lokho te ačarel pe brigako thaj čores. Univar kerel kodo kade but po trajo ke e manuš ačaren pe zurales čores thaj zumaven te na šon pe ande situatsi khaj so kodol mansuh so keren mobbing. Numa konik či trobuj čačimasa te garudžol pe ke kaver keren mobbing.</p>
+    <p xml:lang="swe">Uni khaj nakhen mobbing len te pacian ke variso si čores lenca. Kam den pe ghindo te paruven pe varisar te na keren le mobba e kaver. Numa naj te avel kade ke si te paruvel pe penge interesura vaj ghada, anda kodo ke kaver manuš si nasul. Mindik si e manušes čačipe te na avel mobbad.</p>
+    <p type="title" xml:lang="swe">Kana si mobbing?</p>
+    <p xml:lang="swe">Si mobbing kana varikhon si nasul, vaj phenel nasulimata, daravel, kerel lažavo, vaj kana varikhon marel varikhas butivar. Mobbing saj te avel kana varikhon šušugij, asal, marel, pizdel, dikhel nasules vaj phenel nasul vorbi. Mobbing si kana soha naštik te lel pe participatsia vaj kana varikhon mukhel hohavne hiri pa jekheste.</p>
+    <p xml:lang="swe">Šaj vi te avel kodo ke varikhon bišavel nasul sms vaj mail, skrij nasul komentara po facebook, ande jekh blogg vaj khaver thaneste po Internet. Vaj kana varikhon mukhel nasul patretura po Internet.</p>
+    <p xml:lang="swe">Te si varikhon nasul anda e ghada vaj ke si varikhas varisavo nasvalipe, si kodo mobbing. Te si kade ke nakhel varikhon mobbing, thaj ačarel pe čores khatar kado, šaj te mangel pe žutipe te agorij pe kodo.</p>
+    <p type="title" xml:lang="swe">Phurin pa o mobbing</p>
+    <p xml:lang="swe">Šaj te ačardžol pe nervozno kana si te phurij pe ke varikhon kerel mobbing pe jekheste. Kam si kade ke pačal pe ke šaj te maj nasul te purija pe kodo avri. Kam si kade ke lažal pe o manuš ke či ačarel pe paša e manuš. Numa naj kodo manuš došalo so si mobbad!</p>
+    <p xml:lang="swe">Te si kade ke nakhel pe mobbing si kodo maj feder te purij pe avri thaj atunči lel pe žutipe kodolesa te ašavel pe o mobbingo. Šaj te phurij pe kado sar eksemplo khaj jekh sikavno, skolako kuratoro vaj khaj e skolsköterska.</p>
+    <p xml:lang="swe">Šaj te avel jekh lašo starto te phenel pe pa o mobbing jekhe maj phureske khaj si pačape, sar eksemplo varikhaske ande familja, thaj pala kodo te phenel pe kado varikhaske ande skola.</p>
+    <p xml:lang="swe">Te žanel e skola avri ke si jekh studento khaj si mobbad, musaj von tela jokhvareste te dikhen perdal kodi buči. Von musaj vi te keren sa te na kerdžol pe pale kodo. E maj phure ande skola inkren responsebilita te len sama konik te na avel darado vaj mobbad ande skola. Si skirisardo ando zakono ke skolaki responsebilita si te na avel konik mobbad ande skola.</p>
+    <p type="title" xml:lang="swe">Mišto te žanel pe kana nakhel pe mobbing:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Soha či san tu došalo, ke san mobbad.</p>
+      <p type="listitem" xml:lang="swe">Si zakonura khaj phenen ke naj slobodo te avel mobbing pe thana sar eksemplo ande skola vaj pe bučiako than.</p>
+      <p type="listitem" xml:lang="swe">Kodo si vi kriminalno kana varikhon daravel varikhas, sar eksemplo daravel marimasa vaj ke mukhela patretura po Internet.</p>
+      <p type="listitem" xml:lang="swe">Skoli thaj bučiake thana inkren responsebilita te dikhen te ačaren pe savori sekurne.</p>
+      <p type="listitem" xml:lang="swe">Trobuj te lel pe kontakto kusa varikhon maj phuro khaj si tumen pačape, sar eksemplo dat,dej vaj varikhon kaver.</p>
+      <p type="listitem" xml:lang="swe">Šaj vi te lel pe kontakto kusa skolako kuratori vaj jekh ungdomsmottagning te lel pe žutipe.</p>
+      <p type="listitem" xml:lang="swe">Te si kade ke e skola žanel ke si varikhon mobbad musaj von te len sama te na kerdžol pe kodo maj butivar.</p>
+      <p type="listitem" xml:lang="swe">Te si kade ke kerdžol pe mobbing pe varikhaste thaj e skola či žutij šaj te del pe kodo opre khaj Barn- och elevombudet.</p>
+      <p type="listitem" xml:lang="swe">Le kontakto kusa e policia te mukhel varikhon patretura pe tute po Internet bi slobodako. Kodo si kriminalno pala personuppgiftslagen. Te avel pe nasul vaj te kerel pe mobba varikhas po Internet si sa kade kriminalno sar ande skola, avral vaj po fritidsgården.</p>
+    </list>
+    <p xml:lang="swe">» Mobbing</p>
+  </body>
+</document>

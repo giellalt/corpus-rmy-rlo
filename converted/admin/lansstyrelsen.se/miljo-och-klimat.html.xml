@@ -1,0 +1,82 @@
+<document xml:lang="rmy-rlo" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>701</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rlo"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/skane/rom-lo/miljo-och-klimat/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="miljo-och-klimat.html"/>
+    <parallel_text xml:lang="fin" location="miljo-och-klimat.html"/>
+    <parallel_text xml:lang="fit" location="miljo-och-klimat.html"/>
+    <parallel_text xml:lang="sma" location="miljo-och-klimat.html"/>
+    <parallel_text xml:lang="sme" location="miljo-och-klimat.html"/>
+    <parallel_text xml:lang="swe" location="miljo-och-klimat.html"/>
+    <parallel_text location="miljo-och-klimat.html" xml:lang="rmu"/>
+    <parallel_text location="miljo-och-klimat.html" xml:lang="rmy-rka"/>
+    <parallel_text location="miljo-och-klimat.html" xml:lang="rmf"/>
+    <parallel_text location="miljo-och-klimat.html" xml:lang="rmn"/>
+    <parallel_text location="miljo-och-klimat.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Miljö &amp; klimato - Länsstyrelsen Skåne</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe">Miljö &amp; klimato</p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Miljö &amp; klimato</p>
+    <p xml:lang="swe"><em type="italic">Länsstyrelsen inkrel jekh vazno rolla ande buci so si pa miljö- thaj klimatoski buci ando länet. Ame keras buci pa miljö, das informatcia thaj das djanglipe thaj keras vi buci differentne cellonca, lishisaras o miljö thaj las sama te avel uzho paji. Pasha kado mangas differentne shajimata pe bucia so si pasha o miljö. </em></p>
+    <p type="title" xml:lang="swe">Miljömål – Cello po miljö</p>
+    <p xml:lang="swe">Riksdagen las e decizia te avel jekh khiddino politika pa miljö tthaj te inkerdjil kodo ando Shvedo. O maj baro cello si ke e kaver generatcia si te len perdal jekh them khaj e bare problemura kusa o miljö si phuterde. Länsstyrelsen inkrel e buci te inkrel e intrego buci pa e regionalne thana te aresel pek haj kadal kvalitetne cellura ando miljö.</p>
+    <p xml:lang="swe">Shvedosko kvalitetno cello ando miljö:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Te na avel bare parujimata ando klimato</p>
+      <p type="listitem" xml:lang="swe">Uzho lufto</p>
+      <p type="listitem" xml:lang="swe">Feri a naturako kishlipe</p>
+      <p type="listitem" xml:lang="swe">Te na avel acidura ande natura</p>
+      <p type="listitem" xml:lang="swe">Te lashiarel pe e ozona</p>
+      <p type="listitem" xml:lang="swe">Sekurno miljö khatar radiatcia</p>
+      <p type="listitem" xml:lang="swe">Te na avel za but goshno</p>
+      <p type="listitem" xml:lang="swe">Trajimaske paja thaj foljovura</p>
+      <p type="listitem" xml:lang="swe">Lashio kvaliteto ando grundosko paji</p>
+      <p type="listitem" xml:lang="swe">Moria ando balanso thaj te avel o skärgården zuvindo</p>
+      <p type="listitem" xml:lang="swe">Trajimaske våtmarker</p>
+      <p type="listitem" xml:lang="swe">Zuvinde vesha</p>
+      <p type="listitem" xml:lang="swe">Jekh barvalo than khaj barol zelenipe</p>
+      <p type="listitem" xml:lang="swe">Shukar miljö ande plaja-fjällmiljö</p>
+      <p type="listitem" xml:lang="swe">Lashio trajimasko miljö</p>
+      <p type="listitem" xml:lang="swe">Jekh barvalo zelenimasko- thaj animalno trajipe</p>
+    </list>
+    <p type="title" xml:lang="swe">Hälsoskydd – Sastimaski protektcia</p>
+    <p xml:lang="swe">Länsstyrelsen kerel buci te lel sama, te zutij zhi pun aresel thaj te malavel tele nasulimata so shaj te malavel ande miljö, vi avral thaj vi ande khera. Sastimaski protektcia si te malavel tele kodo te na nasvajven e manush. Ame dikhas pe malajimata, vibratci, luftosko mel thaj radiatci. Ande e buci so si ande Länsstyrelsen si vi te dikhel pesa e kommuni keren buci kadalesa thaj pala kodo te del pe len lashie ghindura pa kodo. Kommunalne decizi pa sastimaski protektcia shaj te vazdel pe appelatcia khaj Länsstyrelsen.</p>
+    <p type="title" xml:lang="swe">Klimato thaj energia</p>
+    <p xml:lang="swe">Länsstyrelsen inkrel khetanes e regionalno buci te na aven avri gazura. Länsstyrelsen kerdas khetanes kusa e kommuni thaj län, raj thaj kaver thaj kodol kerde jekh klimatoski- thaj energiaki strategia so sikavel sar ame si te aresas ketanes khaj e klimatonge cellura thaj khaj e energiako lashipe. Ame keras vi buci te lashiaras o them khaj jekh acharipe ke o klimato parudjiol pet haj shaj te zukaras ke o paji vadela pe maj but e bersh so pashion.</p>
+    <p type="title" xml:lang="swe">Situatcia ando miljö</p>
+    <p xml:lang="swe">Länsstyrelsen inkrel o lishipe pa miljö ande länet. Te dikhel pe thaj intrego vrama te lishij pe e situatcia pa o miljö si jekh anda amare bare bucia. Resultatato lel pe pala kodo thaj dikhel pe so sas e cellura thaj pala kodo shaj vi te dikhel pe so si o maj baro dar thaj zumavel pe te malavel pe kodo tele. O lishipe kerel pe jekh lungo vrama ke trobuj but buci te kerel pe thaj trobuj te dikhel pe vaj o manush romuj e buci vaj e natura korkori kerel kodo.</p>
+    <p type="title" xml:lang="swe">Paji thaj pajeski buci</p>
+    <p xml:lang="swe">Pajeske thana musaj te aven lashime te aven uzhe pajeske thana te birin e manush te pen uzho paji. Shvedo si ulado ande pansh pajeske distriktura. Jekh länsstyrelse ande sako distrikt si kodol kon inkrel e responsebiliteta ande e pajesko miljö ande kodol distriktura Bucia so si pasha e pajeske than trobuj te len specialne licensi Exempel pe vattenverksamhet pe pasjeske bucia si kana kerel pe elektriciteta anda paji thaj kana kerel pe fallura krujal te na avel za but paji thaj kana kerel pe tunnlura, podura thaj kaver kasave bucia.</p>
+    <p type="title" xml:lang="swe">Bucia so shaj te paruvel o miljö</p>
+    <p xml:lang="swe">Länsstyrelsen inkrel jekh delegatcia so dikhel perdal kadal bucia thaj kerel prubi thaj pala kado del kadi delegatcia permissia bucian so keren bucia so birin te rumun o miljö pala o zakono miljöbalken. Exemplo pe bucia si shaj te aven nasul e miljö si på miljöfarliga verksamheter är ytbehandlingsanläggningar, gjuterier, pappersbruk, vindkraftverk, värmeverk ,energianläggningar, sågverk, avfallsanläggningar, avloppsreningsverk, grus- och bergtäkter thaj gruvor Ande sako kommuna si vi jekh kommunalnot han bordasa so lel sama oala e bucia so si nasul po miljö. Ame das te zutipe thaj dikhas sar lengi buci djal maj angle. Pasha kado dikhel o Länsstyrelsen vi e kaver generationenge malaripe ande phuv thaj paji thaj buciasi kodolesa te lashiarel kodol problemi.</p>
+  </body>
+</document>

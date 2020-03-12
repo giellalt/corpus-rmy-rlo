@@ -1,0 +1,81 @@
+<document xml:lang="rmy-rlo" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>721</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rlo"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Regler-och-rattigheter/Vardgaranti</origFileName>
+    <parallel_text xml:lang="eng" location="vardgaranti.html"/>
+    <parallel_text xml:lang="fin" location="vardgaranti.html"/>
+    <parallel_text xml:lang="fit" location="vardgaranti.html"/>
+    <parallel_text xml:lang="sma" location="vardgaranti.html"/>
+    <parallel_text xml:lang="sme" location="vardgaranti.html"/>
+    <parallel_text xml:lang="smj" location="vardgaranti.html"/>
+    <parallel_text xml:lang="swe" location="vardgarantier.html"/>
+    <parallel_text location="vardgaranti.html" xml:lang="rmy-rka"/>
+    <parallel_text location="vardgaranti.html" xml:lang="rmn"/>
+    <parallel_text location="vardgaranti.html" xml:lang="rmu"/>
+    <parallel_text location="vardgaranti.html" xml:lang="yid"/>
+    <parallel_text location="vardgaranti.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Žutimaski garantcia / Vårdgaranti - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani chib lovarickaRomska lovara</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Žutimaski garantciaVårdgaranti</p>
+    <p xml:lang="swe">Žutimaski garantcia phenel feri savi maksimalno vrama o manuš trobuj te žukarel ži pun lel žutipe. Si diferentne žukarimaske vrami po žutipe, sar eksemplo 7 džes te dikhel pe kusa jekh doktori po vårdcentral vaj 90 džes te areselpe pe jekh vizita, vaj žutipe ande specialno žutipe. Te si kade ke či birij pet e lel pe žutipe tela kadal žukarimaske vrami kote khaj rodel pe žutipe, trobuj te avel kade ke šaj te lel pe žutipe po kaver than. Univar šaj o manuš te avel bišado khaj jekh kaver landsting te lel žutipe. Mindig ašol kodo po manušte phenel jo vaj na khaj jekh žutipe pe jekh kaver than sar kote so o manuš manglas žutipe.</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe">Akutno žutipe naj tela žutimaski garantcia. Te nasvajvel o manuš sigo vaj dukhadjiol si te lel pe žutipe sar maj sigo.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Žutipe tela jekh vrama</p>
+    <p xml:lang="swe">Žutimaski garancia značil ke o manušsi te lel žutipe tela jekh vrama. Kodo si jekh regulosko kotor ande hälso- och sjukvårdslagen. Žutimaski garantcia phenel sode vrama šaj nakhel ži pun/kaj lel pe žutipe khatar landstinget vaj regiona. Numa žutimaski garantcia či phenel kana vaj savo žutipe o manuš si te lel.</p>
+    <p xml:lang="swe">Te si kade ke lel pe vrama pe vizita vaj žutipe, so naj ande žutimaski garantciake vrami, si te avel kade ke lel pe žutipe nade jekh kaver žutimasko than. Šaj te avel pe jekh vårdcentral, jekh bolnica vaj pe privatne žutimasko than. Šaj te del pe propozalo khaj kamel pe te džal, numa te si e žutimaski garantcia te žal či birij pet e alosarel pe sar kamel pe korkori. Te si kade ke či kamel pe žutipe ando kaver than sar kote so o manuš rodas šaj o manuš te phenel ke či kamel žutimaski garantcia. Kodo šaj te kerel kodo ke o manuš žukarel maj lungo vrama. Te si kade ke o manuš paruvel pesko ghindo šaj o manuš mindig te lel kontakto kusa pesko žutori. Žutimaski garantcia lel pe kotar kodi vrama.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Žutimaski garantsia si feri ande kodo landsting vaj ande kodi regiona khaj san skirisardo</p>
+    <p xml:lang="swe">Vårdgarantin – žutimaski garantsia si feri ande kodo landsting vaj ande kodi regiona khaj san skirisardo. Te si kade ke o manuš alosarel te lel žutipe ande kaver than sar kheresko landsting san garantovano te les žutipe pe jekh vrama.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Nationell Vårdgaranti 0–7–90–90 (Nationalno žutimaski garantcia)</p>
+    <p xml:lang="swe">Pala žutimaski garantcia si e manušes čačipe khaj:</p>
+    <list>
+      <p type="listitem" xml:lang="swe"><em type="italic">0 - kontakto kusa primarno žutipe sa kodo džes. </em>Sa kodo džes so rodel pe žutipe si te lel pe žutipe kusa primarno žutipe, sar eksemplo vårdcentralen vaj sjukvårdsrådgivningen. Kodo šaj te kerel pe pa telefono vaj pa vizita. </p>
+      <p type="listitem" xml:lang="swe"><em type="italic">7 - Doktoritsko vizita angla efta džes. </em>Te si kade ke e bučara ke o manuš trobuj te dikhel doktoros si o manuš te žukarel maksimalno efta džes, sar eksemplo po vårdcentralen vaj khaj familjako doktori. </p>
+      <p type="listitem" xml:lang="swe"><em type="italic">90 - Vizita khaj specialistura ando žutipe angla 90 džes. </em>Te lel pe jekh remiso khaj jekh specialista doktori si te lel o manuš jekh vrama angla 90 džes. Kade si vi te avel kana rodel pe žutipe bi remisi. </p>
+      <p type="listitem" xml:lang="swe"><em type="italic">90 - Žutipe lel pe angla 90 džes. </em>Pala decizia pa žutipe, sar eksemplo operatcia, si te lel pe vrama angla 90 džes. </p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Kana naj žutimaski garantcia?</p>
+    <p xml:lang="swe">Žutimaski garantcia či žutij</p>
+    <list>
+      <p type="listitem" xml:lang="swe">kana avel pe po dujto (återbesök)</p>
+      <p type="listitem" xml:lang="swe">te si kade ke si medicinske doša thaj trobuj te žukarel pe maj lungo vrama sar e garantciake vrami</p>
+      <p type="listitem" xml:lang="swe">medicinsko serviso, sar eksemplo laboratoria- thaj röntgen dikhi</p>
+      <p type="listitem" xml:lang="swe">perodimata thaj eksaminatci</p>
+      <p type="listitem" xml:lang="swe">žutimaske materialosko žutipe (hjälpmedelsförsörjning), jekh ekseptcia si pruba pe khaneske šunimaske aparatura (hörapparater)</p>
+      <p type="listitem" xml:lang="swe">te phenel pe na khaj jekh žutipe ando kaver than ( te si kade ke paruvel pe ghindo birij o manuš te phenel jo khaj kodo žutipe maj angle).</p>
+      <p type="listitem" xml:lang="swe">te alosaresa te manges žutipe pe jekh vårdcentral vaj žutimasko than ande jekh kaver landsting sar khaj san skirisardo.</p>
+    </list>
+    <p xml:lang="swe">Vårdgarantin - žutimaski garantsia či dikhel vaj si te les žutipe, savo žutipe si te les thaj sode vrama jekh rodipe šaj te lel.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Žukarimaske vrami ando žutipe</p>
+    <p xml:lang="swe">Si jekh nationalno internetosko than pe vrami pa žukarimaske vrami thaj žutimaski garantciake vrami, Vantetider.se Pe kado internetosko than sikadžon sa e žukarimaske vrami ande sa landsting thaj regioni.</p>
+  </body>
+</document>

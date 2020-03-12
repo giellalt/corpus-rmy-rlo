@@ -1,0 +1,89 @@
+<document xml:lang="rmy-rlo" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>1930</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rmy-rlo"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Romska-lovara/Abortsia</origFileName>
+    <parallel_text xml:lang="fin" location="abortti.html"/>
+    <parallel_text xml:lang="fit" location="abortti.html"/>
+    <parallel_text xml:lang="sma" location="abort.html"/>
+    <parallel_text xml:lang="sme" location="aborta.html"/>
+    <parallel_text xml:lang="smj" location="abartta.html"/>
+    <parallel_text xml:lang="swe" location="abort.html"/>
+    <parallel_text location="phatra-pari-abort.html" xml:lang="rmu"/>
+    <parallel_text location="abortos.html" xml:lang="rmf"/>
+    <parallel_text location="kana-e-uvli-udel-pestar.html" xml:lang="rmy-rka"/>
+    <parallel_text location="abortiribehinavibe-o-khamnipa.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Abortsia</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Abortsia</p>
+    <p xml:lang="swe">Abortsia si kana romus jekh pharipe (graviditet). Kana del pe manuš ghindo pe abortsia šaj te avel kodolen but pušimata. Mindik šaj te dikhel pe varikhasa te lel pe atvetura pe peske pušimata. Vi kodo kon kerdas a žuvlia phara.</p>
+    <p xml:lang="swe">But doša šaj te aven kana kamel pe te kerel pe abortsia. Šaj te avel kade ke e žuvli či ačarel pe gata. Ke ačiarel pe za terni vaj ke či pasulij kodo vorta atunči ando trajo. Kam si kade ke kodo kon kerdas a žuvlia phari naj kodo manuš kasa kamel pe jekhe čavores.</p>
+    <p xml:lang="swe">Si savorren čačipe te keren abortsia thaj naj musaj te phenel pe sostar, bi došako. Kado si skirisardo ande abortsiako zakono. Si vi a žuvlia čačipe te phenel ke či kamel te kerel abortsia angla abortsia.</p>
+    <p xml:lang="swe">Kana kerel pe abortsia či kerel kodo komplikatsi maj angle te kamla e žuvli te perel phari maj angle. Naj či soski beršeski granitsia pe abortsia.</p>
+    <p type="title" xml:lang="swe">Angla abortsia</p>
+    <p xml:lang="swe">Kodo kon ghindoj pe abortsia šaj te inkrel but pušimata ande peste thaj atunči si mišto te vorbij kodi varikhasa. Paša jekh abortsia del pe mindik vorbimasko žutipe, vi angla thaj pala e abortsia. Te si kade ke vi o murš kamel te vorbij varikhasa šaj vi kodo te maladžol varikhasa te vorbij pe avri.</p>
+    <p type="title" xml:lang="swe">Žuvli decidulij</p>
+    <p xml:lang="swe">Mindik si mišto te vorbij pe kodolesa khasa e žuvli pelas phari thaj te vorbin pe von khetanes. Te žal si atunči vi mišto te lel pe jekh decizia khetanes. Numa te na žal te kerel pe jekh jekhutni decizia ašol e decizia mindik pe žuvli vaj voj kamel abortsia vaj na. Kodo kon kerdas a žuvlia phari či inkrel o čačipe te lel kodi decizia pe abortsia.</p>
+    <p type="title" xml:lang="swe">Te aves o partneri kodolake kon kerel abortsia</p>
+    <p xml:lang="swe">Vi te si vaj naj e decizia jekhutni, šaj kado te avel phares si e parntneroske. Pe abortsiake kliniki thaj ungdomsmottagningarna šaj te maladžol pe varikhasa so šaj te vorbij, vaj sel dujenca vaj feri e jekhesa.</p>
+    <p xml:lang="swe">Pala jekh abortsia šaj o manuš te achiarel pe vi lošako thaj vi brigako. E ghindura thaj ačarimata šaj te te parudžon vramasa thaj univar šaj von te aven lungo vrama pala e abortsia.</p>
+    <p xml:lang="swe">Vi te nakhlas but vrama šaj te lel pe kontakto varikhasa sar eksemplo ungdomsmottagning te vorbij pe o manuš avri.</p>
+    <p type="title" xml:lang="swe">Kana birij pe te kerel pe jekh abortsia?</p>
+    <p xml:lang="swe">Ži khaj 18 kurko ande žuvliako pharipe si a žuvlia čačipe te kerel abortsia bi ghindosko thaj naj musaj te avel doš khaj kado.</p>
+    <p xml:lang="swe">Pala 18 pharimasko kurko musaj te mangel pe slobodia khatar Socialstyrelsen te kerel pe abortsia. Kasavi slovodia lel pe feri te si jekh zurali doš khaj e abortsia. Eksemplo pe jekh doš si ke e si e žuvli zurales terni, si la problemo kusa alkoholo vaj narkotika, kerdžilas phari zorasa vaj ke o šavoro ando pher si zurales nasvalo.</p>
+    <p xml:lang="swe">Pala 22 kurko ando pharipe naštik te kerel pe abortsia. E doš khaj kodo si ke o šavoro birij te trajij maj dur vi te si avri lino anda dejako stato.</p>
+    <p type="title" xml:lang="swe">Khaj kerel pe jekh abortsia?</p>
+    <p xml:lang="swe">Abortsia kerel pe mindik ande bolnicia vaj pe kaver specialist kliniki, naštik te kerel pe abortsia ande jekh ungdomsmottagning. Numa te si e žuvli phari thaj del pe ghindo pe jekh abortsia birij voj te lel kontakto kusa jekh ungdomsmottagning thaj te vorbij pe avri. Šaj vi te žal pe khaj vårdcentral vaj khaj gynekologo. Von šaj te žutin kusa o kontakto khaj jekh abort klinika ande jekh bolnicia.</p>
+    <p xml:lang="swe">Šaj vi te vorbij pe korkori te mangel pe jekh vrama pe abortsia. Te žanel pe ke kamel pe te kerel pe jekh abortsia šaj atunči te avel mišto te mangel pe jekh sigo sigo ke univar si lunge žukarimaske vrami.</p>
+    <p type="title" xml:lang="swe">Sar kerel pe jekh abortsia?</p>
+    <p xml:lang="swe">Abortsi šaj te kerel pe diferentno. Save droma pe jekh abortsia zaleži pe vrama ando pharipe. Te lel pe avri ande savo kurko e žuvli si ando pharipe ginavel pe avri kana sas o angluno džes ande žuvliako šon. Či ginavel pe e vrama kana kerdas pe kodo.</p>
+    <p type="title" xml:lang="swe">Ži khaj o injato kurko</p>
+    <p xml:lang="swe">Ži khaj o injato kurko šaj te kerel pe jekh abortsia kusa medicina. Kodo bušol medicinsko abortsia. Pe uni thana inkrel pe kodo modeli ži khaj e dešudujto kurko. Atunči lel pe jekh tabletka pe abortsiako than, kado naj sa kodo sar jekh akutno p-piller. Pala e tabletka žal pe khere.</p>
+    <p xml:lang="swe">Jekh ži khaj duj džes maj palal avel pe palpale khaj e klinika te lel pe inke jekh medicina, vaj jekh tabletka khaj nakhavel pe vaj jekh tabletka khaj šol pe ande vagina (miž). Pala kodo žukarel pe klinika uni časura thaj pala kodo lel rat te šordžol thaj o pharipe romuj pe. Šaj te dukhal kadi numa atunči lel pe jekh medicina pe dukh thaj pala kodo šaj te žal pe khere sa kodo džes.</p>
+    <p xml:lang="swe">Šaj vi te agorij pe e abortsia khere, jekh khereski abortsia. Atunči lel pe e dujto tabletka khere thaj kerel pe kodi procedura khere. Numa te si kade ke si te kerel pe jekh khereski abortsia musaj e žuvli te avel opral 18 berš thaj te avel varikon ande berš paša late.</p>
+    <p xml:lang="swe">Pala uni kurke pala e abortsia avel pe palpale khaj jekh gynekologo vaj barnmorska thaj kerel pe jekh nevi testa te dikhel pe vaj inke si phari e žuvli thaj pala kodo phenel pe sar si a žuvliake. Atunči si gata jekh medicinsko abortsia pala sa kadal bučia. Univar kerel pe vi jekh eksiminacia te dikhel pe te na ašon či soske resti ande mačyca pala o šavoro. Te si resti si te kerel pe jekh skrapning – randel pe andral thaj vi cirdel pe avri kodo so ašlas lokhes. Te trobuj šaj vi te sovliarel pe a žuvlia pe kadal bučia.</p>
+    <p type="title" xml:lang="swe">Ži khaj o kurko 12</p>
+    <p xml:lang="swe">Ži khaj o kurko 12, birij pe te kerel pe jekh kirurgicno abortsia, atunči randel pe andral kodo si andral. Tela kodi operatsia si e žuvli sovljiardi. Doktori šol andre jekh instrumento andre ande mačyca. Kado instrumento si šutino ande jekh cirdimaski mašina. Lokhes cirdel pe avri sa so si andre ande e mačyca. Intrego abortsia lel karring 20 minutsi. Pala kodo žukarel pe uni časura te pehenij e žuvli ekcera. Pala uni kurke avel pe palpale pe jekh nevo dikhipe.</p>
+    <p type="title" xml:lang="swe">Pala kurko 12 ži khaj kurko 18</p>
+    <p xml:lang="swe">Pala kurko 12 musaj e abortsia te žal ande duj pasura. Atunči lel pe anglunes jekh tabletka pe klinika khaj si sa kodi tabletka kana kerel pe jekh sigo abortsia. Duj džes maj palal avel pe palpale khaj e klinika thaj lel pe neve medicini so keren te lel e mačyca te kerel buči te birij e mačyca te pizdel pestar kado avri.</p>
+    <p xml:lang="swe">Kado šaj te mezij sar kana mezij kana jekh šavoro arakhadžol thaj šaj kado vi te dukhal. Šaj te avel variatsia pe kadi buči, khatar uni časura ži khaj uni džes numa maj butenge žal kado feri jekh džes. Tela kadi vrama si e žuvli andre skirisardi ande bolnicia. Kana e abortsia si gata dikhel o doktori perdal e mačyca. Te si resti anda e mačycaki placenta (moderkaka) trobuj te randel pe e mačyca. Pala uni kurke pala e abortsia avel pe po dujto pe jekh nevo dikhipe.</p>
+    <p type="title" xml:lang="swe">Pala kurko 18 ži khaj kurko 22</p>
+    <p xml:lang="swe">Pala kurko 18 šaj feri te kerel pe abortsia te si specialne doša khaj kodi abortsia. Abortsia kerel pe atunči sa kade sar pala kurko 12.</p>
+    <p type="title" xml:lang="swe">Pala kurko 22</p>
+    <p xml:lang="swe">Pala kurko 22 naj aba slobo te kerel pe abortsia. E doš khaj kodo si ke o šavoro birij te trajij maj dur vi te si avri lino anda dejako stato.</p>
+    <p type="title" xml:lang="swe">Keči kostulij jekh abortsia?</p>
+    <p xml:lang="swe">Kečij jekh abortsia kostulij zaležij khej ando them trajij pe. Pe but thana či trobuj te počinel pe kanči te si e žuvli tela 20 berš. Te si jekh kosta kostulij kodo karring 300 koroni thaj atunči sajek si sode beršengi e žuvli si. Te kamel pe te žanel eksaktno keči e kosta si šaj te pušel pe kodo pe jekh ungdomsmottagning vaj pe jekh barnmorskemottagning. Šaj vi te lel pe kontakto kusa jekh abortsiaki klinika.</p>
+    <p type="title" xml:lang="swe">Musaj o dat vaj dej vaj o gazda e čavoresko te žanel variso?</p>
+    <p xml:lang="swe">E bučiara pe e kliniki inkren tystnadsplikt kodo si ke naj lenge slobodo te phenen kanci khanikaske. Numa te si te kerel pe jekh abortsia si atunči mišto te si varikhon kon šaj te avel sar suporto angla thaj pala e abortsia. Te si e žuvli terni phenel univar e bučiara pe kliniki te phenen ke mišto avilov ta žanglov o dat vaj dej pa kodo ke kerel pe jekh abortsia. Te si kade ke či žal te kerel pe kodo te phenel pe kado khere kam si kade ke birij pe te phenel pe kado varikhaske khaj si a žuvlia pacape. Kodo šaj te avel jekh pral, phej, varikhon ande familja, kuratoro vaj skolsköterska ande skola vaj varikhon kaver so šaj te del suporto.</p>
+    <p xml:lang="swe">Vaj o dat vaj dej vaj kaver gazda trobuj te aven kontaktirime dikhel pe khatar sako individualno buči thaj sar kamel pe te avel thaj pala dikhipe pe a žuvliake berš. So maj paše 18 berš so maj cerra žanglipe trobuj a deja, dades vaj kavere gazdas pa a žuvliake kontaktura kusa medicinsko žutipe. Butivar birij pe te kerel pe jekh diskusia sar te kerel pe kodole manušenca khaj keren buči pe kliniki. Te si kade ke o dat vaj dej vaj kaver gazda si te aven kontaktirime žanela pe kodo anglunes ži pun o kontakto avla e dadesa, dejasa vaj kavere gazdasa.</p>
+    <p xml:lang="swe">Te si kade ke naštik te žanel o dat, dej vaj kaver gazda pa abortsia, ke atunči šaj te kerel pe variso a žuvliake, atunči či len e bučiara anda klinika kontakto lenca. Jekh abortsia naj te kerel jekh nasul situatsia kaverendar anda kadi buči. Atunči šaj te lel pe žutipe khatar jekh kuratoro vaj kaver manuš so šaj te del suporto ande kadal bučia.</p>
+    <p type="title" xml:lang="swe">Pala abortsia</p>
+    <p xml:lang="swe">E džes pala abortsia si mišto te pehenij pe. Tela e anglune džes ži khaj jekh kurko šaj te aven dukha, dukha sar kana si žuvliako šon. E kurke pala e abortsia avel rat telal sar kana si a žuvliako šon thaj univar šaj vi maj but rat te avel. Keči vrama o rat avel si individualno thaj zaležij savi abortsia kerdas e žuvli. Tela kodi vrama so avel rat naštik te kerel pe seksualne aktura, te lel pe tampong vaj te najiol pe ke atunči šaj te lel pe jekh infektsia. Pala jekh vrama maškar štar ži khaj šov kurke avel a žuvliako šon palpale.</p>
+    <p xml:lang="swe">Pala jekh abortsia šaj o manuš te ačarel pe vi lošako thaj vi brigako. E ghindura thaj ačarimata šaj te te parudžon vramasa thaj univar šaj von te aven lungo vrama pala e abortsia.</p>
+    <p xml:lang="swe">Vi te nakhlas but vrama šaj te lel pe kontakto varikhasa sar eksemplo ungdomsmottagning te vorbij pe o manuš avri. Kodo šaj te kerel pe kothe kahj kado sas kerdo vaj sar eksemplo ungdomsmottagning.</p>
+    <p xml:lang="swe">Univar šaj te avel kade ke e žuvli či ačarel pe gata, vaj ke si e žuvli za terni vaj ke či pasulij kodo vorta ando trajo. Kam si kade ke kodo kon kerdas a žuvlia phari naj kodo manuš kasa kamel pe jekhe čavores. Si savorren čačipe te keren abortsia thaj naj musaj te phenel pe sostar, bi došako. Kado si skirisardo ande abortsiako zakono. Si vi a žuvlia čačipe te phenel ke či kamel te kerel abortsia angla abortsia. Naj či soski beršeski granitsa te kerel pe jekh abortsia.</p>
+  </body>
+</document>

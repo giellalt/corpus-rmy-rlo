@@ -1,113 +1,68 @@
-<document xml:lang="rmy-rlo" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1873</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rlo"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Undersokningar--prover/Mammografi</origFileName>
-    <parallel_text xml:lang="eng" location="mammografi.html"/>
-    <parallel_text xml:lang="fin" location="mammografi.html"/>
-    <parallel_text xml:lang="fit" location="mammografi.html"/>
-    <parallel_text xml:lang="sma" location="mammografi.html"/>
-    <parallel_text xml:lang="sme" location="mammografi.html"/>
-    <parallel_text xml:lang="smj" location="mammografi.html"/>
-    <parallel_text xml:lang="swe" location="mammografi.html"/>
-    <parallel_text location="mammografi.html" xml:lang="rmy-rka"/>
-    <parallel_text location="mammografi.html" xml:lang="rmn"/>
-    <parallel_text location="mammografi.html" xml:lang="rmu"/>
-    <parallel_text location="mammografi.html" xml:lang="yid"/>
-    <parallel_text location="mammografi.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Mamografia / Mammografi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib lovarickaRomska lovara</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">MamografiaMammografi</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Konklusia</p>
-    <p type="title" xml:lang="swe">Universalno</p>
-    <p xml:lang="swe">Mamografia si jekh röntgen pe žuvliako kollin(čuča) kusa jekh specialno teknika so del laše sikade patretura.</p>
-    <p xml:lang="swe">Kado dikhipe šaj te avel kerdo ghindosa te dikhel pe o sastipe, kado bušol screening, vaj kana e žuvli korkori vaj jekh doktori ačardas ke si jekh parujipe ande kollin.</p>
-    <p xml:lang="swe">Či trobuj te žal pe pe jakh mamografiaki testa kana si e žuvli phari vaj te pacal o doktori ke si jekh bari pugni ando kollin.</p>
-    <p type="title" xml:lang="swe">Preparatci</p>
-    <p xml:lang="swe">Či trobuj te avel o manuš preperime pe kado.</p>
-    <p type="title" xml:lang="swe">Sar žal kadi eksaminacia?</p>
-    <p xml:lang="swe">Kadi eksaminacia kerdžol pe pe jekh mamografiako than, so šaj te avel šutino ande jekh röntgen than ande bolnicia vaj šaj vi te avel korkori ande kaver than. Mamografia kerdžol pe vi pe specialne thana khaj dikhel pe e žuvljiange kollina vaj pe uni vårdcentraler.</p>
-    <p xml:lang="swe">Anglunes del pe atvetura pe uni pušimata so e röntgen manuš pušen pa o kollin vaj te xal pe medicina khaj si hormoni.</p>
-    <p xml:lang="swe">Pala kodo nandžarel pe opral thaj e buciara dikhen po kollin thaj dikhel vaj si varisave parujimata, vaj si varisave maj bare pipera vaj te si semnura pala operatci. Šaj te dičol pe e röntgen patretura thaj te avel maj phares te dikhel pe sar si čačimasa.</p>
-    <p xml:lang="swe">Tordžol pe tela kadi eksaminacia, thaj šol pe jekh čuči pe jekh than khaj bušol bilddetektor. E čuči kikidžol pe khetanes thaj kerdžol sar jekh tejari. Kado kerel ke o patreto kerdžol maj užo thaj ke e radiatcia avla maj cini. O vast vazdel pe opre thaj šaj te terdiol pe karing o aparato ži pun o apparato lel duj trin patretura. Pala kodo kerel pe sa kodi procedura pe dujto čuči.</p>
-    <p xml:lang="swe">Šaj te ačardžol pe čores vaj te dukhal jekh skurto vrama pala kodo ke e čuči sas kikidini.</p>
-    <p type="title" xml:lang="swe">Sar si e manušeske pala kodo?</p>
-    <p xml:lang="swe">Pala e eksaminacia si e manušeske sar maj anglal.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Sostar trobuj jekh eksaminacia?</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Maj lokho si univar te ačarel pe e parujimata ando kollin kana von si makle sapujesa. Vazde o vast, gladžin e e čuči thaj e tak vorta najenca thaj kikide ekcera kana gladžis.</p>
-      <p type="listitem" xml:lang="swe">…gladžin krujal e vastesa, krujal thaj krujal e intrego čuči. Startulin paša e cini čuči thaj agorin paša e tak.</p>
-    </list>
-    <p type="title" xml:lang="swe">Röntgen pe čučia</p>
-    <p xml:lang="swe">Kana kerel pe jakh mamografiako dikhipe lel pe röntgen pe čuči, jekha teknikasa so del laše patretura.</p>
-    <p xml:lang="swe">Mamografia kerel pe vaj te dikhel pe o sastipe, screening, vaj te ačardas e žuvli vaj o doktori jekh nevo guzuj. Sako berš kerel pe opral 500 000 dikhimata kusa kollinesko röntgen ando Švedo.</p>
-    <p type="title" xml:lang="swe">Jekh metoda te arakhel pe kollinesko cancer sigo</p>
-    <p xml:lang="swe">Socialstyrelsen del rekomendatcia pe mamografia žuvljiange so si maškar 40 thaj 74 berš. Landstingen del sa e žuvlian maškar 50 thaj 69 berš šajipe te nakhen mamografiako dikhipe. Ande e maj but län del pe vi žutipe kaverenge ande berš 40 thaj 74 po dikhipe, numa si variatcia kana angluni data si e žuvli akhardi thaj sode vrama kerel pe e eksaminaci pe lende. Terne žuvliange si normalno te kerel pe eksaminaci ande jekh vrama khaj si jekh berš vaj jekh thaj dopaš berš. Maj phuren akharel pe sako dujto berš.</p>
-    <p xml:lang="swe">Paša kadal sastimaske eksaminaci birij pe te arakhel pe jekh kollinesko tumoro ži pun kodo ačardžol ando kollin.</p>
-    <p xml:lang="swe">Žanglimaske studi sikade ke kodol žuvlia so phiren pe kadal sastimaske eksaminaci kusa e mamografia cinjarel o meripe kusa kollinesko cancer kusa 40 procenti.</p>
-    <p xml:lang="swe">Kana arakhel pe o cancer pala but vrama, atunci trobuj maj but žutipe sar kana arakhel pe o tumoro sigo.</p>
-    <p type="title" xml:lang="swe">Gladžin krujal o kollin jekh lungo vrama</p>
-    <p xml:lang="swe">Žuvliaki čuči či inkrel jekh vorta konsistenso. Kade si ke ande čuči si vi thudeske organizmura thaj thulipe, thaj kodo kerel ke ačardžol pe ekcera čudno. Kana aresel pe e 50 berš kerdžon e čuča maj kovle ke e thudeske organizmura den palpale thaj avel maj but thulipe.</p>
-    <p xml:lang="swe">E čuča parudžon vi khatar e hormonake parujimata so kerdžol tela e vrama so si a žuvlia lako žuvlikano šon thaj šaj vi te ačardžon pe diferentno pala diferentno vrama. O džes pala o paluno džes khaj sas a žuvlia lako šon si jekh lašo džes te dikhel pe peske čuča, ke atunci si e čuča kovle thaj atunci si maj lokho te dikhel pe vaj sa si mišto.</p>
-    <p xml:lang="swe">Sa e žuvlia trobuj korkori te dikhen perdal penge čuča. Mišto si te alosarel pe jekh džes ando šon thaj atunči birij pe te dikhel pe vaj si parujimata ando kollin vaj naj. Jekh lašo than si o dušo ke maj lokho si te ačarel pe kado kana e čuča si andre makle ando sapuj. Maj feder si kana ačarel pe vi kana tordžol pe thaj vi kana pašljiol pe.</p>
-    <p type="title" xml:lang="swe">Normalno kusa laše guzuja</p>
-    <p xml:lang="swe">Te si kade kade ke ačarel pe ke si jekh guzuj ande čuči darajvel univar o manuš, numa maj butivar si kado jekh lašo parujipe, specialno khaj maj terne žuvlia. Šaj te avel jekh cysta, jekh cino balono pajesa, vaj jekh lašo thulipe ande morci.</p>
-    <p type="title" xml:lang="swe">Sa arujimata si te aven dikle khatar doktora</p>
-    <p xml:lang="swe">Jekh parujipe ande čuči šaj vi te avel kerdo khatar kollinesko cancer. Kollinesko cancer si jekh anda e maj normalne formi pe cancer so si pe žuvlia. Sako berš len karing 7 000 žuvlia thaj 40 murš ando Švedo kollinesko cancer. Riziko po kollinesko džal maj opre beršenca.</p>
-    <p xml:lang="swe">Jekh normalno symtomo (sikajipe) si jekh guzuj ando kollin vaj ande tak. Jekh kaver si ke e cini čuči vaj e morči pe čuči cirdel pe andre.</p>
-    <p xml:lang="swe">Maj kaver symtomura khaj či dičon but si kana kerdžol pe lolo vaj šuvljiol e čuči, jekh rana khaj či saščjiol, jekh ratvaslo paji anda čuči del avri.</p>
-    <p xml:lang="swe">Sa parujimara ando kollin si te avel lino seriozno thaj diklo khatar jekh doktori. Šaj te žal pe khaj vårdcentralen, khaj kvinnohälsovården vaj khaj jekh specialno than pe čuča so si pe maj bare bolnici. Doktori ačiarel pe čuča thaj dikhel vaj trobuj te kerel pe jekh mamografia vaj na.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Kade kerel pe</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Šol pe e čuči pe jekh than khaj si jekh kaseta kusa röntgen. Pala kodo kikidžol pe e čuči thaj duj trin patretura si line.</p>
-    </list>
-    <p type="title" xml:lang="swe">Jekh specialno röntgen aparato trobuj pe kado</p>
-    <p xml:lang="swe">Mamografia kerel pe maj butivar pe jekh mamografiako than, so šaj te avel korkori vaj andre ande jekh bolnicia. Eksaminaci kerel pe pe specialne kollineske thana thaj pe uni vårdcentraler.</p>
-    <p xml:lang="swe">O aparato so si pe röntgen so specialno kerdo te den laše patretura pa e čučaki morci kusa jekh slabo röntgen. Ande uni bucia šaj uni cancer tumorura so si uni milimetri te arakhadžon.</p>
-    <p type="title" xml:lang="swe">Kade kerel pe</p>
-    <p xml:lang="swe">Naj musaj či soski preparatcia pe kado. Anglunes del pe atvetura pe uni pušimata vaj o kollin dukhalas, vaj khaj xal pe medicina so inkrel hormoni. Nandžarel pe opral thaj e bolniciaki phej dikhel pe čuča thaj dikhel vaj si save parujimata, te si pipera vaj semnura pa operatci. Šaj te diciol variso pe e patretura pa röntgen thaj pala kodo ghindoj pe ke kodo si cancer tumoro.</p>
-    <p xml:lang="swe">Pala kodo žal pe khaj o röntgen aparato thaj tordžol pe angla leste. Jekh čuči šol pe pe jekh than so inkrel jekh patretosko detektoro. E čuči kikidžol pe khetanes kusaj jekh tejari so kikidel tele e čuči. Inkrel pe o vast opre thaj tordžol pe karing o aparato ži pun duj trin patretura len pe. Importantno si te miškij pe o manuš. Pala kodo kerel pe sa kasavi procedura pe kaver čuči. Intrego eksamina lel 15-30 minutci, e patretura lel paš ži khaj deš minutci.</p>
-    <p type="title" xml:lang="swe">Sar ačardžol pe kana kerel pe mamografia?</p>
-    <p xml:lang="swe">Šaj te ačardžol pe čores vaj te dukhal kana e čuči si kikidini. Numa musaj te kerel pe kado, ke atunci avla jekh maj lašo kvaliteto thaj e eksaminacia avla maj lašo. Paša kado avla jekh maj cini radiatcia pe čuči sar te na avilov kikidini e čuči.</p>
-    <p type="title" xml:lang="swe">Univar trobuj o manuš te avel palpale</p>
-    <p xml:lang="swe">Univar si kade ke si duj röntgen doktora so dikhen e mamografiake patretura thaj den peski opinja pa patreto. Kodo vazdel o pacape ando dikhipe. Te si kade ke von dikhen variso so lenge naj normalno, akharen von jekhes palpale te kerel pe jekh nevi eksaminacia. Atunci lel pe ekstra mamografiake patretura thaj atunci dikhel pe vi perdal kusa ultraljud.</p>
-    <p xml:lang="swe">Doktori šaj vi te lel jekh pruba pa o parujipe. Te si jekh cino parujipe thaj si phares te ačarel pe kodo šaj te kerel pe jekh nevi mamografia žutimasa khatar ultraljud. Jekh sani suv pusaven ando parujipe thaj lel pe jekh cell pruba avri. E pruba si bišadi pe jekh mikroskopicno dikhipe. Kado kerel pe te avel jekh sekurita vaj čačimasa si cancer vaj na.</p>
-    <p xml:lang="swe">Atveto pa mamografiako dikhipe si pala kodo bišado khere thaj pala duj kurke avel jakh nevi vrama pe nevi sastimaski kontrolla. Te si kade ke las o manuš remisso pe mamografia lel pe o atveto pe prubi khatar o doktori.</p>
-    <p type="title" xml:lang="swe">Hormonako žutipe šaj te kerel jekh pharipe po dikhipe</p>
-    <p xml:lang="swe">Uni žuvlia len hormonako žutipe tela thaj pala e klimakteria vaj han p-piller. Kasavo žutipe kerel ke e o thulipe ande čuča kerdžol maj thulo thaj kado kerel ke o patreto pa mamografia si maj pharo te dikhel pe. Anda kodo si zurales importantno te phenel pe vaj xal pe medicina khaj si hormona andre.</p>
-    <p type="title" xml:lang="swe">O dikhipe naj nasul</p>
-    <p xml:lang="swe">E radiatcia pa jekh mamografiako dikhipe si kasavo cino ke či dikhel pe ke šaj te avel kado nasul. Paša kado kerdžol pe intrego vrama nevi teknicno evaluatcia te cinjarel pe inke e radiatcia. Anda kodo či trobuj te cirdel pe o manuš te na žal kana si o manuš akhardo pe mamografia, vaj kana ačardas pe ke si jekh parujipe ando kolin.</p>
-    <p xml:lang="swe">Šaj vi te kerel pe mamografia vi te si jekh kollinesko implantato. Naj riziko ke o imlantato padžol, numa či žal te kikidel pe khetanes e čuči sar khaj žuvlia khaj naj implantato thaj kado kerel ke šaj te avel kade ke trobuj jekh individualno dikhipe. Butivar kerdžol pe vi kompletatcia pe mamografia kodolesa ke dikhel pe perdal e čuča usa ultraljud.</p>
-    <p type="title" xml:lang="swe">Kon či trobuj te nakhel jekh mamografia?</p>
-    <p xml:lang="swe">Kana si o manuš terno si maj feder te kerel pe ultraljud sar mamografia. E doš khaj kado si kodo ke e čučako thulipe si kade thulo ke e patretura pa mamografia si phares te ačarel pe. Ultraljud del atunci jekh maj sekurno atveto.</p>
-    <p xml:lang="swe">Te si kade ke o doktori ghindoj ke si jekh bari pugni ando kollin či kerel pe atunci jekh mamografia ke atunci dukhan e čuča kana si te kikidel pe e čuča. Atunci si maj feder te kerel pe jekh ultraljud, te dikhel pe vaj inke si pump ande e pugni. Kana e infektcia sastilas šaj te kerel pe jekh mamografia. Kado si zurales importantno kana si o manuš maj phuro.</p>
-    <p xml:lang="swe">Kana si e žuvli phari či trobuj te nakhel kodi jekh sastimaski kontrolla, screening kusa mamografia. Numa te si kade ke arakhel pe jekh parujipe ande e kollin si atunci te lel pe mindig kontakto kusa medicinsko žutipe te nakhel pe eksaminacia, vi te si e žuvli phari. Atunci lel pe e eksaminacia kusa ultraljud thaj pala kod okerel pe jekh mamografia te trobuj te kerel pe kodo.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rlo" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1864</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rlo"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Undersokningar--prover/Mammografi</origFileName><parallel_text xml:lang="eng" location="mammografi.html"/><parallel_text xml:lang="fin" location="mammografi.html"/><parallel_text xml:lang="fit" location="mammografi.html"/><parallel_text xml:lang="sma" location="mammografi.html"/><parallel_text xml:lang="sme" location="mammografi.html"/><parallel_text xml:lang="smj" location="mammografi.html"/><parallel_text xml:lang="swe" location="mammografi.html"/><parallel_text location="mammografi.html" xml:lang="rmy-rka"/><parallel_text location="mammografi.html" xml:lang="rmn"/><parallel_text location="mammografi.html" xml:lang="rmu"/><parallel_text location="mammografi.html" xml:lang="yid"/><parallel_text location="mammografi.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Mamografia / Mammografi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">MamografiaMammografi</p>
+<p xml:lang="swe"></p>
+<p type="title">Konklusia</p>
+<p type="title">Universalno</p>
+<p>Mamografia si jekh röntgen pe žuvliako kollin(čuča) kusa jekh specialno teknika so del laše sikade patretura.</p>
+<p>Kado dikhipe šaj te avel kerdo ghindosa te dikhel pe o sastipe, kado bušol screening, vaj kana e žuvli korkori vaj jekh doktori ačardas ke si jekh parujipe ande kollin.</p>
+<p>Či trobuj te žal pe pe jakh mamografiaki testa kana si e žuvli phari vaj te pacal o doktori ke si jekh bari pugni ando kollin.</p>
+<p type="title">Preparatci</p>
+<p>Či trobuj te avel o manuš preperime pe kado.</p>
+<p type="title">Sar žal kadi eksaminacia?</p>
+<p>Kadi eksaminacia kerdžol pe pe jekh mamografiako than, so šaj te avel šutino ande jekh röntgen than ande bolnicia vaj šaj vi te avel korkori ande kaver than. Mamografia kerdžol pe vi pe specialne thana khaj dikhel pe e žuvljiange kollina vaj pe uni vårdcentraler.</p>
+<p>Anglunes del pe atvetura pe uni pušimata so e röntgen manuš pušen pa o kollin vaj te xal pe medicina khaj si hormoni.</p>
+<p>Pala kodo nandžarel pe opral thaj e buciara dikhen po kollin thaj dikhel vaj si varisave parujimata, vaj si varisave maj bare pipera vaj te si semnura pala operatci. Šaj te dičol pe e röntgen patretura thaj te avel maj phares te dikhel pe sar si čačimasa.</p>
+<p>Tordžol pe tela kadi eksaminacia, thaj šol pe jekh čuči pe jekh than khaj bušol bilddetektor. E čuči kikidžol pe khetanes thaj kerdžol sar jekh tejari. Kado kerel ke o patreto kerdžol maj užo thaj ke e radiatcia avla maj cini. O vast vazdel pe opre thaj šaj te terdiol pe karing o aparato ži pun o apparato lel duj trin patretura. Pala kodo kerel pe sa kodi procedura pe dujto čuči.</p>
+<p>Šaj te ačardžol pe čores vaj te dukhal jekh skurto vrama pala kodo ke e čuči sas kikidini.</p>
+<p type="title">Sar si e manušeske pala kodo?</p>
+<p>Pala e eksaminacia si e manušeske sar maj anglal.</p>
+<p xml:lang="swe"></p>
+<p type="title">Sostar trobuj jekh eksaminacia?</p>
+<list><p type="listitem">Maj lokho si univar te ačarel pe e parujimata ando kollin kana von si makle sapujesa. Vazde o vast, gladžin e e čuči thaj e tak vorta najenca thaj kikide ekcera kana gladžis.</p>
+<p type="listitem" xml:lang="swe">…gladžin krujal e vastesa, krujal thaj krujal e intrego čuči. Startulin paša e cini čuči thaj agorin paša e tak.</p>
+</list><p type="title">Röntgen pe čučia</p>
+<p>Kana kerel pe jakh mamografiako dikhipe lel pe röntgen pe čuči, jekha teknikasa so del laše patretura.</p>
+<p>Mamografia kerel pe vaj te dikhel pe o sastipe, screening, vaj te ačardas e žuvli vaj o doktori jekh nevo guzuj. Sako berš kerel pe opral 500 000 dikhimata kusa kollinesko röntgen ando Švedo.</p>
+<p type="title">Jekh metoda te arakhel pe kollinesko cancer sigo</p>
+<p>Socialstyrelsen del rekomendatcia pe mamografia žuvljiange so si maškar 40 thaj 74 berš. Landstingen del sa e žuvlian maškar 50 thaj 69 berš šajipe te nakhen mamografiako dikhipe. Ande e maj but län del pe vi žutipe kaverenge ande berš 40 thaj 74 po dikhipe, numa si variatcia kana angluni data si e žuvli akhardi thaj sode vrama kerel pe e eksaminaci pe lende. Terne žuvliange si normalno te kerel pe eksaminaci ande jekh vrama khaj si jekh berš vaj jekh thaj dopaš berš. Maj phuren akharel pe sako dujto berš.</p>
+<p>Paša kadal sastimaske eksaminaci birij pe te arakhel pe jekh kollinesko tumoro ži pun kodo ačardžol ando kollin.</p>
+<p>Žanglimaske studi sikade ke kodol žuvlia so phiren pe kadal sastimaske eksaminaci kusa e mamografia cinjarel o meripe kusa kollinesko cancer kusa 40 procenti.</p>
+<p>Kana arakhel pe o cancer pala but vrama, atunci trobuj maj but žutipe sar kana arakhel pe o tumoro sigo.</p>
+<p type="title">Gladžin krujal o kollin jekh lungo vrama</p>
+<p>Žuvliaki čuči či inkrel jekh vorta konsistenso. Kade si ke ande čuči si vi thudeske organizmura thaj thulipe, thaj kodo kerel ke ačardžol pe ekcera čudno. Kana aresel pe e 50 berš kerdžon e čuča maj kovle ke e thudeske organizmura den palpale thaj avel maj but thulipe.</p>
+<p>E čuča parudžon vi khatar e hormonake parujimata so kerdžol tela e vrama so si a žuvlia lako žuvlikano šon thaj šaj vi te ačardžon pe diferentno pala diferentno vrama. O džes pala o paluno džes khaj sas a žuvlia lako šon si jekh lašo džes te dikhel pe peske čuča, ke atunci si e čuča kovle thaj atunci si maj lokho te dikhel pe vaj sa si mišto.</p>
+<p>Sa e žuvlia trobuj korkori te dikhen perdal penge čuča. Mišto si te alosarel pe jekh džes ando šon thaj atunči birij pe te dikhel pe vaj si parujimata ando kollin vaj naj. Jekh lašo than si o dušo ke maj lokho si te ačarel pe kado kana e čuča si andre makle ando sapuj. Maj feder si kana ačarel pe vi kana tordžol pe thaj vi kana pašljiol pe.</p>
+<p type="title">Normalno kusa laše guzuja</p>
+<p>Te si kade kade ke ačarel pe ke si jekh guzuj ande čuči darajvel univar o manuš, numa maj butivar si kado jekh lašo parujipe, specialno khaj maj terne žuvlia. Šaj te avel jekh cysta, jekh cino balono pajesa, vaj jekh lašo thulipe ande morci.</p>
+<p type="title">Sa arujimata si te aven dikle khatar doktora</p>
+<p>Jekh parujipe ande čuči šaj vi te avel kerdo khatar kollinesko cancer. Kollinesko cancer si jekh anda e maj normalne formi pe cancer so si pe žuvlia. Sako berš len karing 7 000 žuvlia thaj 40 murš ando Švedo kollinesko cancer. Riziko po kollinesko džal maj opre beršenca.</p>
+<p>Jekh normalno symtomo (sikajipe) si jekh guzuj ando kollin vaj ande tak. Jekh kaver si ke e cini čuči vaj e morči pe čuči cirdel pe andre.</p>
+<p>Maj kaver symtomura khaj či dičon but si kana kerdžol pe lolo vaj šuvljiol e čuči, jekh rana khaj či saščjiol, jekh ratvaslo paji anda čuči del avri.</p>
+<p>Sa parujimara ando kollin si te avel lino seriozno thaj diklo khatar jekh doktori. Šaj te žal pe khaj vårdcentralen, khaj kvinnohälsovården vaj khaj jekh specialno than pe čuča so si pe maj bare bolnici. Doktori ačiarel pe čuča thaj dikhel vaj trobuj te kerel pe jekh mamografia vaj na.</p>
+<p xml:lang="swe"></p>
+<p type="title">Kade kerel pe</p>
+<list><p type="listitem">Šol pe e čuči pe jekh than khaj si jekh kaseta kusa röntgen. Pala kodo kikidžol pe e čuči thaj duj trin patretura si line.</p>
+</list><p type="title">Jekh specialno röntgen aparato trobuj pe kado</p>
+<p>Mamografia kerel pe maj butivar pe jekh mamografiako than, so šaj te avel korkori vaj andre ande jekh bolnicia. Eksaminaci kerel pe pe specialne kollineske thana thaj pe uni vårdcentraler.</p>
+<p>O aparato so si pe röntgen so specialno kerdo te den laše patretura pa e čučaki morci kusa jekh slabo röntgen. Ande uni bucia šaj uni cancer tumorura so si uni milimetri te arakhadžon.</p>
+<p type="title">Kade kerel pe</p>
+<p>Naj musaj či soski preparatcia pe kado. Anglunes del pe atvetura pe uni pušimata vaj o kollin dukhalas, vaj khaj xal pe medicina so inkrel hormoni. Nandžarel pe opral thaj e bolniciaki phej dikhel pe čuča thaj dikhel vaj si save parujimata, te si pipera vaj semnura pa operatci. Šaj te diciol variso pe e patretura pa röntgen thaj pala kodo ghindoj pe ke kodo si cancer tumoro.</p>
+<p>Pala kodo žal pe khaj o röntgen aparato thaj tordžol pe angla leste. Jekh čuči šol pe pe jekh than so inkrel jekh patretosko detektoro. E čuči kikidžol pe khetanes kusaj jekh tejari so kikidel tele e čuči. Inkrel pe o vast opre thaj tordžol pe karing o aparato ži pun duj trin patretura len pe. Importantno si te miškij pe o manuš. Pala kodo kerel pe sa kasavi procedura pe kaver čuči. Intrego eksamina lel 15-30 minutci, e patretura lel paš ži khaj deš minutci.</p>
+<p type="title">Sar ačardžol pe kana kerel pe mamografia?</p>
+<p>Šaj te ačardžol pe čores vaj te dukhal kana e čuči si kikidini. Numa musaj te kerel pe kado, ke atunci avla jekh maj lašo kvaliteto thaj e eksaminacia avla maj lašo. Paša kado avla jekh maj cini radiatcia pe čuči sar te na avilov kikidini e čuči.</p>
+<p type="title">Univar trobuj o manuš te avel palpale</p>
+<p>Univar si kade ke si duj röntgen doktora so dikhen e mamografiake patretura thaj den peski opinja pa patreto. Kodo vazdel o pacape ando dikhipe. Te si kade ke von dikhen variso so lenge naj normalno, akharen von jekhes palpale te kerel pe jekh nevi eksaminacia. Atunci lel pe ekstra mamografiake patretura thaj atunci dikhel pe vi perdal kusa ultraljud.</p>
+<p>Doktori šaj vi te lel jekh pruba pa o parujipe. Te si jekh cino parujipe thaj si phares te ačarel pe kodo šaj te kerel pe jekh nevi mamografia žutimasa khatar ultraljud. Jekh sani suv pusaven ando parujipe thaj lel pe jekh cell pruba avri. E pruba si bišadi pe jekh mikroskopicno dikhipe. Kado kerel pe te avel jekh sekurita vaj čačimasa si cancer vaj na.</p>
+<p>Atveto pa mamografiako dikhipe si pala kodo bišado khere thaj pala duj kurke avel jakh nevi vrama pe nevi sastimaski kontrolla. Te si kade ke las o manuš remisso pe mamografia lel pe o atveto pe prubi khatar o doktori.</p>
+<p type="title">Hormonako žutipe šaj te kerel jekh pharipe po dikhipe</p>
+<p>Uni žuvlia len hormonako žutipe tela thaj pala e klimakteria vaj han p-piller. Kasavo žutipe kerel ke e o thulipe ande čuča kerdžol maj thulo thaj kado kerel ke o patreto pa mamografia si maj pharo te dikhel pe. Anda kodo si zurales importantno te phenel pe vaj xal pe medicina khaj si hormona andre.</p>
+<p type="title">O dikhipe naj nasul</p>
+<p>E radiatcia pa jekh mamografiako dikhipe si kasavo cino ke či dikhel pe ke šaj te avel kado nasul. Paša kado kerdžol pe intrego vrama nevi teknicno evaluatcia te cinjarel pe inke e radiatcia. Anda kodo či trobuj te cirdel pe o manuš te na žal kana si o manuš akhardo pe mamografia, vaj kana ačardas pe ke si jekh parujipe ando kolin.</p>
+<p>Šaj vi te kerel pe mamografia vi te si jekh kollinesko implantato. Naj riziko ke o imlantato padžol, numa či žal te kikidel pe khetanes e čuči sar khaj žuvlia khaj naj implantato thaj kado kerel ke šaj te avel kade ke trobuj jekh individualno dikhipe. Butivar kerdžol pe vi kompletatcia pe mamografia kodolesa ke dikhel pe perdal e čuča usa ultraljud.</p>
+<p type="title">Kon či trobuj te nakhel jekh mamografia?</p>
+<p>Kana si o manuš terno si maj feder te kerel pe ultraljud sar mamografia. E doš khaj kado si kodo ke e čučako thulipe si kade thulo ke e patretura pa mamografia si phares te ačarel pe. Ultraljud del atunci jekh maj sekurno atveto.</p>
+<p>Te si kade ke o doktori ghindoj ke si jekh bari pugni ando kollin či kerel pe atunci jekh mamografia ke atunci dukhan e čuča kana si te kikidel pe e čuča. Atunci si maj feder te kerel pe jekh ultraljud, te dikhel pe vaj inke si pump ande e pugni. Kana e infektcia sastilas šaj te kerel pe jekh mamografia. Kado si zurales importantno kana si o manuš maj phuro.</p>
+<p>Kana si e žuvli phari či trobuj te nakhel kodi jekh sastimaski kontrolla, screening kusa mamografia. Numa te si kade ke arakhel pe jekh parujipe ande e kollin si atunci te lel pe mindig kontakto kusa medicinsko žutipe te nakhel pe eksaminacia, vi te si e žuvli phari. Atunci lel pe e eksaminacia kusa ultraljud thaj pala kod okerel pe jekh mamografia te trobuj te kerel pe kodo.</p>
+</body></document>

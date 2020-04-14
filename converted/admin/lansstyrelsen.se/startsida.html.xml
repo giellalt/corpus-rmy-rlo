@@ -1,53 +1,15 @@
-<document xml:lang="rmy-rlo" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>160</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rlo"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/skane/rom-lo/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="startsida.html"/>
-    <parallel_text xml:lang="fin" location="startsida.html"/>
-    <parallel_text xml:lang="fit" location="startsida.html"/>
-    <parallel_text xml:lang="sma" location="startsida.html"/>
-    <parallel_text xml:lang="sme" location="startsida.html"/>
-    <parallel_text xml:lang="swe" location="startsida.html"/>
-    <parallel_text location="startsida.html" xml:lang="rmu"/>
-    <parallel_text location="startsida.html" xml:lang="rmy-rka"/>
-    <parallel_text location="startsida.html" xml:lang="rmf"/>
-    <parallel_text location="startsida.html" xml:lang="rmn"/>
-    <parallel_text location="startsida.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Länsstyrelsen - Länsstyrelsen Skåne</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Länsstyrelsen</p>
-    <p type="title" xml:lang="swe">Pa Länsstyrelsen</p>
-    <p xml:lang="swe">Länsstyrelsen si jekh themeski organizacia so si pashe pasha e manush ande sako län. Ame sam jekh vazno vast mashkar e manush thaj e kommuni pa jekh rig thaj pa kaver righ regering, riksdag thaj Centrala myndigheter pe kaver righ. Landshövdingen si sherutno po Länsstyrelsen thaj inkrel e buci te lel sama pala e buci te dikhel e evulutcia thaj te del informatcia e regeriungoske pa kodo so trobuj ando länet.</p>
-    <p xml:lang="swe">Länsstyrelsens missia si te keren buci te avel jekh maj lashio miljö, bararipe thaj lashie trajimaske konditci djan vast vastesa. Pe skurto keras buci te avel jekh inkerdo mishtipe angle ando länet. Länsstyrelsen inkrel e responsebilita te aresen decizi anda riksdagen thaj regeriungo thaj te nakhen perrdal kodol bucia ande länet thaj ame inkras ketanes e themeski buci. Kana si e buci pa e e evulutcia ande länet keras ame buci te avel mishto e privatno manusheke thaj pala e themeske intressura.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rlo" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>160</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rlo"/><language xml:lang="swe"/></multilingual><origFileName>http://www.lansstyrelsen.se/skane/rom-lo/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="startsida.html"/><parallel_text xml:lang="fin" location="startsida.html"/><parallel_text xml:lang="fit" location="startsida.html"/><parallel_text xml:lang="sma" location="startsida.html"/><parallel_text xml:lang="sme" location="startsida.html"/><parallel_text xml:lang="swe" location="startsida.html"/><parallel_text location="startsida.html" xml:lang="rmu"/><parallel_text location="startsida.html" xml:lang="rmy-rka"/><parallel_text location="startsida.html" xml:lang="rmf"/><parallel_text location="startsida.html" xml:lang="rmn"/><parallel_text location="startsida.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Länsstyrelsen - Länsstyrelsen Skåne</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Länsstyrelsen</p>
+<p type="title">Pa Länsstyrelsen</p>
+<p>Länsstyrelsen si jekh themeski organizacia so si pashe pasha e manush ande sako län. Ame sam jekh vazno vast mashkar e manush thaj e kommuni pa jekh rig thaj pa kaver righ regering, riksdag thaj Centrala myndigheter pe kaver righ. Landshövdingen si sherutno po Länsstyrelsen thaj inkrel e buci te lel sama pala e buci te dikhel e evulutcia thaj te del informatcia e regeriungoske pa kodo so trobuj ando länet.</p>
+<p>Länsstyrelsens missia si te keren buci te avel jekh maj lashio miljö, bararipe thaj lashie trajimaske konditci djan vast vastesa. Pe skurto keras buci te avel jekh inkerdo mishtipe angle ando länet. Länsstyrelsen inkrel e responsebilita te aresen decizi anda riksdagen thaj regeriungo thaj te nakhen perrdal kodol bucia ande länet thaj ame inkras ketanes e themeski buci. Kana si e buci pa e e evulutcia ande länet keras ame buci te avel mishto e privatno manusheke thaj pala e themeske intressura.</p>
+</body></document>

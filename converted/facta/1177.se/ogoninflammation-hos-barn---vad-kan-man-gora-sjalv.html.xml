@@ -1,69 +1,26 @@
-<document xml:lang="rmy-rlo" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>663</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rlo"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Egenvard-barn/Ogoninflammation-hos-barn---vad-kan-man-gora-sjalv</origFileName>
-    <parallel_text xml:lang="eng" location="ogoninflammationer-hos-barn.html"/>
-    <parallel_text xml:lang="fin" location="ogoninflammation-hos-barn.html"/>
-    <parallel_text xml:lang="fit" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sma" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sme" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="smj" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="swe" location="ogoninflammationer-hos-barn.html"/>
-    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
-    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
-    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
-    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
-    <parallel_text location="ogoninflammation-hos-barn-vad-kan-man-gora-sjalv.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Jakhengi inflamatcia khaj šavora - so šaj te kerel pe korkoro? / Ögoninflammation hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib lovarickaRomska lovara</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Jakhengi inflamatcia khaj šavora - so šaj te kerel pe korkoro?Ögoninflammation hos barn - vad kan man göra själv?</p>
-    <p xml:lang="swe"></p>
-    <list>
-      <p type="listitem" xml:lang="swe">Thoven e jakh kusa jekh kompreso vaj kovlesa khatar paluni righ karing o nakh.</p>
-    </list>
-    <p type="title" xml:lang="swe">Xasajvel butivar tela jekh kurko</p>
-    <p xml:lang="swe">Normalno si ke aven jakhenge inflamatci khaj šavora, butivar kana si jekh virusovo infektcia sar trozna. E parni jakh kerdžol loli thaj mukhel čikinaslo paji, butivar si galbeno, khatar e jakh. Normalno mezij e jakh šuvli. Butivar sasčol kodo tela jekh kurko bi či sosko žutipe. Jakhengi inflamatcia perel (smittar) lokho kaveren.</p>
-    <p xml:lang="swe">Šavora šaj vi te len inflamatcia ande jakha khatar kaver doša. E doš šaj avel alergicno reaktcia vaj ke o šavoro dukhadas pe vaj areslas mel ande jakh. Inflamatcia si e statosko drom te kerel jekh defencia karing variso.</p>
-    <p type="title" xml:lang="swe">Šaj o šavoro te žal ande cini škola (förskolan)?</p>
-    <p xml:lang="swe">Šavora khas si jakhengi inflamatcia kusa lole jakha thaj mukhel pumb paša jekh lokho trozna, atunči či trobun te aven e šavora khere te si lenge mišto. Šavora so phiren ande cini škola (anglaškola, förskolan) sit e aven saste thaj te inkren zor ande peste te len participatcia ande sa e aktivitetura. Šavora kusa alergiake problemura ande jakha či trobun te ašon khere.</p>
-    <p type="title" xml:lang="swe">Šavora trobun te ašon khere kana e jakh pumbarel</p>
-    <p xml:lang="swe">Te pumbarel e jakh thaj lipij pe khetanes thaj musaj te kosel pe avri e pumb anda e jakha butivar ando džes si e šavores infektcia. Butivar si sel duj jakha nasvale thaj šaj te pumbaren. Šavoro trobuj atunči te ašol khere khatar e cini škola ke kado perel kaveren, thaj ke e šavoreske jakha musaj te tovel pe butivar ando djes. Šavoro šaj žal palpale khaj e šavorengi grupa kana aba či pumbarel e jakh thaj e inflamatcia xasajvel.</p>
-    <p xml:lang="swe">Jakhengi inflamatcia nasvaravel sigo e cine šavoren ke von khelen pe but khetanes. Nasvalipe perel e šavoren kana von moren penge jakha thaj pala kodo azban khelimaske bajura thaj kavere šavoren. Školake šavora či khelen pe kade paše paša jekh kavereste numa te si zurali jakhengi inflamatcia trobun von te ašon khere.</p>
-    <p type="title" xml:lang="swe">Thov e jakh pajesa</p>
-    <p xml:lang="swe">Te si e šavores pumb ande jakh mištoj atunči te thovel pe butivar e jakh pajesa. Šaj vi te šon kompreso vaj variso kovlo thaj thoven khatar e paluni righ karing o nakh.</p>
-    <p type="title" xml:lang="swe">Len sama pa e vasteski hygiene (užipe)</p>
-    <p xml:lang="swe">Te kamel pe te na aven jakhenge inflamatci si atunči mišto te thovel pe e vast te si but džene paše thaj troznale. Mištoj te paruvel pe e khendevura butivar ande cini škola thaj vi khere.</p>
-    <p type="title" xml:lang="swe">Nevo bebeto/beato</p>
-    <p xml:lang="swe">Normalno si ke jekh nevo bebeto si vorta arakhadžol inkrel jekh galbeno sekreto ande jakha, e doš khaj kodo si ke e jakhenge kanalura si maj kikide sar khaj maj phure šavora. Thoven e jakh khatar e rig karing o nakh kusa jekh kompreso vaj kovlo kotor so si kindžardo pajesa so naj za phabardo vaj koksaltlösning.</p>
-    <p type="title" xml:lang="swe">Šaj te avel kade ke trobuj kontakto kusa medicinako žutipe</p>
-    <p xml:lang="swe">Jakhenge inflamatci so či nakhen pala jekh kurko šaj te lel žutipe kusa antibiotika te avel maj feder. Šaj te lel pe kontakto kusa vårdcentralen. Pala duj džes kusa antibiotika či nasvaravel e infektcia maj dur thaj o šavoro šaj žal palpale ande cini skola.</p>
-    <p xml:lang="swe">Naj mišto te žukarel pe za lungo vrama te lel pe kontakto kusa vårdcentralen te si jekh zurali inflamatcia kusa but pumb. Sa kade te si e šavoreske phares khatar o odut vaj si zurales troznalo. Te si e šavores zurale problemura ande jekh jakh thaj si ghindo ke si e jakh dukhadi trobuj te lel pe sigo kontakto.</p>
-    <p xml:lang="swe">Te si jekhe neve bebetos jekh jakhengi inflamatcia trobuj te lel pe kontakto kusa o žutipe tela jokvareste.</p>
-    <p xml:lang="swe">Šaj vi te vorbij pe khaj sjukvårdsrådgivningen te lel pe žutipe.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rlo" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>654</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rlo"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Egenvard-barn/Ogoninflammation-hos-barn---vad-kan-man-gora-sjalv</origFileName><parallel_text xml:lang="eng" location="ogoninflammationer-hos-barn.html"/><parallel_text xml:lang="fin" location="ogoninflammation-hos-barn.html"/><parallel_text xml:lang="fit" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sma" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sme" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="smj" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="swe" location="ogoninflammationer-hos-barn.html"/><parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/><parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/><parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/><parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/><parallel_text location="ogoninflammation-hos-barn-vad-kan-man-gora-sjalv.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Jakhengi inflamatcia khaj šavora - so šaj te kerel pe korkoro? / Ögoninflammation hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Jakhengi inflamatcia khaj šavora - so šaj te kerel pe korkoro?Ögoninflammation hos barn - vad kan man göra själv?</p>
+<p xml:lang="swe"></p>
+<list><p type="listitem">Thoven e jakh kusa jekh kompreso vaj kovlesa khatar paluni righ karing o nakh.</p>
+</list><p type="title">Xasajvel butivar tela jekh kurko</p>
+<p>Normalno si ke aven jakhenge inflamatci khaj šavora, butivar kana si jekh virusovo infektcia sar trozna. E parni jakh kerdžol loli thaj mukhel čikinaslo paji, butivar si galbeno, khatar e jakh. Normalno mezij e jakh šuvli. Butivar sasčol kodo tela jekh kurko bi či sosko žutipe. Jakhengi inflamatcia perel (smittar) lokho kaveren.</p>
+<p>Šavora šaj vi te len inflamatcia ande jakha khatar kaver doša. E doš šaj avel alergicno reaktcia vaj ke o šavoro dukhadas pe vaj areslas mel ande jakh. Inflamatcia si e statosko drom te kerel jekh defencia karing variso.</p>
+<p type="title" xml:lang="swe">Šaj o šavoro te žal ande cini škola (förskolan)?</p>
+<p>Šavora khas si jakhengi inflamatcia kusa lole jakha thaj mukhel pumb paša jekh lokho trozna, atunči či trobun te aven e šavora khere te si lenge mišto. Šavora so phiren ande cini škola (anglaškola, förskolan) sit e aven saste thaj te inkren zor ande peste te len participatcia ande sa e aktivitetura. Šavora kusa alergiake problemura ande jakha či trobun te ašon khere.</p>
+<p type="title">Šavora trobun te ašon khere kana e jakh pumbarel</p>
+<p>Te pumbarel e jakh thaj lipij pe khetanes thaj musaj te kosel pe avri e pumb anda e jakha butivar ando džes si e šavores infektcia. Butivar si sel duj jakha nasvale thaj šaj te pumbaren. Šavoro trobuj atunči te ašol khere khatar e cini škola ke kado perel kaveren, thaj ke e šavoreske jakha musaj te tovel pe butivar ando djes. Šavoro šaj žal palpale khaj e šavorengi grupa kana aba či pumbarel e jakh thaj e inflamatcia xasajvel.</p>
+<p>Jakhengi inflamatcia nasvaravel sigo e cine šavoren ke von khelen pe but khetanes. Nasvalipe perel e šavoren kana von moren penge jakha thaj pala kodo azban khelimaske bajura thaj kavere šavoren. Školake šavora či khelen pe kade paše paša jekh kavereste numa te si zurali jakhengi inflamatcia trobun von te ašon khere.</p>
+<p type="title">Thov e jakh pajesa</p>
+<p>Te si e šavores pumb ande jakh mištoj atunči te thovel pe butivar e jakh pajesa. Šaj vi te šon kompreso vaj variso kovlo thaj thoven khatar e paluni righ karing o nakh.</p>
+<p type="title" xml:lang="swe">Len sama pa e vasteski hygiene (užipe)</p>
+<p>Te kamel pe te na aven jakhenge inflamatci si atunči mišto te thovel pe e vast te si but džene paše thaj troznale. Mištoj te paruvel pe e khendevura butivar ande cini škola thaj vi khere.</p>
+<p type="title" xml:lang="swe">Nevo bebeto/beato</p>
+<p>Normalno si ke jekh nevo bebeto si vorta arakhadžol inkrel jekh galbeno sekreto ande jakha, e doš khaj kodo si ke e jakhenge kanalura si maj kikide sar khaj maj phure šavora. Thoven e jakh khatar e rig karing o nakh kusa jekh kompreso vaj kovlo kotor so si kindžardo pajesa so naj za phabardo vaj koksaltlösning.</p>
+<p type="title">Šaj te avel kade ke trobuj kontakto kusa medicinako žutipe</p>
+<p>Jakhenge inflamatci so či nakhen pala jekh kurko šaj te lel žutipe kusa antibiotika te avel maj feder. Šaj te lel pe kontakto kusa vårdcentralen. Pala duj džes kusa antibiotika či nasvaravel e infektcia maj dur thaj o šavoro šaj žal palpale ande cini skola.</p>
+<p>Naj mišto te žukarel pe za lungo vrama te lel pe kontakto kusa vårdcentralen te si jekh zurali inflamatcia kusa but pumb. Sa kade te si e šavoreske phares khatar o odut vaj si zurales troznalo. Te si e šavores zurale problemura ande jekh jakh thaj si ghindo ke si e jakh dukhadi trobuj te lel pe sigo kontakto.</p>
+<p>Te si jekhe neve bebetos jekh jakhengi inflamatcia trobuj te lel pe kontakto kusa o žutipe tela jokvareste.</p>
+<p xml:lang="swe">Šaj vi te vorbij pe khaj sjukvårdsrådgivningen te lel pe žutipe.</p>
+</body></document>

@@ -1,78 +1,33 @@
-<document xml:lang="rmy-rlo" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>904</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rlo"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Egenvard-barn/Feber-hos-barn---vad-kan-man-gora-sjalv</origFileName>
-    <parallel_text xml:lang="eng" location="feber--vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="fin" location="feber-hos-barn--vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="fit" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sma" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sme" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="smj" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="swe" location="feber-hos-barn-vad-kan-man-gora-sjalv.html"/>
-    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
-    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
-    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
-    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
-    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Uči temperatura (feber) khaj šavora – so šaj te kerel pe korkori? / Feber hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib lovarickaRomska lovara</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Uči temperatura (feber) khaj šavora – so šaj te kerel pe korkori?Feber hos barn - vad kan man göra själv?</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Uči temperatura si jekh kotor anda e statoski defencia</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Zumav te keres sar maj feder e šavoreske. Mištoj te del pe butivar te pel pe paji.</p>
-    </list>
-    <p xml:lang="swe">Uči temperatura si kana e temperatura si maj uči sar khaj trobuj. Naj nasul kodo feri e statoski defencia karing infektci. Šavora len lokho uči temperatura thaj kodo keren infektci so si kerde khatar viruso, sar trozna, xas thaj kirleski dukh, thaj kado kerel ke e temperatura vazdel pe ando stato. Temperatura šaj vi te vazdel pe kana o šavoro khelel pe zurales but thaj miškij pe sigo. Ande uni situatci saj uči temperatura vi te sikavel ke si jekh nasul nasvalipe.</p>
-    <p xml:lang="swe">Šavoren si uči temperatura te si e temperatura opral 38 gradi tetehara vaj pala jekh dopaš časo pehenipe.</p>
-    <p xml:lang="swe">Butivar dičol uči temperatura pe šavora. Te si kade ke či žanel pe šaj atunči te mirij pe e temperatura po šavoro, numa maj imortatno site dikhel pe sar si e šavoreske. Te si kade ke si te lel pe kontakto kusa e medicinsko žutipe si atunči mišto te mirij pe e temperatura maj anglal.</p>
-    <p xml:lang="swe">Maj feder si te mirij pe e statoski temperatura ande bul. Si vi khanenge termometri, so kerel mišto buči kana kerel pe kodo mišto. Jekh kasavo termometri si lašo numa si phares te šol pe kado ande cine šavorenge khan ke lenge khan si inke thang.</p>
-    <p type="title" xml:lang="swe">Mekh o šavoro pehenij thaj te pel but</p>
-    <p xml:lang="swe">Jekhe šavores khaj si uči temperatura trobuj te ašol khere khatar škola vaj khatar cini škola te pehenij thaj te avel peste. O šavoro naj musaj te ašol intrego vrama ando pato, numa či trobuj te khinjarel pe fyzične. Maj feder si te mukhel pe e šavores korkori te phenel sode o šavoro birij te avel opre.</p>
-    <p xml:lang="swe">Šavora musaj te pen maj but paji kana len si uči temperatura. Te avel kade ke pel o šavoro dosta but si atunči mišto te del pe e šavores butivar te pel. De e šavoreske kodo so leske si drago te xal thaj te pel. Sar eksemplo, lodo/paho (glass), krema vaj vällingo. Te si kade ke e šavores naj aptito (či kamel te xal) či trobuj atunči te xal normalno xabe. Naj kanči te xala o šavoro ekcera maj čores uni džes. Te si o šavoro khino vaj či mutrel dosta šaj e doš khaj kodo te avel ke či pilas dosta but paji.</p>
-    <p type="title" xml:lang="swe">Ker te avel sar maj feder</p>
-    <p xml:lang="swe">Te kamel o šavoro te sovel naj musaj te avel thato dostaj feri te avel e šavorske mišto atunči šaj soven vi ande telune gada. šaj izdral o šavoro ande šil, kodo si normalno kana si uči temperatura, atunči šaj te šaraven e šavores sanes te avel e šavoreske mišto.</p>
-    <p type="title" xml:lang="swe">Medicina bi receptako</p>
-    <p xml:lang="swe">Uči temperatura či trubuj mindik te malavel pe tele kusa medicina. Maj but šavoren si uči temperatura so inkrel uni džes thaj kado naj musaj te avel nasul. Šaj te del pe medicina so malavel uči temperatura te si e šavoreske čores khatar e uči temperatura, sar eksemplo dukhal o stato, rovel, či xal či pel, sovel čores vaj naj e šavores pača pe račate.</p>
-    <p xml:lang="swe">Či del pe medicina anglunes khaj šavora so si tela šov šon kana naj kado pušlo khatar doktora.</p>
-    <p xml:lang="swe">Karing uči temperatura šavorenge so si opral trin šon si medicina so si kerdo pe paracetamol, sar eksemplo Alvedon thaj Panodil. Khatar šov šon šaj te del pe medicina šavorenge so si kerdo po ibuprofen, sar eksemplo Ipren thaj Ibumetin. Medicina si ande pajeski forma thaj sar čopka (stolpiller), khaj šol pe ande bul, tela laši dosa. Maj phure šavora šaj xan tabletki/draba. Inkren tume pala informatcia so si pe pačka. Na keren kombinatci diferentne tabletkenca. Šavora so si tela 18 berš thaj si uči temperatura či trobun te xan medicina so malavel/peravel uči temperatura khaj si acetylsalicylsyra, sar eksemplo Magnecyl, Treo vaj Albyl.</p>
-    <p type="title" xml:lang="swe">Šaj te lel pe kontakto kusa medicinsko žutipe</p>
-    <p xml:lang="swe">Anglunimastar dikhel pe sar si e šavoreske thaj pala kodo dikhel pe vaj trobuj te lel pe kontakto kusa vårdcentral vaj na. Mindik šaj vorbij pe khaj sjukvårdsrådgivningen vaj vårdcentralen te si kade ke či žanel pe so te kerel pe, specialno te si e šavoreske variso kaver čores.</p>
-    <p xml:lang="swe">Trobuj te rodel pe žutipe direktno khaj jekh vårdcentral vaj kaver akutno žutimasko than te si e šavores uči temperatura thaj si paša kodo variso inke sar kado:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Či del kontakto normalno palpale.</p>
-      <p type="listitem" xml:lang="swe">Mezij khino thaj či birij pesa thaj či pel.</p>
-      <p type="listitem" xml:lang="swe">Si uči temperatura opral 41 gradi.</p>
-    </list>
-    <p xml:lang="swe">Mindik trobuj te lel pe kontakto kusa vårdcentral vaj kaver žutimasko than te si o šavoro</p>
-    <p xml:lang="swe">maj terno sar trin šon thaj inkrel uči temperatura opral 38 gradisi maškar trin thaj šov šon thaj inkrel uči temperatura opral 39 gradi.</p>
-    <p xml:lang="swe">Trobuj te lel pe kontakto kusa medicinsko žutipe te či naklas e uči temperatura pala štar džes, sajekh kečij berš si e šavores.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Pušen pa žutimaske buča</p>
-    <p xml:lang="swe">Šaj vi te vorbis kusa jekh sjuksköterska tela intrego džes thaj te les informatcia. Vorbin 1177. Kodol kon vorbin tusa birin te phenen ande savo vårdcentral tu san andre skirisardo.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rlo" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>895</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rlo"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Egenvard-barn/Feber-hos-barn---vad-kan-man-gora-sjalv</origFileName><parallel_text xml:lang="eng" location="feber--vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="fin" location="feber-hos-barn--vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="fit" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sma" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sme" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="smj" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="swe" location="feber-hos-barn-vad-kan-man-gora-sjalv.html"/><parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/><parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/><parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/><parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/><parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Uči temperatura (feber) khaj šavora – so šaj te kerel pe korkori? / Feber hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Uči temperatura (feber) khaj šavora – so šaj te kerel pe korkori?Feber hos barn - vad kan man göra själv?</p>
+<p xml:lang="swe"></p>
+<p type="title">Uči temperatura si jekh kotor anda e statoski defencia</p>
+<list><p type="listitem">Zumav te keres sar maj feder e šavoreske. Mištoj te del pe butivar te pel pe paji.</p>
+</list><p>Uči temperatura si kana e temperatura si maj uči sar khaj trobuj. Naj nasul kodo feri e statoski defencia karing infektci. Šavora len lokho uči temperatura thaj kodo keren infektci so si kerde khatar viruso, sar trozna, xas thaj kirleski dukh, thaj kado kerel ke e temperatura vazdel pe ando stato. Temperatura šaj vi te vazdel pe kana o šavoro khelel pe zurales but thaj miškij pe sigo. Ande uni situatci saj uči temperatura vi te sikavel ke si jekh nasul nasvalipe.</p>
+<p>Šavoren si uči temperatura te si e temperatura opral 38 gradi tetehara vaj pala jekh dopaš časo pehenipe.</p>
+<p xml:lang="swe">Butivar dičol uči temperatura pe šavora. Te si kade ke či žanel pe šaj atunči te mirij pe e temperatura po šavoro, numa maj imortatno site dikhel pe sar si e šavoreske. Te si kade ke si te lel pe kontakto kusa e medicinsko žutipe si atunči mišto te mirij pe e temperatura maj anglal.</p>
+<p>Maj feder si te mirij pe e statoski temperatura ande bul. Si vi khanenge termometri, so kerel mišto buči kana kerel pe kodo mišto. Jekh kasavo termometri si lašo numa si phares te šol pe kado ande cine šavorenge khan ke lenge khan si inke thang.</p>
+<p type="title">Mekh o šavoro pehenij thaj te pel but</p>
+<p>Jekhe šavores khaj si uči temperatura trobuj te ašol khere khatar škola vaj khatar cini škola te pehenij thaj te avel peste. O šavoro naj musaj te ašol intrego vrama ando pato, numa či trobuj te khinjarel pe fyzične. Maj feder si te mukhel pe e šavores korkori te phenel sode o šavoro birij te avel opre.</p>
+<p>Šavora musaj te pen maj but paji kana len si uči temperatura. Te avel kade ke pel o šavoro dosta but si atunči mišto te del pe e šavores butivar te pel. De e šavoreske kodo so leske si drago te xal thaj te pel. Sar eksemplo, lodo/paho (glass), krema vaj vällingo. Te si kade ke e šavores naj aptito (či kamel te xal) či trobuj atunči te xal normalno xabe. Naj kanči te xala o šavoro ekcera maj čores uni džes. Te si o šavoro khino vaj či mutrel dosta šaj e doš khaj kodo te avel ke či pilas dosta but paji.</p>
+<p type="title">Ker te avel sar maj feder</p>
+<p>Te kamel o šavoro te sovel naj musaj te avel thato dostaj feri te avel e šavorske mišto atunči šaj soven vi ande telune gada. šaj izdral o šavoro ande šil, kodo si normalno kana si uči temperatura, atunči šaj te šaraven e šavores sanes te avel e šavoreske mišto.</p>
+<p type="title" xml:lang="swe">Medicina bi receptako</p>
+<p>Uči temperatura či trubuj mindik te malavel pe tele kusa medicina. Maj but šavoren si uči temperatura so inkrel uni džes thaj kado naj musaj te avel nasul. Šaj te del pe medicina so malavel uči temperatura te si e šavoreske čores khatar e uči temperatura, sar eksemplo dukhal o stato, rovel, či xal či pel, sovel čores vaj naj e šavores pača pe račate.</p>
+<p>Či del pe medicina anglunes khaj šavora so si tela šov šon kana naj kado pušlo khatar doktora.</p>
+<p>Karing uči temperatura šavorenge so si opral trin šon si medicina so si kerdo pe paracetamol, sar eksemplo Alvedon thaj Panodil. Khatar šov šon šaj te del pe medicina šavorenge so si kerdo po ibuprofen, sar eksemplo Ipren thaj Ibumetin. Medicina si ande pajeski forma thaj sar čopka (stolpiller), khaj šol pe ande bul, tela laši dosa. Maj phure šavora šaj xan tabletki/draba. Inkren tume pala informatcia so si pe pačka. Na keren kombinatci diferentne tabletkenca. Šavora so si tela 18 berš thaj si uči temperatura či trobun te xan medicina so malavel/peravel uči temperatura khaj si acetylsalicylsyra, sar eksemplo Magnecyl, Treo vaj Albyl.</p>
+<p type="title">Šaj te lel pe kontakto kusa medicinsko žutipe</p>
+<p>Anglunimastar dikhel pe sar si e šavoreske thaj pala kodo dikhel pe vaj trobuj te lel pe kontakto kusa vårdcentral vaj na. Mindik šaj vorbij pe khaj sjukvårdsrådgivningen vaj vårdcentralen te si kade ke či žanel pe so te kerel pe, specialno te si e šavoreske variso kaver čores.</p>
+<p>Trobuj te rodel pe žutipe direktno khaj jekh vårdcentral vaj kaver akutno žutimasko than te si e šavores uči temperatura thaj si paša kodo variso inke sar kado:</p>
+<list><p type="listitem" xml:lang="swe">Či del kontakto normalno palpale.</p>
+<p type="listitem">Mezij khino thaj či birij pesa thaj či pel.</p>
+<p type="listitem">Si uči temperatura opral 41 gradi.</p>
+</list><p>Mindik trobuj te lel pe kontakto kusa vårdcentral vaj kaver žutimasko than te si o šavoro</p>
+<p>maj terno sar trin šon thaj inkrel uči temperatura opral 38 gradisi maškar trin thaj šov šon thaj inkrel uči temperatura opral 39 gradi.</p>
+<p>Trobuj te lel pe kontakto kusa medicinsko žutipe te či naklas e uči temperatura pala štar džes, sajekh kečij berš si e šavores.</p>
+<p xml:lang="swe"></p>
+<p type="title">Pušen pa žutimaske buča</p>
+<p xml:lang="swe">Šaj vi te vorbis kusa jekh sjuksköterska tela intrego džes thaj te les informatcia. Vorbin 1177. Kodol kon vorbin tusa birin te phenen ande savo vårdcentral tu san andre skirisardo.</p>
+</body></document>

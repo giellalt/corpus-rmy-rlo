@@ -1,90 +1,50 @@
-<document xml:lang="rmy-rlo" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>950</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rlo"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/skane/rom-lo/om-lansstyrelsen/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="om-lansstyrelsen.html"/>
-    <parallel_text xml:lang="fin" location="om-lansstyrelsen.html"/>
-    <parallel_text xml:lang="fit" location="om-lansstyrelsen.html"/>
-    <parallel_text xml:lang="sma" location="om-lansstyrelsen.html"/>
-    <parallel_text xml:lang="sme" location="om-lansstyrelsen.html"/>
-    <parallel_text xml:lang="swe" location="om-lansstyrelsen.html"/>
-    <parallel_text location="om-lansstyrelsen.html" xml:lang="rmu"/>
-    <parallel_text location="om-lansstyrelsen.html" xml:lang="rmy-rka"/>
-    <parallel_text location="om-lansstyrelsen.html" xml:lang="rmf"/>
-    <parallel_text location="om-lansstyrelsen.html" xml:lang="rmn"/>
-    <parallel_text location="om-lansstyrelsen.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Pa Länsstyrelsen - Länsstyrelsen Skåne</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe">Pa Länsstyrelsen</p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Pa Länsstyrelsen</p>
-    <p xml:lang="swe"><em type="italic">Länsstyrelsen si jekh themeski organizacia so si pashe pasha e manush ande sako län. Ame sam jekh vazno vast mashkar e manush thaj e kommuni pa jekh rig thaj pa kaver righ regering, riksdag thaj Centrala myndigheter pe kaver righ. Landshövdingen si sherutno po Länsstyrelsen thaj inkrel e buci te lel sama pala e buci te dikhel e evulutcia thaj te del informatcia e regeriungoske pa kodo so trobuj ando länet. </em></p>
-    <p type="title" xml:lang="swe">Amari missia</p>
-    <p xml:lang="swe">Länsstyrelsens missia si te keren buci te avel jekh maj lashio miljö, bararipe thaj lashie trajimaske konditci djan vast vastesa. Pe skurto keras buci te avel jekh inkerdo mishtipe angle ando länet. Länsstyrelsen inkrel e responsebilita te aresen decizi anda riksdagen thaj regeriungo thaj te nakhen perrdal kodol bucia ande länet thaj ame inkras ketanes e themeski buci. Kana si e buci pa e e evulutcia ande länet keras ame buci te avel mishto e privatno manusheke thaj pala e themeske intressura.</p>
-    <p xml:lang="swe">Pala länsstyrelseinstruktcia si ame te keras buci kadalesa</p>
-    <list>
-      <p type="listitem" xml:lang="swe">habeski kontrolla, animalongi protekcia thaj kaver veterineriska pushimata</p>
-      <p type="listitem" xml:lang="swe">regionalno bararipe</p>
-      <p type="listitem" xml:lang="swe">infrastrukturako planeringo</p>
-      <p type="listitem" xml:lang="swe">inkerdo planeringo pe thana thaj khera</p>
-      <p type="listitem" xml:lang="swe">energia thaj klimato</p>
-      <p type="listitem" xml:lang="swe">kulturako miljö</p>
-      <p type="listitem" xml:lang="swe">protektcia karring accidentura thaj inkeripe ande krisa thaj civilno defencia</p>
-      <p type="listitem" xml:lang="swe">naturako zutipe thaj miljö thaj sastimasko zutipe</p>
-      <p type="listitem" xml:lang="swe">Gavutne thana thaj bucia</p>
-      <p type="listitem" xml:lang="swe">mashiaripe</p>
-      <p type="listitem" xml:lang="swe">jekhipe</p>
-      <p type="listitem" xml:lang="swe">integratcia.</p>
-    </list>
-    <p type="title" xml:lang="swe">Landshövdingen thaj o länsinkeripe</p>
-    <p xml:lang="swe">Landshövdingen si e regeriungosko gazda ande länet thaj si alosardo khatar e regeriungo. jekh vazno buci khaj o landshövdingen si te inkrel pe maj dur e buci anda e themeske bucia ande länet, te inkrel pe e evulutcia thaj te del pe informatcia pa kodo so trobuj ande kodol län. ando Stockholms, Skånes thaj Västa Götalands län si jekh länsöverdirektoro thaj ande kaver län si jekh consilga so inkrel e djesengo buci pasha Länsstyrelsen thaj kodolenge so keren buci kodolesa.</p>
-    <p type="title" xml:lang="swe">Diarium</p>
-    <p xml:lang="swe">Ande diariet registrulij Länsstyrelsen neve bucia sako djes, aktci ande kaver bucia thaj vi decizi so sas pa bucia. Buciako registro si puterdo savorrenge te kamen te dikhen thaj si vi publicime po internet pa diarium so si ande Länsstyrelsens. Univar shaj e publikatcia te perel tele pa internet anda o zakono so si pa personuppgiftslagen.</p>
-    <p xml:lang="swe">&gt;&gt; Gå till länsstyrelsernas diarier (svenska)</p>
-    <p type="title" xml:lang="swe">Kungörelser thaj delgivningar</p>
-    <p xml:lang="swe">Länsstyrelsen lel but differentne decizi si djal direktno vaj inderektno karring e manush vaj firmi so si ando länet. Uni decizi musaj te aven dine kodolenge pa kaste e buci djal. Te si but manush andre pangle ande e buci shaj kado te avel avri skirisardo ande e cini gazheta so si pe kodo than, kodo bushiol kungörelseannonsering, sar te avel avri bishado lilesa kodoleske khere.</p>
-    <p type="title" xml:lang="swe">Appelatcia</p>
-    <p xml:lang="swe">Te san tu andre ande jekh buci khaj naklas jekh decizia biris tu atunci te keres jekh appelatcia pe kodi buci khaj o Länsstyrelsen. A deciziasa so tu les biris vi te les jekh kaver lil khaj sikavel sar tu te keres jekh appelatcia. Länsstyrelsen bishavel pala kodo chiri appelatcia khaj kodo than khaj kodo lil si te djal. Ame shaj vi te keravas amare decizi vaj te vadas o pushipe po nevo.</p>
-    <p xml:lang="swe">But decizi si line khatar jekh kommuna, sar exemplo pa bygglov, te shaj te vazdes opre neve thana pe chiri phuv. Kadal decizi shaj te delpe pe appelatcia khaj o Länsstyrelsen. Tu khaj kames te bishaves jekh appelatcia khaj e kommuna si te bishaves chiro lil khaj kodi kommuna. Musaj te achares e decizia pe tute te keres jekh kasavi appelatcia.</p>
-    <p type="title" xml:lang="swe">Författningar</p>
-    <p xml:lang="swe">Författningar si zakonoske reguli so ginadjion pe sar föreskrifter. Von chi bolden pe karring privatne manush feri bolden pe karring savorrende. Lokalne skirimata si kana aven decizi pa o pajeski protektcia, naturake reservatura, pajeski trafika thaj sar djal pe pala älgar - bare cerbura. Länsstyrelsen del avri e zakonomge lila so inkren zakonura thaj vi kaver decizi so ame lam thaj skirimata so e kommuni dine vaj so e Trafikverket das avri.</p>
-    <p type="title" xml:lang="swe">Remissura</p>
-    <p xml:lang="swe">Sako bersh aven but remissura ando Länsstyrelsen. Kodo znacil ke amen si shajipe te das amare ghindura thaj propusalura khaj e differentne departamentura, themeske organizatci thaj kaver than. Länsstyrelsen bishavel but anda peske propozalura khaj decizi po premissursa khaj differentne intressentura ando länet.</p>
-    <p type="title" xml:lang="swe">Pressrum - Press soba</p>
-    <p xml:lang="swe">Länsstyrelsen kerel buci aktivno te del avri vazno informatcia e citizentonge thaj khaj e media. E internetoske thana thaj amare nevimata pa presso si te del tut jekh lashio serviso thaj djanglipe pa amari buci.</p>
-    <p type="title" xml:lang="swe">EU thaj internationalno</p>
-    <p xml:lang="swe">Khaj sam membrura ando EU diciol pe amende sar citizentura pe bute thanende, pe bare thaj vi pe cine bucia.O Länsstyrelsen dikhel kado ke si jekh shajipe te kerel pe maj but bucia thaj te inkrel pe but jekhutne bajura kaverenca thaj vi te lel pe sama pala jekhutne zakonura. But länsstyrelse inkren but internationalne kontaktura thaj keren vi differentne internationalne projektiso si te leshiarel e lashipe ando länet. Kadala koperatci kerel pe vi themenca so vi naj ando EU.</p>
-    <p type="title" xml:lang="swe">Ker amende buci</p>
-    <p xml:lang="swe">Länsstyrelsen si jekh buciako than khaj si but differentne bucia te kerel pe. Ame sam jekh djanglimasko- thaj dikhimaski organizatcia bare kompetenciasa ande bute thana. Amari buci djal avri te das avri e riksdagens thaj regeriungoske decizi avri ando länet, thaj te keras jekhutne bucia khaj vazden e manushenge interessura thaj te vazdas opre e manushenge opinji ande jekh zuvindo than - kote khaj ekonomiaki evulutcia, miljö thaj socialno lahio trajo djal ketanes.</p>
-    <p type="title" xml:lang="swe">Upphandlingar - Opre kinipe</p>
-    <p xml:lang="swe">Sako länsstyrelse si jekh than khaj korkori kerel kasave opre kinipe pe kontraktura. Amen si skirisarde zakonura sar kado site avel kerdo pa kinipe pa thana thaj bucia thaj ame inkres amen pala o zakono khaj si pa kado o lagen om offentlig upphandling. Amen si vi shajipe te das amen rigate pe e themeske puterde ramavtal lenge kontraktura uni firmenca.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rlo" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>950</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rlo"/><language xml:lang="swe"/></multilingual><origFileName>http://www.lansstyrelsen.se/skane/rom-lo/om-lansstyrelsen/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="om-lansstyrelsen.html"/><parallel_text xml:lang="fin" location="om-lansstyrelsen.html"/><parallel_text xml:lang="fit" location="om-lansstyrelsen.html"/><parallel_text xml:lang="sma" location="om-lansstyrelsen.html"/><parallel_text xml:lang="sme" location="om-lansstyrelsen.html"/><parallel_text xml:lang="swe" location="om-lansstyrelsen.html"/><parallel_text location="om-lansstyrelsen.html" xml:lang="rmu"/><parallel_text location="om-lansstyrelsen.html" xml:lang="rmy-rka"/><parallel_text location="om-lansstyrelsen.html" xml:lang="rmf"/><parallel_text location="om-lansstyrelsen.html" xml:lang="rmn"/><parallel_text location="om-lansstyrelsen.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Pa Länsstyrelsen - Länsstyrelsen Skåne</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem">Pa Länsstyrelsen</p>
+</list><p xml:lang="swe"></p>
+<p type="title">Pa Länsstyrelsen</p>
+<p><em type="italic">Länsstyrelsen si jekh themeski organizacia so si pashe pasha e manush ande sako län. Ame sam jekh vazno vast mashkar e manush thaj e kommuni pa jekh rig thaj pa kaver righ regering, riksdag thaj Centrala myndigheter pe kaver righ. Landshövdingen si sherutno po Länsstyrelsen thaj inkrel e buci te lel sama pala e buci te dikhel e evulutcia thaj te del informatcia e regeriungoske pa kodo so trobuj ando länet. </em></p>
+<p type="title">Amari missia</p>
+<p>Länsstyrelsens missia si te keren buci te avel jekh maj lashio miljö, bararipe thaj lashie trajimaske konditci djan vast vastesa. Pe skurto keras buci te avel jekh inkerdo mishtipe angle ando länet. Länsstyrelsen inkrel e responsebilita te aresen decizi anda riksdagen thaj regeriungo thaj te nakhen perrdal kodol bucia ande länet thaj ame inkras ketanes e themeski buci. Kana si e buci pa e e evulutcia ande länet keras ame buci te avel mishto e privatno manusheke thaj pala e themeske intressura.</p>
+<p>Pala länsstyrelseinstruktcia si ame te keras buci kadalesa</p>
+<list><p type="listitem">habeski kontrolla, animalongi protekcia thaj kaver veterineriska pushimata</p>
+<p type="listitem">regionalno bararipe</p>
+<p type="listitem">infrastrukturako planeringo</p>
+<p type="listitem">inkerdo planeringo pe thana thaj khera</p>
+<p type="listitem">energia thaj klimato</p>
+<p type="listitem" xml:lang="swe">kulturako miljö</p>
+<p type="listitem">protektcia karring accidentura thaj inkeripe ande krisa thaj civilno defencia</p>
+<p type="listitem">naturako zutipe thaj miljö thaj sastimasko zutipe</p>
+<p type="listitem">Gavutne thana thaj bucia</p>
+<p type="listitem">mashiaripe</p>
+<p type="listitem">jekhipe</p>
+<p type="listitem">integratcia.</p>
+</list><p type="title">Landshövdingen thaj o länsinkeripe</p>
+<p>Landshövdingen si e regeriungosko gazda ande länet thaj si alosardo khatar e regeriungo. jekh vazno buci khaj o landshövdingen si te inkrel pe maj dur e buci anda e themeske bucia ande länet, te inkrel pe e evulutcia thaj te del pe informatcia pa kodo so trobuj ande kodol län. ando Stockholms, Skånes thaj Västa Götalands län si jekh länsöverdirektoro thaj ande kaver län si jekh consilga so inkrel e djesengo buci pasha Länsstyrelsen thaj kodolenge so keren buci kodolesa.</p>
+<p type="title" xml:lang="swe">Diarium</p>
+<p>Ande diariet registrulij Länsstyrelsen neve bucia sako djes, aktci ande kaver bucia thaj vi decizi so sas pa bucia. Buciako registro si puterdo savorrenge te kamen te dikhen thaj si vi publicime po internet pa diarium so si ande Länsstyrelsens. Univar shaj e publikatcia te perel tele pa internet anda o zakono so si pa personuppgiftslagen.</p>
+<p xml:lang="swe">&gt;&gt; Gå till länsstyrelsernas diarier (svenska)</p>
+<p type="title">Kungörelser thaj delgivningar</p>
+<p>Länsstyrelsen lel but differentne decizi si djal direktno vaj inderektno karring e manush vaj firmi so si ando länet. Uni decizi musaj te aven dine kodolenge pa kaste e buci djal. Te si but manush andre pangle ande e buci shaj kado te avel avri skirisardo ande e cini gazheta so si pe kodo than, kodo bushiol kungörelseannonsering, sar te avel avri bishado lilesa kodoleske khere.</p>
+<p type="title">Appelatcia</p>
+<p>Te san tu andre ande jekh buci khaj naklas jekh decizia biris tu atunci te keres jekh appelatcia pe kodi buci khaj o Länsstyrelsen. A deciziasa so tu les biris vi te les jekh kaver lil khaj sikavel sar tu te keres jekh appelatcia. Länsstyrelsen bishavel pala kodo chiri appelatcia khaj kodo than khaj kodo lil si te djal. Ame shaj vi te keravas amare decizi vaj te vadas o pushipe po nevo.</p>
+<p>But decizi si line khatar jekh kommuna, sar exemplo pa bygglov, te shaj te vazdes opre neve thana pe chiri phuv. Kadal decizi shaj te delpe pe appelatcia khaj o Länsstyrelsen. Tu khaj kames te bishaves jekh appelatcia khaj e kommuna si te bishaves chiro lil khaj kodi kommuna. Musaj te achares e decizia pe tute te keres jekh kasavi appelatcia.</p>
+<p type="title" xml:lang="swe">Författningar</p>
+<p xml:lang="swe">Författningar si zakonoske reguli so ginadjion pe sar föreskrifter. Von chi bolden pe karring privatne manush feri bolden pe karring savorrende. Lokalne skirimata si kana aven decizi pa o pajeski protektcia, naturake reservatura, pajeski trafika thaj sar djal pe pala älgar - bare cerbura. Länsstyrelsen del avri e zakonomge lila so inkren zakonura thaj vi kaver decizi so ame lam thaj skirimata so e kommuni dine vaj so e Trafikverket das avri.</p>
+<p type="title">Remissura</p>
+<p>Sako bersh aven but remissura ando Länsstyrelsen. Kodo znacil ke amen si shajipe te das amare ghindura thaj propusalura khaj e differentne departamentura, themeske organizatci thaj kaver than. Länsstyrelsen bishavel but anda peske propozalura khaj decizi po premissursa khaj differentne intressentura ando länet.</p>
+<p type="title" xml:lang="swe">Pressrum - Press soba</p>
+<p>Länsstyrelsen kerel buci aktivno te del avri vazno informatcia e citizentonge thaj khaj e media. E internetoske thana thaj amare nevimata pa presso si te del tut jekh lashio serviso thaj djanglipe pa amari buci.</p>
+<p type="title" xml:lang="swe">EU thaj internationalno</p>
+<p>Khaj sam membrura ando EU diciol pe amende sar citizentura pe bute thanende, pe bare thaj vi pe cine bucia.O Länsstyrelsen dikhel kado ke si jekh shajipe te kerel pe maj but bucia thaj te inkrel pe but jekhutne bajura kaverenca thaj vi te lel pe sama pala jekhutne zakonura. But länsstyrelse inkren but internationalne kontaktura thaj keren vi differentne internationalne projektiso si te leshiarel e lashipe ando länet. Kadala koperatci kerel pe vi themenca so vi naj ando EU.</p>
+<p type="title">Ker amende buci</p>
+<p>Länsstyrelsen si jekh buciako than khaj si but differentne bucia te kerel pe. Ame sam jekh djanglimasko- thaj dikhimaski organizatcia bare kompetenciasa ande bute thana. Amari buci djal avri te das avri e riksdagens thaj regeriungoske decizi avri ando länet, thaj te keras jekhutne bucia khaj vazden e manushenge interessura thaj te vazdas opre e manushenge opinji ande jekh zuvindo than - kote khaj ekonomiaki evulutcia, miljö thaj socialno lahio trajo djal ketanes.</p>
+<p type="title" xml:lang="swe">Upphandlingar - Opre kinipe</p>
+<p>Sako länsstyrelse si jekh than khaj korkori kerel kasave opre kinipe pe kontraktura. Amen si skirisarde zakonura sar kado site avel kerdo pa kinipe pa thana thaj bucia thaj ame inkres amen pala o zakono khaj si pa kado o lagen om offentlig upphandling. Amen si vi shajipe te das amen rigate pe e themeske puterde ramavtal lenge kontraktura uni firmenca.</p>
+</body></document>

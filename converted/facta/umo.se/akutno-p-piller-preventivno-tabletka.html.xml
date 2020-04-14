@@ -1,80 +1,36 @@
-<document xml:lang="rmy-rlo" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>868</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rlo"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Romska-lovara/Akutno-p-piller-preventivno-tabletka</origFileName>
-    <parallel_text xml:lang="fin" location="jalkiehkaisypilleri.html"/>
-    <parallel_text xml:lang="fit" location="akyytti-p-pilleri.html"/>
-    <parallel_text xml:lang="sma" location="akute-p-pillere.html"/>
-    <parallel_text xml:lang="sme" location="fahkkatla-p-pillar.html"/>
-    <parallel_text xml:lang="smj" location="hahkka-p-tablahtta.html"/>
-    <parallel_text xml:lang="swe" location="akut-p-piller.html"/>
-    <parallel_text location="kris-p-drabb.html" xml:lang="rmu"/>
-    <parallel_text location="sigutno-p-pilleri-akut-p-pilleri.html" xml:lang="rmf"/>
-    <parallel_text location="akutno-p-drab.html" xml:lang="rmy-rka"/>
-    <parallel_text location="akutno-pipula.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Akutno-p-piller (preventivno tabletka)</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Akutno-p-piller (preventivno tabletka)</p>
-    <p xml:lang="swe"><em type="italic">Akutno-p-piller si jekh tabletka so e žuvla si te len te na peren phare. Kado naj jekh normalno prevencia te na perel jekh žuvli phari, kado naj protekcia tela jekh seksualno akto. Akutno-p-piller si feri te avel sar jekh paluni solutcia thaj na sar jekh preventiva karring kodo te perel e žuvli phari. </em><em type="italic"></em></p>
-    <p xml:lang="swe">Akutno-p-piller si jekh drom te ašavel pe kodo te ašol žuvli phari te sas e manušen jekh seksualno akto bi protektciako, sar eksemplo bisterdžile e manuš te len preventivno protetkcia, vaj či kamle te len protektcia, vaj te naklas varikon seksualno nasulipe (zor)</p>
-    <p xml:lang="swe">Trobuj vi te lel pe akutno-p-piller te si riziko ke e kaver protekcia či funkciulijas, sar eksemplo o kondomo paradžilas vaj te šaglas e žuvli opre pesko kaver p-piller.</p>
-    <p xml:lang="swe">E tabletka inkrel o hormono gestagen (galbenostatesko hormona) Kodo kerel ke či avel e anrengo mukhipe (ägglossning) vaj ke kadi procesa avla opre šudini.</p>
-    <p xml:lang="swe">Gestagen si vi ande normalne p-piller, numa e dosa ande jekh akutno-p-piller si pe buteste maj but. Kodo kerel vi kodo ke e negativne efektura ačardžon maj but vi te či kerdžol pe kodo butivar.</p>
-    <p xml:lang="swe">Akutno-p-piller si te avel sar jekh paluni solutcia thaj na sar normalno preventivno protektcia.</p>
-    <p xml:lang="swe">Akutno-p-piller či ašavel a žuvliako pharipe thaj naj sa kodo sar jekh abortcia vaj sar jekh abortciaki tabletka.</p>
-    <p type="title" xml:lang="swe">So kerel o akutno-p-piller?</p>
-    <p xml:lang="swe">Univar phenel pe po akutno-p-piller dagen-efter-piller (tabletka po dujto džes). O dujto anav či phenel o čačipe ke naj kade ke musaj te xal pe e tebletka po dujto džes pala o seksualno akto. Jekh akutno-p-piller si te xal pe angla 72 časura, trin džes, pala o seksualno akto te žutij e tabletka.</p>
-    <p xml:lang="swe">So maj sigo lel pe e tabletka maj cini šansa si atunči te perel e žuvli phari. Pala varisavo vaj varisave džes kana xalas pe akutno-p-piller šaj rat te šordžol (telal), numa savorende či kerdžol pe kodo.</p>
-    <p xml:lang="swe">Si vi jekh specialno akutno-p-piller so šaj te xal pe ži khaj o panšto džes pala o seksualno akto. Kadi tabletka šaj feri te avel avri dini pe recepta thaj kado šaj doktoro vaj barnmorska te kerel.</p>
-    <p xml:lang="swe">Te trobuj jekha kasavi recepta šaj e žuvli te lel kotakto kusa ungdomsmottagning, sex- och samlevnadsmottagning, vårdcentral, barnmorskemottagning vaj kvinnoklinik (žuvlani klinika). Butivar počinel pe pa kodo. Pe uni thana šaj te lel pe kado bi počinimasko.</p>
-    <p type="title" xml:lang="swe">Khaj šaj te lel pe akutno-p-piller?</p>
-    <p xml:lang="swe">Šaj te lel pe akutno-p-piller pe e maj but ungdomsmottagningar, sex- och samlevnadsmottagningar thaj vårdcentraler.</p>
-    <p xml:lang="swe">Šaj vi te lel pe akutno-p-piller pe uni barnmoskemottagningar thaj žuvliane kliniki.</p>
-    <p xml:lang="swe">Si vi pe apoteka thaj kado šaj te khinel pe bi receptako.</p>
-    <p xml:lang="swe">Te žal pe sar khaj jekh ungdomsmottagning te lel pe akutno-p-piller šaj vi te lel pe vrama te kerel pe testi pe graviditeta thaj te kamel pe šaj vi te kerel pe jekh testa pe klamydia.</p>
-    <p xml:lang="swe">Šaj vi te šunel pe so šaj te kerel pe te avel protektcia karring kodo te na pherel e žuvli phari vaj pa telune nasvalimata.</p>
-    <p type="title" xml:lang="swe">Sode kostulij akutno-p-piller?</p>
-    <p xml:lang="swe">Te khinel pe akutno-p-piller ande apoteka počinel pe pa kodo. Po ungdomsmottagningen si kado pe ivija.</p>
-    <p type="title" xml:lang="swe">Sar sekurno si akutno-p-piller?</p>
-    <p xml:lang="swe">Riziko te perel e žuvli phari si cino te xal pe kadi tabletka. Riziko ke e akutno-p-piller či žutij, te kerdžol e žuvli phari, kerdžol so maj baro so maj but žukarel pe te xal pe e tabletka pala o seksualno akto.</p>
-    <p xml:lang="swe">Te šadel pe 3 časura pala tabletka vaj te si a žuvlia diarré šaj te avel kade ke e žuvliako stato či lel o hormono karring peste. Anda kodo trobuj te lel pe jekh nevi tabletka sigo, ke te na lela pe jekh nevo šaj o riziko te avel ke e žuvli pherel phari.</p>
-    <p xml:lang="swe">So funkcionulij kodi akutno-p-piller so lel pe šaj te ginavel pe maj but ande informatcia so si ande pačka. Kadi informatcia si jekh lil so si ande pačka kana khinel pe vaj kana lel pe o akutno-p-piller. Šaj vi te pušel pe khatar jekh barnmorska pe ungdomsmottagning vaj pe hud- och könsmottagning te si kade ke kamel pe te žanel pe maj but.</p>
-    <p xml:lang="swe">Te avel o manuš sekurno ke naj e žuvli phari trobuj te kerel jekh pharimaski testa (graviditetstest) trin kurke pala e tabletka.</p>
-    <p type="title" xml:lang="swe">Sodivar šaj te xal pe akutno-p-piller?</p>
-    <p xml:lang="swe">Naj granitcia sodivar šaj te xal pe akutno-p-piller ži oun aresel a žuvlia lako žuvliano šon. Te sas seksualno akto kerdo bi protekciako si undivar maj feder te xal pe maj butivar akutno-p-piller sar te na xal pe, vi te si riziko ke šaja te avel maj but rat.</p>
-    <p xml:lang="swe">Te si kade ke lel pe akutno-p-piller butivar trobuj pe te del pe ghindo e žuvli sar lel pe kaver protektcia te na xal pe kado but akutno-p-piller. Te lel pe žutipe kadala informatciasa šaj te kerel pe kontakto kusa jekh ungdomsmottagning, vårdcentral vaj hud- och könsmottagning.</p>
-    <p type="title" xml:lang="swe">Positivne bučia</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Te nas preventivno protektcia vaj te nas funktcia kodolesa si kado jekh drom te činjarel pe o riziko te perel e žuvli phari.</p>
-    </list>
-    <p type="title" xml:lang="swe">Negativne bučia</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Akutno-p-piller či del protektcia karing telune (seksualne) nasvalimata.</p>
-      <p type="listitem" xml:lang="swe">Hormono šaj te kerel kado ke dukhal o šero, dukhal o kolin vaj ke ačaren pe e žuvlia čorres, numa kado či inkrel pe but vrama.</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="rmy-rlo" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>863</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rlo"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Romska-lovara/Akutno-p-piller-preventivno-tabletka</origFileName><parallel_text xml:lang="fin" location="jalkiehkaisypilleri.html"/><parallel_text xml:lang="fit" location="akyytti-p-pilleri.html"/><parallel_text xml:lang="sma" location="akute-p-pillere.html"/><parallel_text xml:lang="sme" location="fahkkatla-p-pillar.html"/><parallel_text xml:lang="smj" location="hahkka-p-tablahtta.html"/><parallel_text xml:lang="swe" location="akut-p-piller.html"/><parallel_text location="kris-p-drabb.html" xml:lang="rmu"/><parallel_text location="sigutno-p-pilleri-akut-p-pilleri.html" xml:lang="rmf"/><parallel_text location="akutno-p-drab.html" xml:lang="rmy-rka"/><parallel_text location="akutno-pipula.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Akutno-p-piller (preventivno tabletka)</p>
+<p type="title" xml:lang="swe">Akutno-p-piller (preventivno tabletka)</p>
+<p><em type="italic">Akutno-p-piller si jekh tabletka so e žuvla si te len te na peren phare. Kado naj jekh normalno prevencia te na perel jekh žuvli phari, kado naj protekcia tela jekh seksualno akto. Akutno-p-piller si feri te avel sar jekh paluni solutcia thaj na sar jekh preventiva karring kodo te perel e žuvli phari. </em><em type="italic"></em></p>
+<p>Akutno-p-piller si jekh drom te ašavel pe kodo te ašol žuvli phari te sas e manušen jekh seksualno akto bi protektciako, sar eksemplo bisterdžile e manuš te len preventivno protetkcia, vaj či kamle te len protektcia, vaj te naklas varikon seksualno nasulipe (zor)</p>
+<p xml:lang="swe">Trobuj vi te lel pe akutno-p-piller te si riziko ke e kaver protekcia či funkciulijas, sar eksemplo o kondomo paradžilas vaj te šaglas e žuvli opre pesko kaver p-piller.</p>
+<p xml:lang="swe">E tabletka inkrel o hormono gestagen (galbenostatesko hormona) Kodo kerel ke či avel e anrengo mukhipe (ägglossning) vaj ke kadi procesa avla opre šudini.</p>
+<p>Gestagen si vi ande normalne p-piller, numa e dosa ande jekh akutno-p-piller si pe buteste maj but. Kodo kerel vi kodo ke e negativne efektura ačardžon maj but vi te či kerdžol pe kodo butivar.</p>
+<p>Akutno-p-piller si te avel sar jekh paluni solutcia thaj na sar normalno preventivno protektcia.</p>
+<p>Akutno-p-piller či ašavel a žuvliako pharipe thaj naj sa kodo sar jekh abortcia vaj sar jekh abortciaki tabletka.</p>
+<p type="title" xml:lang="swe">So kerel o akutno-p-piller?</p>
+<p xml:lang="swe">Univar phenel pe po akutno-p-piller dagen-efter-piller (tabletka po dujto džes). O dujto anav či phenel o čačipe ke naj kade ke musaj te xal pe e tebletka po dujto džes pala o seksualno akto. Jekh akutno-p-piller si te xal pe angla 72 časura, trin džes, pala o seksualno akto te žutij e tabletka.</p>
+<p>So maj sigo lel pe e tabletka maj cini šansa si atunči te perel e žuvli phari. Pala varisavo vaj varisave džes kana xalas pe akutno-p-piller šaj rat te šordžol (telal), numa savorende či kerdžol pe kodo.</p>
+<p>Si vi jekh specialno akutno-p-piller so šaj te xal pe ži khaj o panšto džes pala o seksualno akto. Kadi tabletka šaj feri te avel avri dini pe recepta thaj kado šaj doktoro vaj barnmorska te kerel.</p>
+<p xml:lang="swe">Te trobuj jekha kasavi recepta šaj e žuvli te lel kotakto kusa ungdomsmottagning, sex- och samlevnadsmottagning, vårdcentral, barnmorskemottagning vaj kvinnoklinik (žuvlani klinika). Butivar počinel pe pa kodo. Pe uni thana šaj te lel pe kado bi počinimasko.</p>
+<p type="title">Khaj šaj te lel pe akutno-p-piller?</p>
+<p xml:lang="swe">Šaj te lel pe akutno-p-piller pe e maj but ungdomsmottagningar, sex- och samlevnadsmottagningar thaj vårdcentraler.</p>
+<p xml:lang="swe">Šaj vi te lel pe akutno-p-piller pe uni barnmoskemottagningar thaj žuvliane kliniki.</p>
+<p>Si vi pe apoteka thaj kado šaj te khinel pe bi receptako.</p>
+<p xml:lang="swe">Te žal pe sar khaj jekh ungdomsmottagning te lel pe akutno-p-piller šaj vi te lel pe vrama te kerel pe testi pe graviditeta thaj te kamel pe šaj vi te kerel pe jekh testa pe klamydia.</p>
+<p>Šaj vi te šunel pe so šaj te kerel pe te avel protektcia karring kodo te na pherel e žuvli phari vaj pa telune nasvalimata.</p>
+<p type="title" xml:lang="swe">Sode kostulij akutno-p-piller?</p>
+<p xml:lang="swe">Te khinel pe akutno-p-piller ande apoteka počinel pe pa kodo. Po ungdomsmottagningen si kado pe ivija.</p>
+<p type="title" xml:lang="swe">Sar sekurno si akutno-p-piller?</p>
+<p>Riziko te perel e žuvli phari si cino te xal pe kadi tabletka. Riziko ke e akutno-p-piller či žutij, te kerdžol e žuvli phari, kerdžol so maj baro so maj but žukarel pe te xal pe e tabletka pala o seksualno akto.</p>
+<p>Te šadel pe 3 časura pala tabletka vaj te si a žuvlia diarré šaj te avel kade ke e žuvliako stato či lel o hormono karring peste. Anda kodo trobuj te lel pe jekh nevi tabletka sigo, ke te na lela pe jekh nevo šaj o riziko te avel ke e žuvli pherel phari.</p>
+<p>So funkcionulij kodi akutno-p-piller so lel pe šaj te ginavel pe maj but ande informatcia so si ande pačka. Kadi informatcia si jekh lil so si ande pačka kana khinel pe vaj kana lel pe o akutno-p-piller. Šaj vi te pušel pe khatar jekh barnmorska pe ungdomsmottagning vaj pe hud- och könsmottagning te si kade ke kamel pe te žanel pe maj but.</p>
+<p>Te avel o manuš sekurno ke naj e žuvli phari trobuj te kerel jekh pharimaski testa (graviditetstest) trin kurke pala e tabletka.</p>
+<p type="title" xml:lang="swe">Sodivar šaj te xal pe akutno-p-piller?</p>
+<p xml:lang="swe">Naj granitcia sodivar šaj te xal pe akutno-p-piller ži oun aresel a žuvlia lako žuvliano šon. Te sas seksualno akto kerdo bi protekciako si undivar maj feder te xal pe maj butivar akutno-p-piller sar te na xal pe, vi te si riziko ke šaja te avel maj but rat.</p>
+<p>Te si kade ke lel pe akutno-p-piller butivar trobuj pe te del pe ghindo e žuvli sar lel pe kaver protektcia te na xal pe kado but akutno-p-piller. Te lel pe žutipe kadala informatciasa šaj te kerel pe kontakto kusa jekh ungdomsmottagning, vårdcentral vaj hud- och könsmottagning.</p>
+<p type="title">Positivne bučia</p>
+<list><p type="listitem">Te nas preventivno protektcia vaj te nas funktcia kodolesa si kado jekh drom te činjarel pe o riziko te perel e žuvli phari.</p>
+</list><p type="title">Negativne bučia</p>
+<list><p type="listitem" xml:lang="swe">Akutno-p-piller či del protektcia karing telune (seksualne) nasvalimata.</p>
+<p type="listitem">Hormono šaj te kerel kado ke dukhal o šero, dukhal o kolin vaj ke ačaren pe e žuvlia čorres, numa kado či inkrel pe but vrama.</p>
+</list></body></document>

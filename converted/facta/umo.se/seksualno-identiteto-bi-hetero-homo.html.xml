@@ -1,68 +1,25 @@
-<document xml:lang="rmy-rlo" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>444</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rlo"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Romska-lovara/Seksualno-identiteto-bi-hetero-homo</origFileName>
-    <parallel_text xml:lang="fin" location="seksuaalinen-suuntautuminen--bi-hetero-homo-.html"/>
-    <parallel_text xml:lang="fit" location="seksuaalinen-taipumus--biiseksuaalinen-hetero-homo.html"/>
-    <parallel_text xml:lang="sma" location="seksuellen-syjhtede--bi-heteroe-homoe.html"/>
-    <parallel_text xml:lang="sme" location="seksualala-sodju---bi-hetero-homo.html"/>
-    <parallel_text xml:lang="smj" location="seksualak-tjardda-bi-hetero-homo.html"/>
-    <parallel_text xml:lang="swe" location="sexuell-laggning---hetero-homo-bi.html"/>
-    <parallel_text location="bulopha-voltrande--bi-hetero-homo.html" xml:lang="rmu"/>
-    <parallel_text location="seksualkane-rigjiba.html" xml:lang="rmf"/>
-    <parallel_text location="seksualno-manuipe--bi-hetero-homo.html" xml:lang="rmy-rka"/>
-    <parallel_text location="seksualikano-orientiribe--biseksualco-hetero-homoseksualco.html" xml:lang="rmn"/>
-    <parallel_text location="seksuelse-nejgung---baj-hetero-homo.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Seksualno identiteto -bi, hetero, homo</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Seksualno identiteto -bi, hetero, homo</p>
-    <p xml:lang="swe">Seksualno identoteto phenel khas kames vaj pe khaste o phabos. Šaj te aves biseksualno, heteroseksualno vaj homoseksualno.</p>
-    <p type="title" xml:lang="swe">Si si kodo bi, hetero thaj homo?</p>
-    <p xml:lang="swe">Si trin seksualne identitetura: biseksualiteto, heteroseksualiteto thaj homoseksualiteto. Butivar phenel pe feri ke o manuš si homo, hetero vaj bi.</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Biseksualiteto si kana o manuš kamel thaj vi phabol pe žuvlia thaj vi pe murš.</p>
-      <p type="listitem" xml:lang="swe">Heteroseksualiteto si kana o manuš kamel vaj phabol po kaver manušipe (murš-žuvli). Jekh kaver vorba pe kado si straight.</p>
-      <p type="listitem" xml:lang="swe">Homoseksualiteto si kana o manuš kamel pe vaj phabol pe sa kodo manušipe (žuvli-žuvli). Jekh kaver vorba pe kodo si gay. Žuvla so kamen kaver žuvlia šaj te phenen pe pende lesbiska vaj flator (buljaška). Murš khaj kamen kavere muršen šaj te phenen bög (buljaši) pe peste.</p>
-    </list>
-    <p type="title" xml:lang="swe">Normalno si kodo ke ghindoj pe pe pesko seksualno identiteto</p>
-    <p xml:lang="swe">Normalno si kodo ke ghindoj pe pe pesko seksualno identiteto. Seksualno identiteto šaj te pardžol pe tela intrego trajo vi te ghindoj pe ke žanel pe savo si jekhes anglunimastar.</p>
-    <p xml:lang="swe">Korkori alosarel o manuš vaj kamel te akharel pe bi, hetero vaj homo. Šaj vi te alosarel pe te phenel pe ke naj e manušes jekh specialno seksualno identiteto.</p>
-    <p type="title" xml:lang="swe">Žukarimata khatar sa e kaver</p>
-    <p xml:lang="swe">Sa e kaver manuš žukaren butivar te avel o manuš heteroseksualno. Te si kade ke o manuš či ačarel pe kade šaj kodo te kerel ke o manuš ačarel pe kaver, ke či dičol vaj avri khatar o khetanipe.</p>
-    <p type="title" xml:lang="swe">Te phurij pe pa pesko seksualno identiteto</p>
-    <p xml:lang="swe">Sajek si savo seksualno identieto si e manušes ke o manuš korkori alosarel so vov kamel te phenel kaverenge.</p>
-    <p xml:lang="swe">Kana si o manuš heteroseksualno či trobuj pe te phenel pe kado ke butivar len e manuš kado sar te avilov savori kade.</p>
-    <p xml:lang="swe">Te si o manuš homoseksualno vaj biseksualno, šaj univar o manuš ačarel ke kamel te phurij kodo avri.</p>
-    <p type="title" xml:lang="swe">Seksualno identiteto naj kanci kusa e manušeski faca vaj manušipe</p>
-    <p xml:lang="swe">Univar ghindon manuš ke trobuj o manuš te avel varisar feri te sikadžol pe o seksualno identiteto. Ke si unien specialne ineresura, ke mezij pe o manuš specialne vaj ke kamel pe uni bajura.</p>
-    <p xml:lang="swe">Numa interesura, kharaktero thaj sar o manuš mezij, vaj sar o manuš alosarel te trajij, naj panglo kusa o seksualno identiteto.</p>
-    <p type="title" xml:lang="swe">Kriminalno si te kerel pe diskriminacia anda seksualno identiteto</p>
-    <p xml:lang="swe">Sajek si savo seksualno identieto si e manušes les si čačipe te trajij sar vov korkori alosarel.</p>
-    <p xml:lang="swe">Te kerel pe diskriminatsia pe jekh manuš anda lesko seksualno identiteto si kriminalno.</p>
-    <p xml:lang="swe">Te si kade ke nakhel pe maripe anda pesko seksualno identiteto si kodo jekh seriozno kriminalo buči khaj bušol hatbrott.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rlo" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>439</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rlo"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Romska-lovara/Seksualno-identiteto-bi-hetero-homo</origFileName><parallel_text xml:lang="fin" location="seksuaalinen-suuntautuminen--bi-hetero-homo-.html"/><parallel_text xml:lang="fit" location="seksuaalinen-taipumus--biiseksuaalinen-hetero-homo.html"/><parallel_text xml:lang="sma" location="seksuellen-syjhtede--bi-heteroe-homoe.html"/><parallel_text xml:lang="sme" location="seksualala-sodju---bi-hetero-homo.html"/><parallel_text xml:lang="smj" location="seksualak-tjardda-bi-hetero-homo.html"/><parallel_text xml:lang="swe" location="sexuell-laggning---hetero-homo-bi.html"/><parallel_text location="bulopha-voltrande--bi-hetero-homo.html" xml:lang="rmu"/><parallel_text location="seksualkane-rigjiba.html" xml:lang="rmf"/><parallel_text location="seksualno-manuipe--bi-hetero-homo.html" xml:lang="rmy-rka"/><parallel_text location="seksualikano-orientiribe--biseksualco-hetero-homoseksualco.html" xml:lang="rmn"/><parallel_text location="seksuelse-nejgung---baj-hetero-homo.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Seksualno identiteto -bi, hetero, homo</p>
+<p type="title" xml:lang="swe">Seksualno identiteto -bi, hetero, homo</p>
+<p xml:lang="swe">Seksualno identoteto phenel khas kames vaj pe khaste o phabos. Šaj te aves biseksualno, heteroseksualno vaj homoseksualno.</p>
+<p type="title">Si si kodo bi, hetero thaj homo?</p>
+<p xml:lang="swe">Si trin seksualne identitetura: biseksualiteto, heteroseksualiteto thaj homoseksualiteto. Butivar phenel pe feri ke o manuš si homo, hetero vaj bi.</p>
+<list><p type="listitem">Biseksualiteto si kana o manuš kamel thaj vi phabol pe žuvlia thaj vi pe murš.</p>
+<p type="listitem" xml:lang="swe">Heteroseksualiteto si kana o manuš kamel vaj phabol po kaver manušipe (murš-žuvli). Jekh kaver vorba pe kado si straight.</p>
+<p type="listitem" xml:lang="swe">Homoseksualiteto si kana o manuš kamel pe vaj phabol pe sa kodo manušipe (žuvli-žuvli). Jekh kaver vorba pe kodo si gay. Žuvla so kamen kaver žuvlia šaj te phenen pe pende lesbiska vaj flator (buljaška). Murš khaj kamen kavere muršen šaj te phenen bög (buljaši) pe peste.</p>
+</list><p type="title">Normalno si kodo ke ghindoj pe pe pesko seksualno identiteto</p>
+<p>Normalno si kodo ke ghindoj pe pe pesko seksualno identiteto. Seksualno identiteto šaj te pardžol pe tela intrego trajo vi te ghindoj pe ke žanel pe savo si jekhes anglunimastar.</p>
+<p>Korkori alosarel o manuš vaj kamel te akharel pe bi, hetero vaj homo. Šaj vi te alosarel pe te phenel pe ke naj e manušes jekh specialno seksualno identiteto.</p>
+<p type="title">Žukarimata khatar sa e kaver</p>
+<p>Sa e kaver manuš žukaren butivar te avel o manuš heteroseksualno. Te si kade ke o manuš či ačarel pe kade šaj kodo te kerel ke o manuš ačarel pe kaver, ke či dičol vaj avri khatar o khetanipe.</p>
+<p type="title">Te phurij pe pa pesko seksualno identiteto</p>
+<p>Sajek si savo seksualno identieto si e manušes ke o manuš korkori alosarel so vov kamel te phenel kaverenge.</p>
+<p>Kana si o manuš heteroseksualno či trobuj pe te phenel pe kado ke butivar len e manuš kado sar te avilov savori kade.</p>
+<p>Te si o manuš homoseksualno vaj biseksualno, šaj univar o manuš ačarel ke kamel te phurij kodo avri.</p>
+<p type="title" xml:lang="swe">Seksualno identiteto naj kanci kusa e manušeski faca vaj manušipe</p>
+<p>Univar ghindon manuš ke trobuj o manuš te avel varisar feri te sikadžol pe o seksualno identiteto. Ke si unien specialne ineresura, ke mezij pe o manuš specialne vaj ke kamel pe uni bajura.</p>
+<p xml:lang="swe">Numa interesura, kharaktero thaj sar o manuš mezij, vaj sar o manuš alosarel te trajij, naj panglo kusa o seksualno identiteto.</p>
+<p type="title">Kriminalno si te kerel pe diskriminacia anda seksualno identiteto</p>
+<p xml:lang="swe">Sajek si savo seksualno identieto si e manušes les si čačipe te trajij sar vov korkori alosarel.</p>
+<p>Te kerel pe diskriminatsia pe jekh manuš anda lesko seksualno identiteto si kriminalno.</p>
+<p>Te si kade ke nakhel pe maripe anda pesko seksualno identiteto si kodo jekh seriozno kriminalo buči khaj bušol hatbrott.</p>
+</body></document>

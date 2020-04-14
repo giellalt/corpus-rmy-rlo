@@ -1,59 +1,16 @@
-<document xml:lang="rmy-rlo" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>361</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rlo"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Regler-och-rattigheter/Second-opinion-en-andra-lakarbedomning</origFileName>
-    <parallel_text xml:lang="eng" location="second-opinion-en-andra-lakarbedomning.html"/>
-    <parallel_text xml:lang="fin" location="second-opinion-en-andra-lakarbedomning.html"/>
-    <parallel_text xml:lang="fit" location="second-opinion-en-andra-lakarbedomning.html"/>
-    <parallel_text xml:lang="sma" location="second-opinion.html"/>
-    <parallel_text xml:lang="sme" location="second-opinion-en-andra-lakarbedomning.html"/>
-    <parallel_text xml:lang="smj" location="second-opinion-en-andra-lakerbedomning.html"/>
-    <parallel_text xml:lang="swe" location="second-opinion-en-andra-lakarbedomning.html"/>
-    <parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmy-rka"/>
-    <parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmn"/>
-    <parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmu"/>
-    <parallel_text location="second-opinion-en-andra-lakerbedomning.html" xml:lang="yid"/>
-    <parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Nevo medicinako dikhipe, second opinion / Ny medicinsk bedömning, second opinion - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib lovarickaRomska lovara</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Nevo medicinako dikhipe, second opinionNy medicinsk bedömning, second opinion</p>
-    <p xml:lang="swe">Te sanas khaj jekh doktori thaj lan jekh atveto ke san nasvalo thaj tordžos angla phare decizi si tut čačipe te les jekh nevo medicinako dikhipe khatar o doktori, maj anglal bušolas kado second opinion. Ghindo kadalesa te lel pe jekh nevo medicinako dikhipe si te avel o manuš pačako ande kodo žutipe so vov lel thaj kodo so les maj feder žutij.</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe">Jekh nevo medecinako dikhipe si jekhes čačipe te lel te si e manušes jekh seriozno nasvalipe vaj jekh nasvalipe so si nasul pe manušesko trajo. Sar eksemplo cancer vaj jekh nasvalipe ande nervovo systemp.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Sar si?</p>
-    <p xml:lang="swe">Te sas o manuš khaj jekh doktori thaj šundas ke si nasvalo thaj tordžol angla jekh phari decizia si kodoles čačipe te lel jekh kaver doktoritsko dikhipe thaj te šundel jekh kaver opinja thaj kado bušol second opinion. Kodo značil pe ke si šajipe te avel jekh kaver eksamina kotar jekh kaver doktori. Ghindo kadalesa si te avel o manuš čalo kodole žutimasa so lel thaj so pasulij e manušes maj feder. Mindik šaj o manuš te pušel khatar o doktori vaj les si šajipe pe jekh nevo medicinako dikhipe.</p>
-    <p xml:lang="swe">Te si kade ke o nevo medicinako dikhipe sikavel ke šaj te lel pe jekh kaver alternativako žutipe si te avel kade ke si te lel pe kodo žutipe. Kodo si si te avel te lel pe kodo alternativno žutipe si</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Ke si dosta žanglipe/rodipe thaj si eksperiensa pe kodo thaj</p>
-      <p type="listitem" xml:lang="swe">Si jekh košta, so žal pe kodo nasvalipe vaj dukh, khaj naj za učo.</p>
-    </list>
-    <p xml:lang="swe">Te mangel o manuš te aresel ande jekh kaver klinika vaj khaj jekh kaver doktori ando Švedo si atunči o landsting khaj o manuš si andre skirisardo te zumavel te keravel kado te birij o manuš te aresel kote.</p>
-    <p xml:lang="swe">Šaj vi te lel pe kontakto kusa patientnämnden vaj patientombudsmannen ande kodo landsting khaj o manuš trajij sar te lel pe kadi informatsia sar lel pe jekh en second opinion.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rlo" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>352</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rlo"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Regler-och-rattigheter/Second-opinion-en-andra-lakarbedomning</origFileName><parallel_text xml:lang="eng" location="second-opinion-en-andra-lakarbedomning.html"/><parallel_text xml:lang="fin" location="second-opinion-en-andra-lakarbedomning.html"/><parallel_text xml:lang="fit" location="second-opinion-en-andra-lakarbedomning.html"/><parallel_text xml:lang="sma" location="second-opinion.html"/><parallel_text xml:lang="sme" location="second-opinion-en-andra-lakarbedomning.html"/><parallel_text xml:lang="smj" location="second-opinion-en-andra-lakerbedomning.html"/><parallel_text xml:lang="swe" location="second-opinion-en-andra-lakarbedomning.html"/><parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmy-rka"/><parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmn"/><parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmu"/><parallel_text location="second-opinion-en-andra-lakerbedomning.html" xml:lang="yid"/><parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Nevo medicinako dikhipe, second opinion / Ny medicinsk bedömning, second opinion - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Nevo medicinako dikhipe, second opinionNy medicinsk bedömning, second opinion</p>
+<p>Te sanas khaj jekh doktori thaj lan jekh atveto ke san nasvalo thaj tordžos angla phare decizi si tut čačipe te les jekh nevo medicinako dikhipe khatar o doktori, maj anglal bušolas kado second opinion. Ghindo kadalesa te lel pe jekh nevo medicinako dikhipe si te avel o manuš pačako ande kodo žutipe so vov lel thaj kodo so les maj feder žutij.</p>
+<p xml:lang="swe"></p>
+<p>Jekh nevo medecinako dikhipe si jekhes čačipe te lel te si e manušes jekh seriozno nasvalipe vaj jekh nasvalipe so si nasul pe manušesko trajo. Sar eksemplo cancer vaj jekh nasvalipe ande nervovo systemp.</p>
+<p xml:lang="swe"></p>
+<p type="title">Sar si?</p>
+<p>Te sas o manuš khaj jekh doktori thaj šundas ke si nasvalo thaj tordžol angla jekh phari decizia si kodoles čačipe te lel jekh kaver doktoritsko dikhipe thaj te šundel jekh kaver opinja thaj kado bušol second opinion. Kodo značil pe ke si šajipe te avel jekh kaver eksamina kotar jekh kaver doktori. Ghindo kadalesa si te avel o manuš čalo kodole žutimasa so lel thaj so pasulij e manušes maj feder. Mindik šaj o manuš te pušel khatar o doktori vaj les si šajipe pe jekh nevo medicinako dikhipe.</p>
+<p>Te si kade ke o nevo medicinako dikhipe sikavel ke šaj te lel pe jekh kaver alternativako žutipe si te avel kade ke si te lel pe kodo žutipe. Kodo si si te avel te lel pe kodo alternativno žutipe si</p>
+<list><p type="listitem">Ke si dosta žanglipe/rodipe thaj si eksperiensa pe kodo thaj</p>
+<p type="listitem">Si jekh košta, so žal pe kodo nasvalipe vaj dukh, khaj naj za učo.</p>
+</list><p>Te mangel o manuš te aresel ande jekh kaver klinika vaj khaj jekh kaver doktori ando Švedo si atunči o landsting khaj o manuš si andre skirisardo te zumavel te keravel kado te birij o manuš te aresel kote.</p>
+<p>Šaj vi te lel pe kontakto kusa patientnämnden vaj patientombudsmannen ande kodo landsting khaj o manuš trajij sar te lel pe kadi informatsia sar lel pe jekh en second opinion.</p>
+</body></document>

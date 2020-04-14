@@ -1,69 +1,27 @@
-<document xml:lang="rmy-rlo" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>937</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rlo"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Romska-lovara/Alkoholo</origFileName>
-    <parallel_text xml:lang="fin" location="alkoholi.html"/>
-    <parallel_text xml:lang="fit" location="alkkuhooli.html"/>
-    <parallel_text xml:lang="sma" location="alkohole.html"/>
-    <parallel_text xml:lang="sme" location="alkohola.html"/>
-    <parallel_text xml:lang="smj" location="alkohola.html"/>
-    <parallel_text xml:lang="swe" location="alkohol.html"/>
-    <parallel_text location="alkohol.html" xml:lang="rmu"/>
-    <parallel_text location="alkoholi.html" xml:lang="rmf"/>
-    <parallel_text location="alkoholo.html" xml:lang="rmy-rka"/>
-    <parallel_text location="alkoholi.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Alkoholo</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Alkoholo</p>
-    <p xml:lang="swe">Kana phenel pe alkoholo phenel pe, bera, mol thaj recija But manuš pien kodo ke kodo si lašo lenge vaj ke kamen te macion. Numa alkoholo šaj vi te avel nasul. Kodo šaj te dukhavel thaj te del nasvalimata, šaj vi te kerel kodo ke perel o manuš ande čudne thaj nasul situatci. Uni len depresi (ångest) thaj ačaren pe čores kana pien.</p>
-    <p xml:lang="swe">Te žutij pe e ternen si beršeske granici kana o manuš šaj te khinel alkoholo: 18 berš ando baro thaj 20 berš te birij o manuš te khinel po systembolag. Vi te birij jekh manuš te khinel alkoholo naj slobodo te khinel pe kaverenge kodo.</p>
-    <p type="title" xml:lang="swe">Sostar piel pe?</p>
-    <p xml:lang="swe">But manuš pien alkoholo ke kodo si lašo lenge thaj ke mištoj lenge kodo. Uni pien ke ke či ačaren pe sekurni ande pende. Te piel pe kado te ačarel pe o manuš maj feder ande peste vaj te malavel tele depresia vaj kana piel pe za but, čak kado te vazdel jekh adikcia. Šaj vi te ačarel pe o manuš čores, vi kana piel thaj vi pala kodo.</p>
-    <p xml:lang="swe">Kana si o manuš terno thaj piel alkoholo šaj te avel kodo ke von ačaren pe maj phure. Kam si kade ke varikon del len te pien khere, vaj kam si kade ke von pien penge amalenca. Butivar si kade ke o manuš či žanel vaj kodo kamel te piel vaj na, numa kerel kodo vi kade ke kaver pien thaj atuci pacal o terno ke vi vov “trobusardov“ Numa te tromal o manuš te na kerel kodo thaj te inkrel pe karing e gruppa si kodoles but te njerij. So maj but o manuš žukarel so maj feder si kodo, ke e rizikura cinjion pe nasvalimata thaj adikcia po alkoholo.</p>
-    <p type="title" xml:lang="swe">So kerdžol pe kana piel pe?</p>
-    <p xml:lang="swe">Kana o manuš matjiol rumun pe e signalura ande godži kodo kerel ke o ghindipe, humoro, serejipe, balanso thaj o manušipe kerdžol maj čoro. Vi e muskulongi buči romuj pe.</p>
-    <p xml:lang="swe">Kana o manušipe kerdžol maj čoro či ačarel pe sa kade sar kana o manuš si trazo. Kam kerel pe kasave bajura so či kerdov pe maj anglal: vorbij pe maj but thaj maj butenca, khelel, astardžol khaj kaver, thaj zumavel neve bajura. Kana manušipe naj po than či ačarel pe mišto vaj variso si zurales nasul vaj si baro riziko pe varisoste. Kana manuš si mato birj kodo te kerel diferentne bajura so šaj te anaven konsekvensura maj angle.</p>
-    <p xml:lang="swe">Uni bučia si šaj te kerdžol pe kana o manuš pilas:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Ke hasares bajura vaj ke romun pe kodol bajura, ke o manuš či lel sama ke varikon čorarel les.</p>
-      <p type="listitem" xml:lang="swe">Perel ande holja thaj lel pe te marel pe. Normalno si ke marimata ande matjipe lel pe anda bučia so či avilov holi ando trazo stano.</p>
-      <p type="listitem" xml:lang="swe">Ke si manušes sekso vi te naj kamel. Kana si manuš mato šaj te avel phares te phenel pe na, thaj kodo šaj te kerel kodo ke kodo vaj kodolenca khas sas sekso ačarel pe čores, vaj khaj seksualne nasulimata.</p>
-      <p type="listitem" xml:lang="swe">Ke si manušes sekso bi protekciako, thaj atunci si šansa te lel pe telune (seksualne) nasvalimata, vaj ke perel phari.</p>
-      <p type="listitem" xml:lang="swe">Ke zumavel pe kaver drogi. Maj but anda e manuš so zumade narkotika angluni data pile sas vi alkoholo, kam anda kodo ke či pacan ke kodo si nasul.</p>
-      <p type="listitem" xml:lang="swe">Ke kerdžol varisavo accidento. Šaj te avel pa jekh motoro vaj vurdon, ke malavel pe o manuš thaj perel ande paji.</p>
-      <p type="listitem" xml:lang="swe">Ke čorel pe vaj pagrel pe bajura khaj naj lenge, vaj žal pe andre varkhaj čordanes khaj naj slobodo.</p>
-      <p type="listitem" xml:lang="swe">Ke peren amnsuh ande depresi vaj si lenge čores kana von pile. Kodo šaj te kerdžol pe kana von kerde bajuro so vazden lenge ladžavo, vaj sar jekh reaktcia anda stato.</p>
-      <p type="listitem" xml:lang="swe">Ke phares si te inkrel pe e buči vaj te žal pe normalno ande skola. Alkoholo ašol ando stato pala kodo kana o manuš sas mato, thaj šaj te cirdel pe maj but sar jekh džes ži pun e godži kerel normalno buči sar exemplo te serel pe thaj te sitjiol pe variso.</p>
-    </list>
-    <p xml:lang="swe">Uni ghindon ke naj nasul te piel pe te na kerla pe kado butivar, sar feri savatone vaj kurke, te piel pe but alkoholo. Numa kodo naj čačipe.</p>
-    <p type="title" xml:lang="swe">Po dujto džes</p>
-    <p xml:lang="swe">Šaj maj dur te avel manuš tela alkoholo te sas kodo pilo. Zaleži keci o manuš pilas. Sar exemplo inkrel o alkoholo khatar jekh zurali bera khatar trin ži khaj štar časura ande manušesko stato. Či birij pe te kerel pe kanči te žal kodi vrama maj sigo. Vi kana si o manuš khino khatar o matcipe parudžol pe o manušipe thaj phares si atunci te kerel pe sakofalo sar normalno. Sar exemplo si zurales nasul te tradel pe motoro vaj vurdon, thaj te si alkoholo ando stato pagrel kodo o zakono.</p>
-    <p type="title" xml:lang="swe">Alkoholosko utruce (posionosko nasvalipe)</p>
-    <p xml:lang="swe">Savori reagulin diferentno po alkoholo thaj savori či birin te pien sa keci, mindig si jekh granicia khaj o stato phenla ke dostaj. Kodo si ke o manuš šadel vaj khaj o manuš sovel andre. Te si kade ke o manuš sovel andre thaj či šunel kanči thaj naj reaktcia (medvetslös) si kado nasul, thaj atunci musaj te tradel pe ande bolnicia.</p>
-    <p xml:lang="swe">Te si kade ke manuš daral anda varikhaste khaj pilas, si te lel pe kontakto kusa jekh maj phuro, sjukvårdsrådgivningen, policia vaj te tradel ande bolnicia. Te perel varikon ande jekh sojipe bi reakticako (medvetslös) si te vorbij pe po 112. Te na zumaven te šadel o manuš vaj te šorel pe šudro paji pe lende, ke si jekh riziko pe kaver dukhajimata thaj accidentura.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rlo" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>932</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rlo"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Romska-lovara/Alkoholo</origFileName><parallel_text xml:lang="fin" location="alkoholi.html"/><parallel_text xml:lang="fit" location="alkkuhooli.html"/><parallel_text xml:lang="sma" location="alkohole.html"/><parallel_text xml:lang="sme" location="alkohola.html"/><parallel_text xml:lang="smj" location="alkohola.html"/><parallel_text xml:lang="swe" location="alkohol.html"/><parallel_text location="alkohol.html" xml:lang="rmu"/><parallel_text location="alkoholi.html" xml:lang="rmf"/><parallel_text location="alkoholo.html" xml:lang="rmy-rka"/><parallel_text location="alkoholi.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Alkoholo</p>
+<p type="title">Alkoholo</p>
+<p>Kana phenel pe alkoholo phenel pe, bera, mol thaj recija But manuš pien kodo ke kodo si lašo lenge vaj ke kamen te macion. Numa alkoholo šaj vi te avel nasul. Kodo šaj te dukhavel thaj te del nasvalimata, šaj vi te kerel kodo ke perel o manuš ande čudne thaj nasul situatci. Uni len depresi (ångest) thaj ačaren pe čores kana pien.</p>
+<p>Te žutij pe e ternen si beršeske granici kana o manuš šaj te khinel alkoholo: 18 berš ando baro thaj 20 berš te birij o manuš te khinel po systembolag. Vi te birij jekh manuš te khinel alkoholo naj slobodo te khinel pe kaverenge kodo.</p>
+<p type="title">Sostar piel pe?</p>
+<p>But manuš pien alkoholo ke kodo si lašo lenge thaj ke mištoj lenge kodo. Uni pien ke ke či ačaren pe sekurni ande pende. Te piel pe kado te ačarel pe o manuš maj feder ande peste vaj te malavel tele depresia vaj kana piel pe za but, čak kado te vazdel jekh adikcia. Šaj vi te ačarel pe o manuš čores, vi kana piel thaj vi pala kodo.</p>
+<p>Kana si o manuš terno thaj piel alkoholo šaj te avel kodo ke von ačaren pe maj phure. Kam si kade ke varikon del len te pien khere, vaj kam si kade ke von pien penge amalenca. Butivar si kade ke o manuš či žanel vaj kodo kamel te piel vaj na, numa kerel kodo vi kade ke kaver pien thaj atuci pacal o terno ke vi vov “trobusardov“ Numa te tromal o manuš te na kerel kodo thaj te inkrel pe karing e gruppa si kodoles but te njerij. So maj but o manuš žukarel so maj feder si kodo, ke e rizikura cinjion pe nasvalimata thaj adikcia po alkoholo.</p>
+<p type="title">So kerdžol pe kana piel pe?</p>
+<p>Kana o manuš matjiol rumun pe e signalura ande godži kodo kerel ke o ghindipe, humoro, serejipe, balanso thaj o manušipe kerdžol maj čoro. Vi e muskulongi buči romuj pe.</p>
+<p>Kana o manušipe kerdžol maj čoro či ačarel pe sa kade sar kana o manuš si trazo. Kam kerel pe kasave bajura so či kerdov pe maj anglal: vorbij pe maj but thaj maj butenca, khelel, astardžol khaj kaver, thaj zumavel neve bajura. Kana manušipe naj po than či ačarel pe mišto vaj variso si zurales nasul vaj si baro riziko pe varisoste. Kana manuš si mato birj kodo te kerel diferentne bajura so šaj te anaven konsekvensura maj angle.</p>
+<p>Uni bučia si šaj te kerdžol pe kana o manuš pilas:</p>
+<list><p type="listitem">Ke hasares bajura vaj ke romun pe kodol bajura, ke o manuš či lel sama ke varikon čorarel les.</p>
+<p type="listitem">Perel ande holja thaj lel pe te marel pe. Normalno si ke marimata ande matjipe lel pe anda bučia so či avilov holi ando trazo stano.</p>
+<p type="listitem">Ke si manušes sekso vi te naj kamel. Kana si manuš mato šaj te avel phares te phenel pe na, thaj kodo šaj te kerel kodo ke kodo vaj kodolenca khas sas sekso ačarel pe čores, vaj khaj seksualne nasulimata.</p>
+<p type="listitem">Ke si manušes sekso bi protekciako, thaj atunci si šansa te lel pe telune (seksualne) nasvalimata, vaj ke perel phari.</p>
+<p type="listitem">Ke zumavel pe kaver drogi. Maj but anda e manuš so zumade narkotika angluni data pile sas vi alkoholo, kam anda kodo ke či pacan ke kodo si nasul.</p>
+<p type="listitem">Ke kerdžol varisavo accidento. Šaj te avel pa jekh motoro vaj vurdon, ke malavel pe o manuš thaj perel ande paji.</p>
+<p type="listitem">Ke čorel pe vaj pagrel pe bajura khaj naj lenge, vaj žal pe andre varkhaj čordanes khaj naj slobodo.</p>
+<p type="listitem">Ke peren amnsuh ande depresi vaj si lenge čores kana von pile. Kodo šaj te kerdžol pe kana von kerde bajuro so vazden lenge ladžavo, vaj sar jekh reaktcia anda stato.</p>
+<p type="listitem">Ke phares si te inkrel pe e buči vaj te žal pe normalno ande skola. Alkoholo ašol ando stato pala kodo kana o manuš sas mato, thaj šaj te cirdel pe maj but sar jekh džes ži pun e godži kerel normalno buči sar exemplo te serel pe thaj te sitjiol pe variso.</p>
+</list><p>Uni ghindon ke naj nasul te piel pe te na kerla pe kado butivar, sar feri savatone vaj kurke, te piel pe but alkoholo. Numa kodo naj čačipe.</p>
+<p type="title">Po dujto džes</p>
+<p>Šaj maj dur te avel manuš tela alkoholo te sas kodo pilo. Zaleži keci o manuš pilas. Sar exemplo inkrel o alkoholo khatar jekh zurali bera khatar trin ži khaj štar časura ande manušesko stato. Či birij pe te kerel pe kanči te žal kodi vrama maj sigo. Vi kana si o manuš khino khatar o matcipe parudžol pe o manušipe thaj phares si atunci te kerel pe sakofalo sar normalno. Sar exemplo si zurales nasul te tradel pe motoro vaj vurdon, thaj te si alkoholo ando stato pagrel kodo o zakono.</p>
+<p type="title">Alkoholosko utruce (posionosko nasvalipe)</p>
+<p>Savori reagulin diferentno po alkoholo thaj savori či birin te pien sa keci, mindig si jekh granicia khaj o stato phenla ke dostaj. Kodo si ke o manuš šadel vaj khaj o manuš sovel andre. Te si kade ke o manuš sovel andre thaj či šunel kanči thaj naj reaktcia (medvetslös) si kado nasul, thaj atunci musaj te tradel pe ande bolnicia.</p>
+<p>Te si kade ke manuš daral anda varikhaste khaj pilas, si te lel pe kontakto kusa jekh maj phuro, sjukvårdsrådgivningen, policia vaj te tradel ande bolnicia. Te perel varikon ande jekh sojipe bi reakticako (medvetslös) si te vorbij pe po 112. Te na zumaven te šadel o manuš vaj te šorel pe šudro paji pe lende, ke si jekh riziko pe kaver dukhajimata thaj accidentura.</p>
+</body></document>

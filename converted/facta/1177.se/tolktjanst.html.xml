@@ -1,67 +1,24 @@
-<document xml:lang="rmy-rlo" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>387</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rlo"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Regler-och-rattigheter/Tolktjanst</origFileName>
-    <parallel_text xml:lang="eng" location="tolktjanst.html"/>
-    <parallel_text xml:lang="fin" location="tolktjanst.html"/>
-    <parallel_text xml:lang="fit" location="tolktjanst.html"/>
-    <parallel_text xml:lang="sma" location="tolktjanst.html"/>
-    <parallel_text xml:lang="sme" location="tilktjanst.html"/>
-    <parallel_text xml:lang="smj" location="tolktjanst.html"/>
-    <parallel_text xml:lang="swe" location="tolktjanst.html"/>
-    <parallel_text location="tolktjanst.html" xml:lang="rmy-rka"/>
-    <parallel_text location="tolktjanst.html" xml:lang="rmn"/>
-    <parallel_text location="tolktjanst.html" xml:lang="rmu"/>
-    <parallel_text location="tolktjanst.html" xml:lang="yid"/>
-    <parallel_text location="tolktjanst.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Tolmačo pe kaver šiba / Tolkning till andra språk - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib lovarickaRomska lovara</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Tolmačo pe kaver šibaTolkning till andra språk</p>
-    <p xml:lang="swe">Te si kade ke či vorbis švedicka si tut atunči čačipe khaj jekh tolmačo kana dikhes tut doktoresa vaj varikhasa kavere ando žutipe vaj dandengo žutipe. Ande e maj bute thanende birin e bučara te arakhen tuke jekhe tolmačos. Phen angla čiri vizita ke trobuj tut jekh tolmačo.</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe">Jekhe tolmačos si tystnadsplikt, kodo žnačij kodo ke o tolmačo naštik te mukhel avri čiri informatsia te na mukhesa les te kerel kodo. Familja thaj amala so si tolmačura či inkren kado tystnadsplikt.﻿</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Diferentne formi ande tolmačonge khedimata</p>
-    <p xml:lang="swe">Jekh tolmačo si te boldel kodo so žutimaske bučara phenen te biris te ačares e informatsia so šaj te les partča ande čiro žutipe (linko khaj patientlagen). Tut si čačipe khaj jekh šibako tolmačo kana tut si khedipe varikhasa anda sastimasko- thaj žutimasko žutipe –vaj ande dandengo žutipe - tandvården.</p>
-    <p xml:lang="swe">Jekh khedipe kusa jekh tolmačo šaj te avel pe diferentne droma:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tolmačo šaj te avel paša tumende kana si tumen khedipe.</p>
-      <p type="listitem" xml:lang="swe">Tolmačo šaj te šundžol pa telefono ando khedipe.</p>
-      <p type="listitem" xml:lang="swe">Univar si vi šajipe ke o tolmačo žutij tumen pa viedo thaj kodo bušol video tolmačo. Tu, bučara inkren jekh kontakto pa jekh kamera thaj komputero.</p>
-      <p type="listitem" xml:lang="swe">San maj but manuš so vorbin sa kodi šib birin tume te len sa kodi informatsia jekh grupako tolmačo. Sar eksemplo šaj te aven maj but dada thaj deja po barnavårdcentralen.</p>
-    </list>
-    <p xml:lang="swe">Puš e bučaren savi forma anda tolmačo so biris te les.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Phen e bučarenge sar khames te avel</p>
-    <p xml:lang="swe">Phen e bučarenge ke trobuj tut tolmačo kana rodes vrama thaj phen pe savi šib kames tolmačos. Butivar roden e bučara tolmačos.</p>
-    <p xml:lang="swe">Te si kade ke či biris te aves khaj e vizita si te phenel pe kado e tolmačoske. Ande uni landsting počines tu e košta po tolmačo te na phenesa ke či aves. Sar e kansilatsi kerel pe si diferentno maškar e diferentne landsting. Puš khatar e bučara so roden e tolmačos sar si ande čiri situatsia.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Či boldel pe skirisardi informatsia</p>
-    <p xml:lang="swe">Tolmačura bolden maj butivar feri kodo so phenel pe, na skirisardo teksti. Kate po 1177.se si informatsia pe but diferentne šiba, pa šavorikane nasvalimata thaj sar o žutipe funktsionulij.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rlo" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>378</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rlo"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Regler-och-rattigheter/Tolktjanst</origFileName><parallel_text xml:lang="eng" location="tolktjanst.html"/><parallel_text xml:lang="fin" location="tolktjanst.html"/><parallel_text xml:lang="fit" location="tolktjanst.html"/><parallel_text xml:lang="sma" location="tolktjanst.html"/><parallel_text xml:lang="sme" location="tilktjanst.html"/><parallel_text xml:lang="smj" location="tolktjanst.html"/><parallel_text xml:lang="swe" location="tolktjanst.html"/><parallel_text location="tolktjanst.html" xml:lang="rmy-rka"/><parallel_text location="tolktjanst.html" xml:lang="rmn"/><parallel_text location="tolktjanst.html" xml:lang="rmu"/><parallel_text location="tolktjanst.html" xml:lang="yid"/><parallel_text location="tolktjanst.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Tolmačo pe kaver šiba / Tolkning till andra språk - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Tolmačo pe kaver šibaTolkning till andra språk</p>
+<p>Te si kade ke či vorbis švedicka si tut atunči čačipe khaj jekh tolmačo kana dikhes tut doktoresa vaj varikhasa kavere ando žutipe vaj dandengo žutipe. Ande e maj bute thanende birin e bučara te arakhen tuke jekhe tolmačos. Phen angla čiri vizita ke trobuj tut jekh tolmačo.</p>
+<p xml:lang="swe"></p>
+<p>Jekhe tolmačos si tystnadsplikt, kodo žnačij kodo ke o tolmačo naštik te mukhel avri čiri informatsia te na mukhesa les te kerel kodo. Familja thaj amala so si tolmačura či inkren kado tystnadsplikt.﻿</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Diferentne formi ande tolmačonge khedimata</p>
+<p>Jekh tolmačo si te boldel kodo so žutimaske bučara phenen te biris te ačares e informatsia so šaj te les partča ande čiro žutipe (linko khaj patientlagen). Tut si čačipe khaj jekh šibako tolmačo kana tut si khedipe varikhasa anda sastimasko- thaj žutimasko žutipe –vaj ande dandengo žutipe - tandvården.</p>
+<p>Jekh khedipe kusa jekh tolmačo šaj te avel pe diferentne droma:</p>
+<list><p type="listitem">Tolmačo šaj te avel paša tumende kana si tumen khedipe.</p>
+<p type="listitem">Tolmačo šaj te šundžol pa telefono ando khedipe.</p>
+<p type="listitem">Univar si vi šajipe ke o tolmačo žutij tumen pa viedo thaj kodo bušol video tolmačo. Tu, bučara inkren jekh kontakto pa jekh kamera thaj komputero.</p>
+<p type="listitem">San maj but manuš so vorbin sa kodi šib birin tume te len sa kodi informatsia jekh grupako tolmačo. Sar eksemplo šaj te aven maj but dada thaj deja po barnavårdcentralen.</p>
+</list><p>Puš e bučaren savi forma anda tolmačo so biris te les.</p>
+<p xml:lang="swe"></p>
+<p type="title">Phen e bučarenge sar khames te avel</p>
+<p>Phen e bučarenge ke trobuj tut tolmačo kana rodes vrama thaj phen pe savi šib kames tolmačos. Butivar roden e bučara tolmačos.</p>
+<p>Te si kade ke či biris te aves khaj e vizita si te phenel pe kado e tolmačoske. Ande uni landsting počines tu e košta po tolmačo te na phenesa ke či aves. Sar e kansilatsi kerel pe si diferentno maškar e diferentne landsting. Puš khatar e bučara so roden e tolmačos sar si ande čiri situatsia.</p>
+<p xml:lang="swe"></p>
+<p type="title">Či boldel pe skirisardi informatsia</p>
+<p>Tolmačura bolden maj butivar feri kodo so phenel pe, na skirisardo teksti. Kate po 1177.se si informatsia pe but diferentne šiba, pa šavorikane nasvalimata thaj sar o žutipe funktsionulij.</p>
+</body></document>

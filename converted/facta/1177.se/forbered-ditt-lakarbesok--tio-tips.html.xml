@@ -1,112 +1,72 @@
-<document xml:lang="rmy-rlo" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1574</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rlo"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Regler-och-rattigheter/Forbered-ditt-lakarbesok--tio-tips</origFileName>
-    <parallel_text xml:lang="eng" location="forbered-ditt-lakarbesok--tio-tips-.html"/>
-    <parallel_text xml:lang="fin" location="forbered-ditt-lakarbesok--tio-tips-.html"/>
-    <parallel_text xml:lang="sme" location="forbered-ditt-lakarbesok--tio-tips-.html"/>
-    <parallel_text xml:lang="swe" location="motet-med-varden.html"/>
-    <parallel_text location="forbered-ditt-lakarbesok--tio-tips-.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Getosar tut angla doktoritsko vizita – deš tipsura / Förbered ditt läkarbesök – tio tips - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib lovarickaRomska lovara</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Getosar tut angla doktoritsko vizita – deš tipsura Förbered ditt läkarbesök – tio tips</p>
-    <p xml:lang="swe">Kana getosares tut angla doktoritsko žutipe biris te les partča ando žutipe khetanes kusa e žutimaske bučara thaj von formulina o žutipe pala tute. Grundo khaj jekh pačako thaj sekurno žutipe si jekh lašo vorbipe maškar tute thaj e bučara.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">1. Alosar savo žutimasko than avla čiro</p>
-    <p xml:lang="swe">Kana si te rodes žutipe biris korkori te alosares savo žutimasko than si te avel čiro. Šaj te alosares jekh žutimasko than ande intrego them, sajek si khaj san skirisardo.</p>
-    <p xml:lang="swe">Šaj te alosares žutimasko than ando primarno žutipe, sar eksemplo vårdcentral, thaj ande phuterdo specialst žutipe, sar eksemplo šavorengo žutipe - barnmottagning. Khaj specialis žutipe šaj te avel kade ke trobuj tut jekh remiso.</p>
-    <p xml:lang="swe">Te si kade ke alosares jekh nevo vårdcentral vaj specialist than či birin e bučara te dikhen čire žurnalura so tut sas khaj e kaver žutimaske thana. Te si kade ke kames von te birin te dikhen ande čire žurnalura musaj te des len permisia pe kodo. Vorbin čire neve žutimaske bučarenca sar kodo kerel pe.</p>
-    <p xml:lang="swe">Vårdgarantin – žutimaski garantsia phenel sode vrama biris te žukares sar maj but ži pun tut avla jekh kontakto thaj žutipe. Kana les žutipe ande jekh kaver landsting perel o vårdgarantin tele.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">2. Le sama pala tute te ačares sa</p>
-    <p xml:lang="swe">Kana san khaj o doktori si atunči važno te ačares kodo so phenel pe thaj so kodo žnačij. Žutimaske bučara si te len sama pala kodo tume te ačaren sa e informatsia, sar eksemplo sar xal pe e medicina. Maj važne buča šaj vi te manges te avel tele skirisardi. Šaj vi te manges jekh nevo khedipe kusa e bučara te den atvetura pe čire pušimata.</p>
-    <p xml:lang="swe">Sa e informatsia si te avel kerdi pala tute. Te si kade ke či ačares sa pe Švdedicko šib šaj manges tolmačos. Kodo šaj vi te manges te šunes čores, vaj san kašuko, muto vaj dikhes čores vaj san koro. Phen ke manges jekhe tolmačos angla jekh vizita.</p>
-    <p xml:lang="swe">Šavoren si vi čačipe te len partča ando žutipe so von len. Naj či soski beršeski granitsa kana jekh šavoro šaj te parunčil ande jekh žutimaski situatsia, kado dikhel pe pala šavoreski godži thaj žutimaski situatsia.</p>
-    <p xml:lang="swe">Te si kade ke či biris te les partča ande informatsia, sar eksemplo ke si tut demens, si e bučara te den e informatsia jekheske so si paše.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">3. Phen korkori thaj puš pušimata</p>
-    <p xml:lang="swe">Angla jekh vizita si mišto te des tut ghindo so kames te žanes thaj save atvetura kames. Phen e doktoroske save žukarimata tut si pe vizita thaj te si variso so tut daravel. Skrin tele čire pušimata ke atunči si maj lokho te serel pe e pušimata. Šaj vi te manges kaveren te skrin tele čire pušimata. Kate si uni bajura so šaj te skris tele angla jekh vizita:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Save problemura tut si.</p>
-      <p type="listitem" xml:lang="swe">Kana la spe e problema thaj so keres kana dukhal maj tsera vaj maj but.</p>
-      <p type="listitem" xml:lang="swe">Jekh lista pe e medicini so xas, vi kodol so si bi reseptakto thaj naturalne medicini.</p>
-      <p type="listitem" xml:lang="swe">Te si tut vaj ke sas tut seriozne nasvalimata.</p>
-    </list>
-    <p xml:lang="swe">Jekh kaver drom te serel pe si te skrij pe sako djes variso pa e dukha thaj e problemura. Šaj te skris save situatsi tut len dukha, sar ačares len thaj khaj kodo dukhal.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">4. Si te les partča ande čiro žutipe</p>
-    <p xml:lang="swe">Tut si čačipe te phenes so ghindos pa čiro žutipe thaj vi te porunčis unie bučansa. Numa te biris te aves hamislo ande buči si te les individualno informatsia pa:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Sastimaski konditsia.</p>
-      <p type="listitem" xml:lang="swe">Save medoti si po rodipe, žutipe thaj kaver droma ando žutipe.</p>
-      <p type="listitem" xml:lang="swe">Save rizikura si thaj save komplikatsi si kusa e rodimata thaj žutimata.</p>
-      <p type="listitem" xml:lang="swe">Kana šaj te žukares ke lesa žutipe.</p>
-      <p type="listitem" xml:lang="swe">Sar o žukardo žutipe mezija.</p>
-      <p type="listitem" xml:lang="swe">Eftervård – savo žutipe lesa pala o angluno žutipe.</p>
-      <p type="listitem" xml:lang="swe">So biris te keres te na nasvajves vaj te dukhadžos.</p>
-      <p type="listitem" xml:lang="swe">Te si tut jekh funktsiako nasvalipe si te les informatsia save žutimata si.</p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">5. Angla rodimata thaj žutimata</p>
-    <p xml:lang="swe">Kana lan jekh diagnosa si butivar rutini pe rodimata thaj žutimata. Univar si vi diferentne rodimaske thaj žutimaske alternativi te alosares. Atunči si tut čačipe te les informatsia pa kadal buča thaj te alosares sar tu se nakhes e doktoritske eksaminatsi – dikhimata thaj žutimata.</p>
-    <p xml:lang="swe">Tu alosares vaj kames te nakhes kadal dikhimata vaj či kames te les kado žutipe.</p>
-    <p xml:lang="swe">Sar patsiento či biris te keres zorasa te keren e bučara kasave buča si žan pročiv žanglipe thaj rodimata thaj so sas zumado maj anglal. E bučara naj musaj te žutin tut te arakhes kaver žutimata thaj alternativne medicini.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">6. Šaj te phenes na</p>
-    <p xml:lang="swe">Tut si čačipe te phenes na khaj o žutipe so del pe tut. Ande uni buča či birij pe te phenel pe na, kodo si kana si psykiatrisk tvångsvård – psykiatricno žutipe pe zor thaj uni kaver phare nasvalimata so peren kaveren, sar eksemplo HIV, so si skirisarde ando smittskyddslagen – zakono pe nasvalimata so peren kaveren.</p>
-    <p xml:lang="swe">E paše manušen naj čačipe te parunčin pa o žutipe so si tuke dino. Te si kade keči biris te phenes so kames, šaj e bučara te pušen khatar čire pašen vaj von žanen so tu kames.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">7. Tu porunčis vaj čire manuš si te žanen vaj na</p>
-    <p xml:lang="swe">Univar si mišto kana varikhon paše si tusa kana san pe vizita. Vov vaj voj šaj te žutij tut te seres so sas phendo thaj vi te avel jekh dumo tuke. Numa tu porunčis so von si te žanen. Tystnadsplikt – zakono te na phenel pe thaj sekreteso kerel kodo ke feri kodo so tu manges anda informatsia te avel lenge avri thaj feri kana tu san paše, numa te kames šaj te phenes ke kames čire manuš te žanen sa anda informatsia. E bučara pušen univar kaske von si te phenen e informatsia.</p>
-    <p xml:lang="swe">Te san tela 18 berš thaj rodes žutipe, naj musaj e maj phure ande čiro kher te žanen pa kodo. Von čperen ando kontakto sar eksemplo te</p>
-    <list>
-      <p type="listitem" xml:lang="swe">te žas khaj jekh ungdomsmottagning</p>
-      <p type="listitem" xml:lang="swe">maladžos kusa jekh kuratoro</p>
-      <p type="listitem" xml:lang="swe">les žutipe kusa protektsia te na peres phari</p>
-      <p type="listitem" xml:lang="swe">nakhes testo pe seksualne navsalimata.</p>
-    </list>
-    <p xml:lang="swe">Či trobuj te žanen te rodan žutipe pe jekh vårdcentral. Kodo so kerel te kontaktulij pe e maj phuren si e doš khaj čiri vizita, thaj sode beršengo san, thaj sar godžaver san. Phurin e doktoroske te si kade ke či kames te lel pe kontakto čire manushenca. Šaj te ginaves maj but pa tystnadsplikt thaj sekretes po UMO.se.</p>
-    <p xml:lang="swe">Kana žal e buči pa tsine šavora porunčin e gazdi savi informatsia šaj te avel avri thaj na. Numa so maj phuro o šavoro kerdžol peren so maj but decizi po pšavoro kaske e informatsia šaj avel avri.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">8. Puš so kerel pe maj palal</p>
-    <p xml:lang="swe">Si te žanes kana thaj kasa si te peres ando kontakto thaj kon si te lel responsebilita pe atvetura pe prubi thaj rodimata. Si vi te žanes khaj si te boldes tu te avla tuke maj čores.</p>
-    <p xml:lang="swe">Te lan žutipe ande jekh bolnica trobuj tu thaj e bučara te keren jekh žutimasko plano thaj te avel tumen jekh plano ži pun skrij tut avri e bolnica.</p>
-    <p xml:lang="swe">Te si tut but diferentne kontaktura ando sastimaske thaj žutimaske thana, šaj te manges te avel tut jekh stalo kontakto. Vov vaj voj šaj te žutij tut te inkrel sa e kontaktura tuke.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">9. Seriozno thaj daravno nasvalipe vaj dukh</p>
-    <p xml:lang="swe">Si tut jekh nasvalipe so si daravno po trajo, jekh specialno pharo nasvalipe vaj jekh dukhajipe, atunči si tut jekh šansa te les jekh nevo medicinako dikhipe khatar o doktori, jekh second opinion. Kado šaj te žutij tut te si kade ke či san sekurno savo žutipe kames te les. Kodo ke mangel pe jekh nevo medicinako dikhipe naj musaj te žnačij kodo ke či san čalo čire doktorosa.</p>
-    <p xml:lang="swe">Šaj te alosares jekhe doktoros ande intrego them so si te kerel o nevo medicinako dikhipe. Puš čire doktoros te kames te žanes maj but.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">10. Te či san čalo</p>
-    <p xml:lang="swe">Te či san čalo e žutimasa, vaj varikhon paše, si tut čačipe te phenes čire ghindura. Te kerel pe kado žutij pe te avel o žutipe maj lašo maj anglal.</p>
-    <p xml:lang="swe">Anglunimastar si mišto te boldes tut khaj kodol doktora thaj bučara so kerde e dikhimata thaj žutimata. Šaj vi te boldes tut khaj o šefo pe kodi žutimasko than. Žutimasko than si atunči te kerel jekh rodipe pe kodo so kerdas pe thaj pala kodo te phenel so von si te keren te na kerdžol sa kodo jekh kaver data.</p>
-    <p xml:lang="swe">Šaj vi te boldes tut khaj Patientnämnden žutimasa pe čire pušimata. Sako landsting inkrel pesko patientnämnd vaj jekh patientombudsman so si te žutij tut. Patientnämnden thaj patientombudsmannen lel manušendar lenge ghindura thaj kodo so či čaljol e manušen, numa naj len zor te phenen vaj čačes sas variso čoro kerdo. Vi uni patsientonge organizatsi birin univar te žutin tut bučansa so či čaljarel tut.</p>
-    <p xml:lang="swe">Ačardan tut diskriminovano ando žutipe šaj atunči te des kodo opre khaj diskrimineringsombudsmannen, DO.</p>
-    <p xml:lang="swe">Te si kade ke sanas dukhado vaj ačares ke si kaver doša ande patsientongo sekurita šaj te des kodo opre atunči khaj IVO, Inspektionen för vård och omsorg. Von si te dikhen perdal e buča sostar nakhlas e buči čores thaj sostar, te na kerdžol kodo po dujto.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rlo" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1565</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rlo"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Regler-och-rattigheter/Forbered-ditt-lakarbesok--tio-tips</origFileName><parallel_text xml:lang="eng" location="forbered-ditt-lakarbesok--tio-tips-.html"/><parallel_text xml:lang="fin" location="forbered-ditt-lakarbesok--tio-tips-.html"/><parallel_text xml:lang="sme" location="forbered-ditt-lakarbesok--tio-tips-.html"/><parallel_text xml:lang="swe" location="motet-med-varden.html"/><parallel_text location="forbered-ditt-lakarbesok--tio-tips-.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Getosar tut angla doktoritsko vizita – deš tipsura / Förbered ditt läkarbesök – tio tips - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Getosar tut angla doktoritsko vizita – deš tipsura Förbered ditt läkarbesök – tio tips</p>
+<p>Kana getosares tut angla doktoritsko žutipe biris te les partča ando žutipe khetanes kusa e žutimaske bučara thaj von formulina o žutipe pala tute. Grundo khaj jekh pačako thaj sekurno žutipe si jekh lašo vorbipe maškar tute thaj e bučara.</p>
+<p xml:lang="swe"></p>
+<p type="title">1. Alosar savo žutimasko than avla čiro</p>
+<p>Kana si te rodes žutipe biris korkori te alosares savo žutimasko than si te avel čiro. Šaj te alosares jekh žutimasko than ande intrego them, sajek si khaj san skirisardo.</p>
+<p>Šaj te alosares žutimasko than ando primarno žutipe, sar eksemplo vårdcentral, thaj ande phuterdo specialst žutipe, sar eksemplo šavorengo žutipe - barnmottagning. Khaj specialis žutipe šaj te avel kade ke trobuj tut jekh remiso.</p>
+<p>Te si kade ke alosares jekh nevo vårdcentral vaj specialist than či birin e bučara te dikhen čire žurnalura so tut sas khaj e kaver žutimaske thana. Te si kade ke kames von te birin te dikhen ande čire žurnalura musaj te des len permisia pe kodo. Vorbin čire neve žutimaske bučarenca sar kodo kerel pe.</p>
+<p>Vårdgarantin – žutimaski garantsia phenel sode vrama biris te žukares sar maj but ži pun tut avla jekh kontakto thaj žutipe. Kana les žutipe ande jekh kaver landsting perel o vårdgarantin tele.</p>
+<p xml:lang="swe"></p>
+<p type="title">2. Le sama pala tute te ačares sa</p>
+<p>Kana san khaj o doktori si atunči važno te ačares kodo so phenel pe thaj so kodo žnačij. Žutimaske bučara si te len sama pala kodo tume te ačaren sa e informatsia, sar eksemplo sar xal pe e medicina. Maj važne buča šaj vi te manges te avel tele skirisardi. Šaj vi te manges jekh nevo khedipe kusa e bučara te den atvetura pe čire pušimata.</p>
+<p>Sa e informatsia si te avel kerdi pala tute. Te si kade ke či ačares sa pe Švdedicko šib šaj manges tolmačos. Kodo šaj vi te manges te šunes čores, vaj san kašuko, muto vaj dikhes čores vaj san koro. Phen ke manges jekhe tolmačos angla jekh vizita.</p>
+<p>Šavoren si vi čačipe te len partča ando žutipe so von len. Naj či soski beršeski granitsa kana jekh šavoro šaj te parunčil ande jekh žutimaski situatsia, kado dikhel pe pala šavoreski godži thaj žutimaski situatsia.</p>
+<p>Te si kade ke či biris te les partča ande informatsia, sar eksemplo ke si tut demens, si e bučara te den e informatsia jekheske so si paše.</p>
+<p xml:lang="swe"></p>
+<p type="title">3. Phen korkori thaj puš pušimata</p>
+<p>Angla jekh vizita si mišto te des tut ghindo so kames te žanes thaj save atvetura kames. Phen e doktoroske save žukarimata tut si pe vizita thaj te si variso so tut daravel. Skrin tele čire pušimata ke atunči si maj lokho te serel pe e pušimata. Šaj vi te manges kaveren te skrin tele čire pušimata. Kate si uni bajura so šaj te skris tele angla jekh vizita:</p>
+<list><p type="listitem">Save problemura tut si.</p>
+<p type="listitem">Kana la spe e problema thaj so keres kana dukhal maj tsera vaj maj but.</p>
+<p type="listitem">Jekh lista pe e medicini so xas, vi kodol so si bi reseptakto thaj naturalne medicini.</p>
+<p type="listitem">Te si tut vaj ke sas tut seriozne nasvalimata.</p>
+</list><p>Jekh kaver drom te serel pe si te skrij pe sako djes variso pa e dukha thaj e problemura. Šaj te skris save situatsi tut len dukha, sar ačares len thaj khaj kodo dukhal.</p>
+<p xml:lang="swe"></p>
+<p type="title">4. Si te les partča ande čiro žutipe</p>
+<p xml:lang="swe">Tut si čačipe te phenes so ghindos pa čiro žutipe thaj vi te porunčis unie bučansa. Numa te biris te aves hamislo ande buči si te les individualno informatsia pa:</p>
+<list><p type="listitem">Sastimaski konditsia.</p>
+<p type="listitem">Save medoti si po rodipe, žutipe thaj kaver droma ando žutipe.</p>
+<p type="listitem">Save rizikura si thaj save komplikatsi si kusa e rodimata thaj žutimata.</p>
+<p type="listitem">Kana šaj te žukares ke lesa žutipe.</p>
+<p type="listitem" xml:lang="swe">Sar o žukardo žutipe mezija.</p>
+<p type="listitem" xml:lang="swe">Eftervård – savo žutipe lesa pala o angluno žutipe.</p>
+<p type="listitem">So biris te keres te na nasvajves vaj te dukhadžos.</p>
+<p type="listitem">Te si tut jekh funktsiako nasvalipe si te les informatsia save žutimata si.</p>
+</list><p xml:lang="swe"></p>
+<p type="title">5. Angla rodimata thaj žutimata</p>
+<p>Kana lan jekh diagnosa si butivar rutini pe rodimata thaj žutimata. Univar si vi diferentne rodimaske thaj žutimaske alternativi te alosares. Atunči si tut čačipe te les informatsia pa kadal buča thaj te alosares sar tu se nakhes e doktoritske eksaminatsi – dikhimata thaj žutimata.</p>
+<p>Tu alosares vaj kames te nakhes kadal dikhimata vaj či kames te les kado žutipe.</p>
+<p>Sar patsiento či biris te keres zorasa te keren e bučara kasave buča si žan pročiv žanglipe thaj rodimata thaj so sas zumado maj anglal. E bučara naj musaj te žutin tut te arakhes kaver žutimata thaj alternativne medicini.</p>
+<p xml:lang="swe"></p>
+<p type="title">6. Šaj te phenes na</p>
+<p>Tut si čačipe te phenes na khaj o žutipe so del pe tut. Ande uni buča či birij pe te phenel pe na, kodo si kana si psykiatrisk tvångsvård – psykiatricno žutipe pe zor thaj uni kaver phare nasvalimata so peren kaveren, sar eksemplo HIV, so si skirisarde ando smittskyddslagen – zakono pe nasvalimata so peren kaveren.</p>
+<p>E paše manušen naj čačipe te parunčin pa o žutipe so si tuke dino. Te si kade keči biris te phenes so kames, šaj e bučara te pušen khatar čire pašen vaj von žanen so tu kames.</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">7. Tu porunčis vaj čire manuš si te žanen vaj na</p>
+<p>Univar si mišto kana varikhon paše si tusa kana san pe vizita. Vov vaj voj šaj te žutij tut te seres so sas phendo thaj vi te avel jekh dumo tuke. Numa tu porunčis so von si te žanen. Tystnadsplikt – zakono te na phenel pe thaj sekreteso kerel kodo ke feri kodo so tu manges anda informatsia te avel lenge avri thaj feri kana tu san paše, numa te kames šaj te phenes ke kames čire manuš te žanen sa anda informatsia. E bučara pušen univar kaske von si te phenen e informatsia.</p>
+<p>Te san tela 18 berš thaj rodes žutipe, naj musaj e maj phure ande čiro kher te žanen pa kodo. Von čperen ando kontakto sar eksemplo te</p>
+<list><p type="listitem">te žas khaj jekh ungdomsmottagning</p>
+<p type="listitem">maladžos kusa jekh kuratoro</p>
+<p type="listitem">les žutipe kusa protektsia te na peres phari</p>
+<p type="listitem">nakhes testo pe seksualne navsalimata.</p>
+</list><p>Či trobuj te žanen te rodan žutipe pe jekh vårdcentral. Kodo so kerel te kontaktulij pe e maj phuren si e doš khaj čiri vizita, thaj sode beršengo san, thaj sar godžaver san. Phurin e doktoroske te si kade ke či kames te lel pe kontakto čire manushenca. Šaj te ginaves maj but pa tystnadsplikt thaj sekretes po UMO.se.</p>
+<p>Kana žal e buči pa tsine šavora porunčin e gazdi savi informatsia šaj te avel avri thaj na. Numa so maj phuro o šavoro kerdžol peren so maj but decizi po pšavoro kaske e informatsia šaj avel avri.</p>
+<p xml:lang="swe"></p>
+<p type="title">8. Puš so kerel pe maj palal</p>
+<p>Si te žanes kana thaj kasa si te peres ando kontakto thaj kon si te lel responsebilita pe atvetura pe prubi thaj rodimata. Si vi te žanes khaj si te boldes tu te avla tuke maj čores.</p>
+<p>Te lan žutipe ande jekh bolnica trobuj tu thaj e bučara te keren jekh žutimasko plano thaj te avel tumen jekh plano ži pun skrij tut avri e bolnica.</p>
+<p>Te si tut but diferentne kontaktura ando sastimaske thaj žutimaske thana, šaj te manges te avel tut jekh stalo kontakto. Vov vaj voj šaj te žutij tut te inkrel sa e kontaktura tuke.</p>
+<p xml:lang="swe"></p>
+<p type="title">9. Seriozno thaj daravno nasvalipe vaj dukh</p>
+<p>Si tut jekh nasvalipe so si daravno po trajo, jekh specialno pharo nasvalipe vaj jekh dukhajipe, atunči si tut jekh šansa te les jekh nevo medicinako dikhipe khatar o doktori, jekh second opinion. Kado šaj te žutij tut te si kade ke či san sekurno savo žutipe kames te les. Kodo ke mangel pe jekh nevo medicinako dikhipe naj musaj te žnačij kodo ke či san čalo čire doktorosa.</p>
+<p>Šaj te alosares jekhe doktoros ande intrego them so si te kerel o nevo medicinako dikhipe. Puš čire doktoros te kames te žanes maj but.</p>
+<p xml:lang="swe"></p>
+<p type="title">10. Te či san čalo</p>
+<p>Te či san čalo e žutimasa, vaj varikhon paše, si tut čačipe te phenes čire ghindura. Te kerel pe kado žutij pe te avel o žutipe maj lašo maj anglal.</p>
+<p>Anglunimastar si mišto te boldes tut khaj kodol doktora thaj bučara so kerde e dikhimata thaj žutimata. Šaj vi te boldes tut khaj o šefo pe kodi žutimasko than. Žutimasko than si atunči te kerel jekh rodipe pe kodo so kerdas pe thaj pala kodo te phenel so von si te keren te na kerdžol sa kodo jekh kaver data.</p>
+<p>Šaj vi te boldes tut khaj Patientnämnden žutimasa pe čire pušimata. Sako landsting inkrel pesko patientnämnd vaj jekh patientombudsman so si te žutij tut. Patientnämnden thaj patientombudsmannen lel manušendar lenge ghindura thaj kodo so či čaljol e manušen, numa naj len zor te phenen vaj čačes sas variso čoro kerdo. Vi uni patsientonge organizatsi birin univar te žutin tut bučansa so či čaljarel tut.</p>
+<p xml:lang="swe">Ačardan tut diskriminovano ando žutipe šaj atunči te des kodo opre khaj diskrimineringsombudsmannen, DO.</p>
+<p xml:lang="swe">Te si kade ke sanas dukhado vaj ačares ke si kaver doša ande patsientongo sekurita šaj te des kodo opre atunči khaj IVO, Inspektionen för vård och omsorg. Von si te dikhen perdal e buča sostar nakhlas e buči čores thaj sostar, te na kerdžol kodo po dujto.</p>
+</body></document>

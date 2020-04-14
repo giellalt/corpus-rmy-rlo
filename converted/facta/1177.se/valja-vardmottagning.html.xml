@@ -1,80 +1,43 @@
-<document xml:lang="rmy-rlo" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>897</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rlo"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Regler-och-rattigheter/Valja-vardmottagning</origFileName>
-    <parallel_text xml:lang="eng" location="vardvalhalsoval.html"/>
-    <parallel_text xml:lang="fin" location="vardval.html"/>
-    <parallel_text xml:lang="fit" location="vardval.html"/>
-    <parallel_text xml:lang="sme" location="vardval.html"/>
-    <parallel_text xml:lang="swe" location="valja-vardmottagning.html"/>
-    <parallel_text location="valja-vardmottagning.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Alosar žutimasko than / Välja vårdmottagning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib lovarickaRomska lovara</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Alosar žutimasko thanVälja vårdmottagning</p>
-    <p xml:lang="swe">Šaj te alosares savo žutimasko than vaj vårdcentral korkori kames kana manges žutipe ande phuterdo žutipe ande intrego Švedo.</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe">Šaj te aven diferentne doša kana alosarel pe jekh vårdcentral vaj doktoritsko than. Šaj te žas ande jekh than so si paše paša kher vaj paša buči vaj khaj si bučara si vorbin jekh šib khaj ačares vaj si informatsia pe jekh šib khaj ačares.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">So šaj korkori te alosarav?</p>
-    <p xml:lang="swe">Šaj te alosares korkori</p>
-    <list>
-      <p type="listitem" xml:lang="swe">vårdcentral</p>
-      <p type="listitem" xml:lang="swe">barnavårdscentral (šavorenge)</p>
-      <p type="listitem" xml:lang="swe">barnmorskemottagning (kana arakhadžol šavoro)</p>
-      <p type="listitem" xml:lang="swe">ungdomsmottagning (ternimatonge)</p>
-      <p type="listitem" xml:lang="swe">than so del phuterdo specialist žutipe, sar eksemplo morčako žutipe.</p>
-    </list>
-    <p xml:lang="swe">Kana trobuj tut phuterdo specialist žutipe trobuj tut univar remiso pe kodo. E reguli po remiso si dine khatar landstinget vaj e regiona khaj tu san skirisardi thaj kote so manges žutipe. Ginav maj but sar e diferentne regioni thaj landsting funktsionulin.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Alosar vårdcentral</p>
-    <p xml:lang="swe">Kana san nasvalo vaj si tut varisavo problemo šaj atunči mindik te rodes žutipe po jekh vårdcentral. Kote šaj te les žutipe tela jokhvareste thaj te aves bišado khaj kaver žutimasko than te trobuj tut specialist žutimasko than. Šaj te alosares savo vårdcentral tu kames, vi te si kodo than ande landstinget vaj regioni khaj tu san skirisardo vaj ande jekh kaver than. Kade si pe sa vårdcentrales so inkerdžon khatar jekh landsting vaj regiona vaj so si privatno thaj inkrel kontrakto kusa landstinget vaj regiona.</p>
-    <p xml:lang="swe">Šaj te alosares jekh specialno vårdcentral, kodo bušol univar ke o manuš kerel lista pe andre pe jekh vårdcentral. Ande uni landsting perel jekh vårdcentral automaticne pe jekh manuš so či rodel aktivne peske jekh. Te si kade ke či san čalo kusa čiro vårdcentral vaj kames te paruves anda kaver doša, biris vi kodo te keres. Šaj te listulis tut pe jekh vårdcentral akharkhaj ande intrego Švedo. Vi te san listovano pe jekh biris te rodes žutipe vi pe jekh kaver.</p>
-    <p type="title" xml:lang="swe">Inkerdo kontakto e doktoronca</p>
-    <p xml:lang="swe">Tut si kodo šajipe te inkres jekh kontakto doktorosa ando vårdcentralen. Jekh inkerdo kontakto žnacij je dikhes tut sa kodole doktorosa kana aves te manges žutipe te si kade ke kodo žal.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Alosar phuterdo specialist žutipe</p>
-    <p xml:lang="swe">Phuterdo specialist žutipe si žutipe so lel pe thaj či trobuj te ašol o manuš ande bolnica. Šaj te avel eksemplo kana manuš žal khaj morčako doktori vaj jakhengo doktori. Te si tut jekh specialno nasvalipe šaj te boldes tut khaj jekh žutimasko than so si specialista pe čiro nasvalipe, sar eksemplo žutipe pe bokhe.</p>
-    <p xml:lang="swe">Šaj te alosares žutipe pe jekh phuterdo specialist žutimasko than khaj kames ando Švedo. Univar trobuj tut remiso, kado trobuj o landstinget vaj regiona khaj san skirisardo te dikhel sar si thaj so trobuj te areses ande kodo phuterdo specialist žutipe thaj vaj trobuj kodo vi ande kaver landsting thaj regiona khaj si te manges žutipe.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">So kerdžol kusa muro žurnalo?</p>
-    <p xml:lang="swe">Te alosares jekh nevo vårdcentral vaj specialist žutipe birij atunči o personalo kote te dikhel čire žurnalura khatar e kaver doktora. Te kamel čiro nevo žutimasko than te dikhel čire žurnalura musaj tu te des len kodo šajipe. Vorbin e bučarenca maj anglal thaj vorbin sar kodo kerel pe.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Trobuj man jekh remiso?</p>
-    <p xml:lang="swe">Jekh remiso si jekh lil informatsiasa khaj phenel ke tut trobuj jekh specialno dikhipe, rodipe vaj žutipe khatar e doktora. Remiso inkrel paša kodo medicinaki informatsia sar eksemplo save dukha thaj sar sas e manušeske maj angla nasvalimasa thaj dukhasa.</p>
-    <p xml:lang="swe">Te les jekh remiso musaj atunči te rodes žutipe pe jekh vårdcentral. Te trobuj tut žutipe khatar phuterdo specialist žutipe bišavel o doktori jekh remiso khaj kodo žutimasko than so tut trobuj. Uni landsting thaj regioni mangen mindik remiso te biris te les phuterdo specialist žutipe thaj si uni landsting thaj regioni so či mangen kadal remisura. Te si tut jekh remiso šaj univar te žal e buči maj sigo pe jekh specialist žutimasko than. Sar sigo e buči žal si pala čiro nasvalipe.</p>
-    <p xml:lang="swe">Te kames te rodes žutipe pe jekh specialist žutimasko than ande jekh kaver landsting vaj regiona sar kote khaj san skirisardo musaj atunči te žanes avri vaj čiro kheresko landsting mangel remis. Šaj vi te avel kade ke o kaver landsting mangel remiso thaj te si kade musaj atunči te les jekh remiso. Kate biris te ginaves maj but sar kado žal ande e diferentne landsting thaj regioni.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Inkerdžol o vårdgarantin – žutimaski garantsia?</p>
-    <p xml:lang="swe">Vårdgaranti žnačij ke si te les jekh žutimaski vrama tela jekh vrama thaj te či žal te les kodo žutipe ande čiro landsting si von antuči te den tut žutipe ande jekh kaver landsting. Kado garantsia si feri tuke kana manges žutipe ando landsting vaj regiona khaj san andre skirisardo vaj ande kodol thana so si kontrakto kusa čiro landsting.</p>
-    <p xml:lang="swe">Kana rodes žutipe ande jekh kaver landsting vaj regiona atunči sikavel čiro nasvalipe sar sigo tu les žutipe. Doktori kerel o rodipe thaj lel pala kodo e decizia.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Patsientonge košti thaj košti pe nasvalenge droma</p>
-    <p xml:lang="swe">Patsientonge košti šaj te aven diferentne maškar e diferentne landsting thaj regioner thaj maškar o žutipe. Te rodes žutipe ande jekh kaver landsting musaj te počines kodi košta so si ande kodo landsting khaj manges o žutipe.</p>
-    <p xml:lang="swe">Te manges te rodes žutipe ande jekh kaver landsting naj tut atunči čačipe te les o drom počindo, o drom khaj si pe nasvalenge droma -sjukresan.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rlo" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>888</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rlo"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Regler-och-rattigheter/Valja-vardmottagning</origFileName><parallel_text xml:lang="eng" location="vardvalhalsoval.html"/><parallel_text xml:lang="fin" location="vardval.html"/><parallel_text xml:lang="fit" location="vardval.html"/><parallel_text xml:lang="sme" location="vardval.html"/><parallel_text xml:lang="swe" location="valja-vardmottagning.html"/><parallel_text location="valja-vardmottagning.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Alosar žutimasko than / Välja vårdmottagning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Alosar žutimasko thanVälja vårdmottagning</p>
+<p>Šaj te alosares savo žutimasko than vaj vårdcentral korkori kames kana manges žutipe ande phuterdo žutipe ande intrego Švedo.</p>
+<p xml:lang="swe"></p>
+<p>Šaj te aven diferentne doša kana alosarel pe jekh vårdcentral vaj doktoritsko than. Šaj te žas ande jekh than so si paše paša kher vaj paša buči vaj khaj si bučara si vorbin jekh šib khaj ačares vaj si informatsia pe jekh šib khaj ačares.</p>
+<p xml:lang="swe"></p>
+<p type="title">So šaj korkori te alosarav?</p>
+<p>Šaj te alosares korkori</p>
+<list><p type="listitem" xml:lang="swe">vårdcentral</p>
+<p type="listitem" xml:lang="swe">barnavårdscentral (šavorenge)</p>
+<p type="listitem" xml:lang="swe">barnmorskemottagning (kana arakhadžol šavoro)</p>
+<p type="listitem" xml:lang="swe">ungdomsmottagning (ternimatonge)</p>
+<p type="listitem">than so del phuterdo specialist žutipe, sar eksemplo morčako žutipe.</p>
+</list><p>Kana trobuj tut phuterdo specialist žutipe trobuj tut univar remiso pe kodo. E reguli po remiso si dine khatar landstinget vaj e regiona khaj tu san skirisardi thaj kote so manges žutipe. Ginav maj but sar e diferentne regioni thaj landsting funktsionulin.</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Alosar vårdcentral</p>
+<p>Kana san nasvalo vaj si tut varisavo problemo šaj atunči mindik te rodes žutipe po jekh vårdcentral. Kote šaj te les žutipe tela jokhvareste thaj te aves bišado khaj kaver žutimasko than te trobuj tut specialist žutimasko than. Šaj te alosares savo vårdcentral tu kames, vi te si kodo than ande landstinget vaj regioni khaj tu san skirisardo vaj ande jekh kaver than. Kade si pe sa vårdcentrales so inkerdžon khatar jekh landsting vaj regiona vaj so si privatno thaj inkrel kontrakto kusa landstinget vaj regiona.</p>
+<p>Šaj te alosares jekh specialno vårdcentral, kodo bušol univar ke o manuš kerel lista pe andre pe jekh vårdcentral. Ande uni landsting perel jekh vårdcentral automaticne pe jekh manuš so či rodel aktivne peske jekh. Te si kade ke či san čalo kusa čiro vårdcentral vaj kames te paruves anda kaver doša, biris vi kodo te keres. Šaj te listulis tut pe jekh vårdcentral akharkhaj ande intrego Švedo. Vi te san listovano pe jekh biris te rodes žutipe vi pe jekh kaver.</p>
+<p type="title" xml:lang="swe">Inkerdo kontakto e doktoronca</p>
+<p>Tut si kodo šajipe te inkres jekh kontakto doktorosa ando vårdcentralen. Jekh inkerdo kontakto žnacij je dikhes tut sa kodole doktorosa kana aves te manges žutipe te si kade ke kodo žal.</p>
+<p xml:lang="swe"></p>
+<p type="title">Alosar phuterdo specialist žutipe</p>
+<p>Phuterdo specialist žutipe si žutipe so lel pe thaj či trobuj te ašol o manuš ande bolnica. Šaj te avel eksemplo kana manuš žal khaj morčako doktori vaj jakhengo doktori. Te si tut jekh specialno nasvalipe šaj te boldes tut khaj jekh žutimasko than so si specialista pe čiro nasvalipe, sar eksemplo žutipe pe bokhe.</p>
+<p>Šaj te alosares žutipe pe jekh phuterdo specialist žutimasko than khaj kames ando Švedo. Univar trobuj tut remiso, kado trobuj o landstinget vaj regiona khaj san skirisardo te dikhel sar si thaj so trobuj te areses ande kodo phuterdo specialist žutipe thaj vaj trobuj kodo vi ande kaver landsting thaj regiona khaj si te manges žutipe.</p>
+<p xml:lang="swe"></p>
+<p type="title">So kerdžol kusa muro žurnalo?</p>
+<p>Te alosares jekh nevo vårdcentral vaj specialist žutipe birij atunči o personalo kote te dikhel čire žurnalura khatar e kaver doktora. Te kamel čiro nevo žutimasko than te dikhel čire žurnalura musaj tu te des len kodo šajipe. Vorbin e bučarenca maj anglal thaj vorbin sar kodo kerel pe.</p>
+<p xml:lang="swe"></p>
+<p type="title">Trobuj man jekh remiso?</p>
+<p>Jekh remiso si jekh lil informatsiasa khaj phenel ke tut trobuj jekh specialno dikhipe, rodipe vaj žutipe khatar e doktora. Remiso inkrel paša kodo medicinaki informatsia sar eksemplo save dukha thaj sar sas e manušeske maj angla nasvalimasa thaj dukhasa.</p>
+<p>Te les jekh remiso musaj atunči te rodes žutipe pe jekh vårdcentral. Te trobuj tut žutipe khatar phuterdo specialist žutipe bišavel o doktori jekh remiso khaj kodo žutimasko than so tut trobuj. Uni landsting thaj regioni mangen mindik remiso te biris te les phuterdo specialist žutipe thaj si uni landsting thaj regioni so či mangen kadal remisura. Te si tut jekh remiso šaj univar te žal e buči maj sigo pe jekh specialist žutimasko than. Sar sigo e buči žal si pala čiro nasvalipe.</p>
+<p>Te kames te rodes žutipe pe jekh specialist žutimasko than ande jekh kaver landsting vaj regiona sar kote khaj san skirisardo musaj atunči te žanes avri vaj čiro kheresko landsting mangel remis. Šaj vi te avel kade ke o kaver landsting mangel remiso thaj te si kade musaj atunči te les jekh remiso. Kate biris te ginaves maj but sar kado žal ande e diferentne landsting thaj regioni.</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Inkerdžol o vårdgarantin – žutimaski garantsia?</p>
+<p>Vårdgaranti žnačij ke si te les jekh žutimaski vrama tela jekh vrama thaj te či žal te les kodo žutipe ande čiro landsting si von antuči te den tut žutipe ande jekh kaver landsting. Kado garantsia si feri tuke kana manges žutipe ando landsting vaj regiona khaj san andre skirisardo vaj ande kodol thana so si kontrakto kusa čiro landsting.</p>
+<p>Kana rodes žutipe ande jekh kaver landsting vaj regiona atunči sikavel čiro nasvalipe sar sigo tu les žutipe. Doktori kerel o rodipe thaj lel pala kodo e decizia.</p>
+<p xml:lang="swe"></p>
+<p type="title">Patsientonge košti thaj košti pe nasvalenge droma</p>
+<p>Patsientonge košti šaj te aven diferentne maškar e diferentne landsting thaj regioner thaj maškar o žutipe. Te rodes žutipe ande jekh kaver landsting musaj te počines kodi košta so si ande kodo landsting khaj manges o žutipe.</p>
+<p>Te manges te rodes žutipe ande jekh kaver landsting naj tut atunči čačipe te les o drom počindo, o drom khaj si pe nasvalenge droma -sjukresan.</p>
+</body></document>

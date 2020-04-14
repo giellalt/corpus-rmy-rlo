@@ -1,66 +1,26 @@
-<document xml:lang="rmy-rlo" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>932</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rlo"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Romska-lovara/Vut-umidipe-thaj-hangel-seksualno-khelipe</origFileName>
-    <parallel_text xml:lang="fin" location="pussailu-suutelu-ja-hyvaily.html"/>
-    <parallel_text xml:lang="fit" location="muiskuja-pyssia-ja--kuherteluahonglaamista.html"/>
-    <parallel_text xml:lang="sma" location="tjonnestidh-tjuvliestidh-jih-gijhkierdidh.html"/>
-    <parallel_text xml:lang="sme" location="cummat-ja-rahkastallan.html"/>
-    <parallel_text xml:lang="smj" location="bunestime-tjullasa-ja-hangel.html"/>
-    <parallel_text xml:lang="swe" location="pussar-kyssar-och-hangel.html"/>
-    <parallel_text location="tjomm-ta-schala.html" xml:lang="rmu"/>
-    <parallel_text location="tumiba-ta-mangdoliba.html" xml:lang="rmf"/>
-    <parallel_text location="umidimos-aj-asbajimos.html" xml:lang="rmy-rka"/>
-    <parallel_text location="umibe.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Vušt, čumidipe thaj hångel (seksualno khelipe)</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Vušt, čumidipe thaj hångel (seksualno khelipe)</p>
-    <p xml:lang="swe">Te del pe vušt varikhaske, čumidipe vaj hångla si butenge drago. Te si kade ke či kerdas pe odo kam si kade ke si fantazia te kerel pe kodo dželi. Tela sa kodi vrama kam daral o manuš angla o angluno čumidipe vaj hångel. Sar kerel pe kana kerel pe hångel?</p>
-    <p xml:lang="swe">Te si kade ke del pe o manuš ghindo sar čumidel pe vaj sar kerel pe hångla, šaj te avel mišto e manušeske te žanel ke naj či soske reguli sar kodo si te avel čačimasa. Si te zumavel e thaj te kerel pe po agor kade sar khaj sas maj feder, te si jekheske mišto si vi e kavereske butivar mišto.</p>
-    <p type="title" xml:lang="swe">Vušta (puss)</p>
-    <p xml:lang="swe">Kana del pe e vuš varikhaske kikidel pe e vušta pe kaverenge vuš vaj pe khaver than po stato, butivar kerel pe e vuštensa te šindžol pe ekcera. Kana del pe vušt varikhaske si o muj phandado.</p>
-    <p type="title" xml:lang="swe">Čumidipe (kyssar)</p>
-    <p xml:lang="swe">Kana čumidel pe varikhas azban jekh kavereske šiba thaj vušt pe kavereste. Sar kana gladžj pe varikhas var kana varikhon gladžj tut a šibasa thaj vuštenca. Šaj te phenel pe ke smakulij pe pe varikhaste. Normalno si ke angla čumidipe lel pe sa ke den e manuš jekh kaveres peske vušt. Te kamel pe atunči te del pe čumidipe putrel pe e vušt thaj šol pe andre peski šib ekcera, ekcera te azbal pe a šibasa e kavereske vušt. Atunči žanel pe vaj vi o dujto putrela e vušt te birin e šiba te maladžon khetanes.</p>
-    <p xml:lang="swe">Naj či soske regulij sar kerel pe kana čumiden pe duj žene, sar eksemplo ke dur pizdel pe andre e šib vaj keci putrel pe e vušt, kodi decizia lel pe korkori. Butivar kerdžol pe sa mišto kana del pe čumidipe kavreske. Numa jekh tipso si te kerel pe lokhes te na kikidel pe e šib zurales andre vaj te boldel pe e šib ande kaveresko muj tela jokvareste. Maj feder si kana sel duj zumaven pe lokhes. Phares si te čumidel pe o manuš kana inkrel pe o šero vorta ke e nakha šaj te malaven, anda kodo trobuj te banžarel pe o šero ekcera. Maj feder si te lel pe rozduho pa nakh kana čumidel pe varikhon. Si te zumavel pe o te dikhel pe sar si maj feder. Žal mišto te čumidel pe kana si sastra ande dand (tandställning) vaj piercing (zlag ande šib). Šaj vi te čumidel pe pe keverenge statura. Khaj po stato e čumidimata žan vaj khaj kamel pe te avel čumidino alosarel pe khetanes kodolesa so čumidel pe .</p>
-    <p type="title" xml:lang="swe">Kikidimata thaj azbajimata</p>
-    <p xml:lang="swe">Šaj te ačardžol pe mišto kana ačarel pe pe varikhasko stato, sar eksemplo kana kikidel pe p manuš thaj kana azbal pe e manuš. Šaj te azban thaj te kikiden pe e mansuh ghadenca vaj nange.</p>
-    <p type="title" xml:lang="swe">Hångel (seksualno khelipe)</p>
-    <p xml:lang="swe">Sar kerel pe čačimasa hångel? Kana kerel pe hångel značil kodo ke čumiden pe e manuš, den jekh kaveres vušt, kikiden pe thaj azban jekh kaveres. Kana čumiden pe e mansuh thaj vi kikiden pe šaj vi kodo te avel hångel. Sa kade kana azbal pe thaj čumidel pe o stato. Kana kerel pe hångel šaj vi te morel pe e statura karing jekh kavereste.</p>
-    <p xml:lang="swe">Šaj te kerel pe hångel diferentno, sar eksemplo lokhes thaj pacasa vaj zurales thaj phabardes. Univar kerdžol variatsia kana kerel pe hångel. Šaj vi te avel variatsia jekhestestar po kaverestar. Šaj te kerel pe hångel urado, kusa ekcera ghada vaj nange. Šaj vi te kerel pe hånga ande diferentne pozitsi, sar eksemplo tordžndos, bešindos vaj kana pašlol pe.</p>
-    <p xml:lang="swe">Kana kerel pe hångla but thaj naj but ghada bušol kodo univar grovhångel.</p>
-    <p type="title" xml:lang="swe">Diljaripe (strul)</p>
-    <p xml:lang="swe">Uni phenen vi po hångel strul (ke diljaren pe). Numa strul šaj vi te značil kaver bajura. Uni ghindon sar eksemplo ke kana kerel pe strula vaj kana dikhel pe vaj kana si unien sekso phenen vi strul pe kodo. Strul šaj vi te phenel pe pe jekh manuš khaj sas e manušes čačo strul.</p>
-    <p type="title" xml:lang="swe">So kerel  ke čumidimata thaj hångel mišto?</p>
-    <p xml:lang="swe">Te avel pe paše paša varikhaste thaj kana varikhon azbal e morci, šib thaj e vušt reagulin thaj bišaven signalura khaj e godž thaj kodo kerel ke si mišto thaj nervozno ano pher. Kodo šaj vi te kerel ke o manuš kerdžol phabardo (kåt). E nervi ando stato inkren o ačaripe thaj bišavel signalura khaj e godž. Te ačardžol hångel mišto si te kamen e manuš te keren hångel khetanes.</p>
-    <p xml:lang="swe">Diferentne manuš ačaren diferentno pa čumidipe thaj hångel. Naj kanci čačo vaj bango sar kodo si te ačardžol pe, feri te šunel pe pe pesko hjilo vaj si kodo mišto te čumidel pe vaj te kerel pe hångel vaj te kamel pe pašipe paša varikhaste.</p>
-    <p xml:lang="swe">Mindik si tut čačipe te phenes ke či kames te čumides tu vaj te keres hångel, vaj kana variso naj sar khaj trobuj. Soha te na čumiden tumen vaj keren hångla feri ke varikhon kaver kamel kodo.</p>
-    <p type="title" xml:lang="swe">Smako thaj khant</p>
-    <p xml:lang="swe">Savorri smakulin thaj khanden diferentno. E khant thaj o smako parudžol pe vi pe manuš, sar eksemplo so o manuš xalas, vaj thodas pe, sar e ghada khanden thaj kaver kasave bajura. Te si varikhon troznalo thaj si kodoles infektsi šaj o manuš atunči te khandel diferentno ando muj.</p>
-    <p type="title" xml:lang="swe">Šaj te perel žuvli phari vaj te lel telune nasvalimata khatar hångel?</p>
-    <p xml:lang="swe">Či birij e žuvli te perel phari khatar hångel. Či birij te astarel pe telune nasvalimata khatar hångel. Hångel si jekh mištipe thaj sekurno bajo kana si varikhon paše paša varikhaste.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rlo" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>927</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rlo"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Romska-lovara/Vut-umidipe-thaj-hangel-seksualno-khelipe</origFileName><parallel_text xml:lang="fin" location="pussailu-suutelu-ja-hyvaily.html"/><parallel_text xml:lang="fit" location="muiskuja-pyssia-ja--kuherteluahonglaamista.html"/><parallel_text xml:lang="sma" location="tjonnestidh-tjuvliestidh-jih-gijhkierdidh.html"/><parallel_text xml:lang="sme" location="cummat-ja-rahkastallan.html"/><parallel_text xml:lang="smj" location="bunestime-tjullasa-ja-hangel.html"/><parallel_text xml:lang="swe" location="pussar-kyssar-och-hangel.html"/><parallel_text location="tjomm-ta-schala.html" xml:lang="rmu"/><parallel_text location="tumiba-ta-mangdoliba.html" xml:lang="rmf"/><parallel_text location="umidimos-aj-asbajimos.html" xml:lang="rmy-rka"/><parallel_text location="umibe.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Vušt, čumidipe thaj hångel (seksualno khelipe)</p>
+<p type="title">Vušt, čumidipe thaj hångel (seksualno khelipe)</p>
+<p>Te del pe vušt varikhaske, čumidipe vaj hångla si butenge drago. Te si kade ke či kerdas pe odo kam si kade ke si fantazia te kerel pe kodo dželi. Tela sa kodi vrama kam daral o manuš angla o angluno čumidipe vaj hångel. Sar kerel pe kana kerel pe hångel?</p>
+<p>Te si kade ke del pe o manuš ghindo sar čumidel pe vaj sar kerel pe hångla, šaj te avel mišto e manušeske te žanel ke naj či soske reguli sar kodo si te avel čačimasa. Si te zumavel e thaj te kerel pe po agor kade sar khaj sas maj feder, te si jekheske mišto si vi e kavereske butivar mišto.</p>
+<p type="title" xml:lang="swe">Vušta (puss)</p>
+<p>Kana del pe e vuš varikhaske kikidel pe e vušta pe kaverenge vuš vaj pe khaver than po stato, butivar kerel pe e vuštensa te šindžol pe ekcera. Kana del pe vušt varikhaske si o muj phandado.</p>
+<p type="title">Čumidipe (kyssar)</p>
+<p>Kana čumidel pe varikhas azban jekh kavereske šiba thaj vušt pe kavereste. Sar kana gladžj pe varikhas var kana varikhon gladžj tut a šibasa thaj vuštenca. Šaj te phenel pe ke smakulij pe pe varikhaste. Normalno si ke angla čumidipe lel pe sa ke den e manuš jekh kaveres peske vušt. Te kamel pe atunči te del pe čumidipe putrel pe e vušt thaj šol pe andre peski šib ekcera, ekcera te azbal pe a šibasa e kavereske vušt. Atunči žanel pe vaj vi o dujto putrela e vušt te birin e šiba te maladžon khetanes.</p>
+<p>Naj či soske regulij sar kerel pe kana čumiden pe duj žene, sar eksemplo ke dur pizdel pe andre e šib vaj keci putrel pe e vušt, kodi decizia lel pe korkori. Butivar kerdžol pe sa mišto kana del pe čumidipe kavreske. Numa jekh tipso si te kerel pe lokhes te na kikidel pe e šib zurales andre vaj te boldel pe e šib ande kaveresko muj tela jokvareste. Maj feder si kana sel duj zumaven pe lokhes. Phares si te čumidel pe o manuš kana inkrel pe o šero vorta ke e nakha šaj te malaven, anda kodo trobuj te banžarel pe o šero ekcera. Maj feder si te lel pe rozduho pa nakh kana čumidel pe varikhon. Si te zumavel pe o te dikhel pe sar si maj feder. Žal mišto te čumidel pe kana si sastra ande dand (tandställning) vaj piercing (zlag ande šib). Šaj vi te čumidel pe pe keverenge statura. Khaj po stato e čumidimata žan vaj khaj kamel pe te avel čumidino alosarel pe khetanes kodolesa so čumidel pe .</p>
+<p type="title">Kikidimata thaj azbajimata</p>
+<p>Šaj te ačardžol pe mišto kana ačarel pe pe varikhasko stato, sar eksemplo kana kikidel pe p manuš thaj kana azbal pe e manuš. Šaj te azban thaj te kikiden pe e mansuh ghadenca vaj nange.</p>
+<p type="title">Hångel (seksualno khelipe)</p>
+<p>Sar kerel pe čačimasa hångel? Kana kerel pe hångel značil kodo ke čumiden pe e manuš, den jekh kaveres vušt, kikiden pe thaj azban jekh kaveres. Kana čumiden pe e mansuh thaj vi kikiden pe šaj vi kodo te avel hångel. Sa kade kana azbal pe thaj čumidel pe o stato. Kana kerel pe hångel šaj vi te morel pe e statura karing jekh kavereste.</p>
+<p>Šaj te kerel pe hångel diferentno, sar eksemplo lokhes thaj pacasa vaj zurales thaj phabardes. Univar kerdžol variatsia kana kerel pe hångel. Šaj vi te avel variatsia jekhestestar po kaverestar. Šaj te kerel pe hångel urado, kusa ekcera ghada vaj nange. Šaj vi te kerel pe hånga ande diferentne pozitsi, sar eksemplo tordžndos, bešindos vaj kana pašlol pe.</p>
+<p>Kana kerel pe hångla but thaj naj but ghada bušol kodo univar grovhångel.</p>
+<p type="title" xml:lang="swe">Diljaripe (strul)</p>
+<p>Uni phenen vi po hångel strul (ke diljaren pe). Numa strul šaj vi te značil kaver bajura. Uni ghindon sar eksemplo ke kana kerel pe strula vaj kana dikhel pe vaj kana si unien sekso phenen vi strul pe kodo. Strul šaj vi te phenel pe pe jekh manuš khaj sas e manušes čačo strul.</p>
+<p type="title">So kerel  ke čumidimata thaj hångel mišto?</p>
+<p>Te avel pe paše paša varikhaste thaj kana varikhon azbal e morci, šib thaj e vušt reagulin thaj bišaven signalura khaj e godž thaj kodo kerel ke si mišto thaj nervozno ano pher. Kodo šaj vi te kerel ke o manuš kerdžol phabardo (kåt). E nervi ando stato inkren o ačaripe thaj bišavel signalura khaj e godž. Te ačardžol hångel mišto si te kamen e manuš te keren hångel khetanes.</p>
+<p>Diferentne manuš ačaren diferentno pa čumidipe thaj hångel. Naj kanci čačo vaj bango sar kodo si te ačardžol pe, feri te šunel pe pe pesko hjilo vaj si kodo mišto te čumidel pe vaj te kerel pe hångel vaj te kamel pe pašipe paša varikhaste.</p>
+<p>Mindik si tut čačipe te phenes ke či kames te čumides tu vaj te keres hångel, vaj kana variso naj sar khaj trobuj. Soha te na čumiden tumen vaj keren hångla feri ke varikhon kaver kamel kodo.</p>
+<p type="title">Smako thaj khant</p>
+<p>Savorri smakulin thaj khanden diferentno. E khant thaj o smako parudžol pe vi pe manuš, sar eksemplo so o manuš xalas, vaj thodas pe, sar e ghada khanden thaj kaver kasave bajura. Te si varikhon troznalo thaj si kodoles infektsi šaj o manuš atunči te khandel diferentno ando muj.</p>
+<p type="title">Šaj te perel žuvli phari vaj te lel telune nasvalimata khatar hångel?</p>
+<p>Či birij e žuvli te perel phari khatar hångel. Či birij te astarel pe telune nasvalimata khatar hångel. Hångel si jekh mištipe thaj sekurno bajo kana si varikhon paše paša varikhaste.</p>
+</body></document>

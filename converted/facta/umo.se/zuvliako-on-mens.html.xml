@@ -1,69 +1,29 @@
-<document xml:lang="rmy-rlo" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>1201</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rlo"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Romska-lovara/Zuvliako-on-mens</origFileName>
-    <parallel_text xml:lang="fin" location="kuukautiset.html"/>
-    <parallel_text xml:lang="fit" location="mensi.html"/>
-    <parallel_text xml:lang="sma" location="gujnelemmie.html"/>
-    <parallel_text xml:lang="sme" location="manodavddat.html"/>
-    <parallel_text xml:lang="smj" location="liejbbe.html"/>
-    <parallel_text xml:lang="swe" location="mens.html"/>
-    <parallel_text location="rattepha.html" xml:lang="rmu"/>
-    <parallel_text location="meni.html" xml:lang="rmf"/>
-    <parallel_text location="lolo-kurko.html" xml:lang="rmy-rka"/>
-    <parallel_text location="mensturacija.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Žuvliako Šon (mens)</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Žuvliako Šon (mens)</p>
-    <p xml:lang="swe">Žuvliako šon si kana rat šordžol anda mačica (livmoder) thaj kado avel de khatar e anda pubertetaki vrama thaj avel sako šon pe vrama. Žuvliako šon sikavel ke o stato si gata andral thaj ke žuvliori bririj te perel phari.</p>
-    <p xml:lang="swe">Sako šon si a žuvloria anrengo mukhipe andral (ägglosssning) de khatar e vrama ando puberteto ži khaj a klimateriaki vrama. Tela sa kodi vrama so o anrengo mukhipe djal kerdjiol e mačica maj thuli andral te birij kodo than te astarel o anro thaj te kerdjiol fruktovano. Te kerdjiol o anro fruktovano musaj e spermia (o getso) te aresen ande e vagina (miž). Atunci šaj e žuvli te perel phari, numa te na kerdjiol o anro fruktovano šudel avri e mačica o anro thaj kodo avel avri sar rat. Kodo si a žuvliako šon.</p>
-    <p type="title" xml:lang="swe">Kana avel a žuvliako šon?</p>
-    <p xml:lang="swe">E berš si diferentne kana avel a žuvliako šon. Ke e žuvlia aven ande diferentne vrami andre ando puberteto. Konik či birij te kerel kanči vaj e žuvliori del andre sigo vaj maj palal ando puberteto.</p>
-    <p xml:lang="swe">Maj but anda e žuvloria resen a žuvliako šon ande berš 12-14. Numa kado šaj vi te resel žuvlorian kana von si injange vaj kana von si 16 beršenge thaj vi kodo si normalno. Te či reslas a žuvliako šon angluni data khaj e 16-17 berš si te žal pe khaj e doktora kadalesa.</p>
-    <p xml:lang="swe">Angluni data šaj kodo te avel sar jekh čuddno šoko. Šaj te ačiardžol pe phares. Kam si kade ke kanikas ande klassa či reslas a žuvliako šon. Kam si kade ke ghidoj pe savi sanitarno protekcia trobuj karing o rat thaj ladžan pe te vorbin varikhasa pa kado.</p>
-    <p xml:lang="swe">Vaj si kade ke a žuvliako šon si variso so žukarlas pe but vrama te avel. Maj but anda e amalnja aba aresle kada thaj maj feder ačarel pe e žuvli ke vi voj areslas les akanak.</p>
-    <p type="title" xml:lang="swe">Keči rat avel?</p>
-    <p xml:lang="swe">Sode rat avel si diferento thaj si individualno, sa kade e vrama unienge maj cera džes kaverenge maj but. Kana avel a žuvliako šon avel karing 20-80 mililitri rat thaj kado si normalno, maj cera sar jekh decilitro sar maj but. Šaj te ačarel pe ke maj but avel ke o rat hamij pe sa e organicne pajenca so si ando stato thaj anda mačica.</p>
-    <p type="title" xml:lang="swe">Te mukhel pe but rat</p>
-    <p xml:lang="swe">But manuš ghindon ke mukhen but rat numa čačimasa či avel kade but rat. Numa te si kade ke trobuj te paruvel pe butivar e sanitarno protekcia šaj te ačardžol pe kodo pharo vaj kam trobuj te šol pe duj protekci tela jokhvarest te na nakhel o rat perdal, kado bušol zuralo žuvliako šon (riklig mens). Kodo kerel pe ke si varisavi buci ande mačica so mukhel avri o rat so zurajlas. Kodo kerel ke o rat maj phares ašadžol thaj atunci avel maj but rat. Te si kade ke avel but rat šaj e žuvli te ačarel pe khini thaj bi zorako. Kodo kerdžol ke e rateski zor si cini.</p>
-    <p xml:lang="swe">Te si a žuvliora jekh zuralo žuvliako šon birij voj te lel kontakto kusa skolako medecinsko žutipe (skolhälsovården) jekh ungdomsmottagning vaj khaj vårdcentralen. Atunci šaj te lel pe žutipe kusa medicina so kerel ke maj cera rat avel, sar exempel p-piller (preventivno tabletka)</p>
-    <p type="title" xml:lang="swe">Iregularno žuvliako šon</p>
-    <p xml:lang="swe">Kana aresel pe o žuvliako šon si kodo anglunimastar iregularno. Kodo znacil ke či avel pe sa kodi data sako šon. Butenge kerdžol o iregularno žuvliako šon kerdžol regularno thaj kodo avel pe jekh data so si maškar 21-35 džes. Šaj te avel mišto te žanel pe kada e žuviako šon avel thaj kado šaj te kerel pe ke skrij pe tele kado ande jekh than. Ke atunci žanel pe vaj o žuvliako šon si regularno thaj atunci žanel pe kana kodo avel vi po kaver šon. Atunci lel pe vi sama vaj či avel a žuvliako šon pe sa kodi vrama.</p>
-    <p xml:lang="swe">Unien si mindig jekh iregularno žuvliako šon, kado naj nasul a žuvliake numa butenge si kodo pharo thaj žutimasa khatar p-piller šaj kado te kerdžol regularno.</p>
-    <p type="title" xml:lang="swe">Či avel vaj naj pe vrama a žuvliako šon.</p>
-    <p type="title" xml:lang="swe">Phari</p>
-    <p xml:lang="swe">Jekh naturalno doš ke a žuvliako šon hasajvel si kodo ke e žuvlji perel phari. Te kerdžol žuvli phari musaj spermia (getso) te del andre ande žuvliaki vagina(miž) thaj kado kerdžol pe pala jekh seksualno akto. Te si kade ke e manuš azban jekh kaveres thaj si spermia pe naja thaj šol pe e naja ande vagina si atunci šansa ke šaj te perel e žuvli phari.</p>
-    <p xml:lang="swe">Te si kade ke pacal pe ke a žuvliako šon či avel anda kodo ke e žuvli si phari atunci šaj te khinel pe jekh testa (gravidtetstest) khaj sikavel vaj e žuvli si phari vaj na. Kadi pharimaski testa birij pe te khinel pe ande apoteki thaj ande but habeske biltci vaj kaver service boltci. Šaj vi te kerel pe jekh testa pe jiva ande ungdomsmottagning vaj pe mödravårdcentral (dejango žutimasko centro).</p>
-    <p type="title" xml:lang="swe">Stress, thanesko parujipe vaj kana šutciarel pe e žuvli</p>
-    <p xml:lang="swe">Žuvliako šon šaj vi te na avel anda kaver doša. Te si kade ke a žuvliako šon či avel pe vrama uni kurke vaj či avel pe jekh duj šon šaj kado te kerdžol anda diferentne bajura, sar exemplo kana parudžol pe variso ando trajo vaj te sas baro streso pe žuvli.</p>
-    <p xml:lang="swe">Te si kade ke či avel a žuvliako šon jekh maj lungo vrama trobuj pe te žal pe te dikhel pe sostar kade si. Šaj te avel kade te si o manuš stresovano, ačarel pe čores, trenulij zurales, šutciarel pe, či xal mišto vaj te si varisar nasvali. Kado si e statoski vorba te phenel ke variso naj mišto ando stato. Te si kade ke e žuvli ačarel ke trobuj la žutipe te lašarel peske problemura birij voj te boldel pe khaj skolhälsovården vaj khaj jekh ungdomsmottagning.</p>
-    <p xml:lang="swe">Te na avel a žuvliako šon tela jekh dopaš berš si atunci e žuvli te lel kontakto kusa jekh doktori po ungdomsmotagning vaj po vårdcentral. Atunci lel pe žutipe te žanel pe sostar a žuvliako šon či avel, mukhel pe rateske prubi so dikhel e hromoni ando rat. Te trobuj šaj e doktora te den tabletki so kerel te žal pale a žuvliako šon.</p>
-    <p type="title" xml:lang="swe">Problemura angla vrama pe žuvliako šon - PMS</p>
-    <p xml:lang="swe">Jekh kurko angla e vrama kerdžol pe maj but paji ando stato. Kodo kerel ke o kolin (e čučia) dukhan thaj ke o stato ačardžol pe šuvlo. Kodo akardžol premenstruell spänning, PMS (angla žuvliako šonesko kikidipe). Kodo kerdžol pe anda sa e hormoni thaj kodo kerel ke e žuvli šaj te kerdžol holjaki thaj brigaki. Šaj vi o šero te dukhal, pugnia šaj te hucien avri thaj kamel pe te xal pe maj but guglipe. Kodol so ačaren o PMS ačaren kado trin štar džes angla žuvliako šon thaj kado hasajvel kana e vrama avel, numa šaj vi te dukhal uni džes vi kana a žuvliako šon avilas.</p>
-    <p xml:lang="swe">Problemura kusa o PMS kerdžon maj lokhi te miškij pe e žuvli vaj kana voj kerel relaxove treningura. Mišto si vi te sovel pe avri e žuvli thaj te zumavel te na stresulij tela kadi vrama so si a žuvliako čores.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rlo" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>1196</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rlo"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Romska-lovara/Zuvliako-on-mens</origFileName><parallel_text xml:lang="fin" location="kuukautiset.html"/><parallel_text xml:lang="fit" location="mensi.html"/><parallel_text xml:lang="sma" location="gujnelemmie.html"/><parallel_text xml:lang="sme" location="manodavddat.html"/><parallel_text xml:lang="smj" location="liejbbe.html"/><parallel_text xml:lang="swe" location="mens.html"/><parallel_text location="rattepha.html" xml:lang="rmu"/><parallel_text location="meni.html" xml:lang="rmf"/><parallel_text location="lolo-kurko.html" xml:lang="rmy-rka"/><parallel_text location="mensturacija.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Žuvliako Šon (mens)</p>
+<p type="title" xml:lang="swe">Žuvliako Šon (mens)</p>
+<p>Žuvliako šon si kana rat šordžol anda mačica (livmoder) thaj kado avel de khatar e anda pubertetaki vrama thaj avel sako šon pe vrama. Žuvliako šon sikavel ke o stato si gata andral thaj ke žuvliori bririj te perel phari.</p>
+<p>Sako šon si a žuvloria anrengo mukhipe andral (ägglosssning) de khatar e vrama ando puberteto ži khaj a klimateriaki vrama. Tela sa kodi vrama so o anrengo mukhipe djal kerdjiol e mačica maj thuli andral te birij kodo than te astarel o anro thaj te kerdjiol fruktovano. Te kerdjiol o anro fruktovano musaj e spermia (o getso) te aresen ande e vagina (miž). Atunci šaj e žuvli te perel phari, numa te na kerdjiol o anro fruktovano šudel avri e mačica o anro thaj kodo avel avri sar rat. Kodo si a žuvliako šon.</p>
+<p type="title">Kana avel a žuvliako šon?</p>
+<p>E berš si diferentne kana avel a žuvliako šon. Ke e žuvlia aven ande diferentne vrami andre ando puberteto. Konik či birij te kerel kanči vaj e žuvliori del andre sigo vaj maj palal ando puberteto.</p>
+<p>Maj but anda e žuvloria resen a žuvliako šon ande berš 12-14. Numa kado šaj vi te resel žuvlorian kana von si injange vaj kana von si 16 beršenge thaj vi kodo si normalno. Te či reslas a žuvliako šon angluni data khaj e 16-17 berš si te žal pe khaj e doktora kadalesa.</p>
+<p>Angluni data šaj kodo te avel sar jekh čuddno šoko. Šaj te ačiardžol pe phares. Kam si kade ke kanikas ande klassa či reslas a žuvliako šon. Kam si kade ke ghidoj pe savi sanitarno protekcia trobuj karing o rat thaj ladžan pe te vorbin varikhasa pa kado.</p>
+<p>Vaj si kade ke a žuvliako šon si variso so žukarlas pe but vrama te avel. Maj but anda e amalnja aba aresle kada thaj maj feder ačarel pe e žuvli ke vi voj areslas les akanak.</p>
+<p type="title">Keči rat avel?</p>
+<p>Sode rat avel si diferento thaj si individualno, sa kade e vrama unienge maj cera džes kaverenge maj but. Kana avel a žuvliako šon avel karing 20-80 mililitri rat thaj kado si normalno, maj cera sar jekh decilitro sar maj but. Šaj te ačarel pe ke maj but avel ke o rat hamij pe sa e organicne pajenca so si ando stato thaj anda mačica.</p>
+<p type="title">Te mukhel pe but rat</p>
+<p>But manuš ghindon ke mukhen but rat numa čačimasa či avel kade but rat. Numa te si kade ke trobuj te paruvel pe butivar e sanitarno protekcia šaj te ačardžol pe kodo pharo vaj kam trobuj te šol pe duj protekci tela jokhvarest te na nakhel o rat perdal, kado bušol zuralo žuvliako šon (riklig mens). Kodo kerel pe ke si varisavi buci ande mačica so mukhel avri o rat so zurajlas. Kodo kerel ke o rat maj phares ašadžol thaj atunci avel maj but rat. Te si kade ke avel but rat šaj e žuvli te ačarel pe khini thaj bi zorako. Kodo kerdžol ke e rateski zor si cini.</p>
+<p xml:lang="swe">Te si a žuvliora jekh zuralo žuvliako šon birij voj te lel kontakto kusa skolako medecinsko žutipe (skolhälsovården) jekh ungdomsmottagning vaj khaj vårdcentralen. Atunci šaj te lel pe žutipe kusa medicina so kerel ke maj cera rat avel, sar exempel p-piller (preventivno tabletka)</p>
+<p type="title">Iregularno žuvliako šon</p>
+<p>Kana aresel pe o žuvliako šon si kodo anglunimastar iregularno. Kodo znacil ke či avel pe sa kodi data sako šon. Butenge kerdžol o iregularno žuvliako šon kerdžol regularno thaj kodo avel pe jekh data so si maškar 21-35 džes. Šaj te avel mišto te žanel pe kada e žuviako šon avel thaj kado šaj te kerel pe ke skrij pe tele kado ande jekh than. Ke atunci žanel pe vaj o žuvliako šon si regularno thaj atunci žanel pe kana kodo avel vi po kaver šon. Atunci lel pe vi sama vaj či avel a žuvliako šon pe sa kodi vrama.</p>
+<p>Unien si mindig jekh iregularno žuvliako šon, kado naj nasul a žuvliake numa butenge si kodo pharo thaj žutimasa khatar p-piller šaj kado te kerdžol regularno.</p>
+<p type="title">Či avel vaj naj pe vrama a žuvliako šon.</p>
+<p type="title">Phari</p>
+<p>Jekh naturalno doš ke a žuvliako šon hasajvel si kodo ke e žuvlji perel phari. Te kerdžol žuvli phari musaj spermia (getso) te del andre ande žuvliaki vagina(miž) thaj kado kerdžol pe pala jekh seksualno akto. Te si kade ke e manuš azban jekh kaveres thaj si spermia pe naja thaj šol pe e naja ande vagina si atunci šansa ke šaj te perel e žuvli phari.</p>
+<p>Te si kade ke pacal pe ke a žuvliako šon či avel anda kodo ke e žuvli si phari atunci šaj te khinel pe jekh testa (gravidtetstest) khaj sikavel vaj e žuvli si phari vaj na. Kadi pharimaski testa birij pe te khinel pe ande apoteki thaj ande but habeske biltci vaj kaver service boltci. Šaj vi te kerel pe jekh testa pe jiva ande ungdomsmottagning vaj pe mödravårdcentral (dejango žutimasko centro).</p>
+<p type="title">Stress, thanesko parujipe vaj kana šutciarel pe e žuvli</p>
+<p>Žuvliako šon šaj vi te na avel anda kaver doša. Te si kade ke a žuvliako šon či avel pe vrama uni kurke vaj či avel pe jekh duj šon šaj kado te kerdžol anda diferentne bajura, sar exemplo kana parudžol pe variso ando trajo vaj te sas baro streso pe žuvli.</p>
+<p>Te si kade ke či avel a žuvliako šon jekh maj lungo vrama trobuj pe te žal pe te dikhel pe sostar kade si. Šaj te avel kade te si o manuš stresovano, ačarel pe čores, trenulij zurales, šutciarel pe, či xal mišto vaj te si varisar nasvali. Kado si e statoski vorba te phenel ke variso naj mišto ando stato. Te si kade ke e žuvli ačarel ke trobuj la žutipe te lašarel peske problemura birij voj te boldel pe khaj skolhälsovården vaj khaj jekh ungdomsmottagning.</p>
+<p xml:lang="swe">Te na avel a žuvliako šon tela jekh dopaš berš si atunci e žuvli te lel kontakto kusa jekh doktori po ungdomsmotagning vaj po vårdcentral. Atunci lel pe žutipe te žanel pe sostar a žuvliako šon či avel, mukhel pe rateske prubi so dikhel e hromoni ando rat. Te trobuj šaj e doktora te den tabletki so kerel te žal pale a žuvliako šon.</p>
+<p type="title">Problemura angla vrama pe žuvliako šon - PMS</p>
+<p>Jekh kurko angla e vrama kerdžol pe maj but paji ando stato. Kodo kerel ke o kolin (e čučia) dukhan thaj ke o stato ačardžol pe šuvlo. Kodo akardžol premenstruell spänning, PMS (angla žuvliako šonesko kikidipe). Kodo kerdžol pe anda sa e hormoni thaj kodo kerel ke e žuvli šaj te kerdžol holjaki thaj brigaki. Šaj vi o šero te dukhal, pugnia šaj te hucien avri thaj kamel pe te xal pe maj but guglipe. Kodol so ačaren o PMS ačaren kado trin štar džes angla žuvliako šon thaj kado hasajvel kana e vrama avel, numa šaj vi te dukhal uni džes vi kana a žuvliako šon avilas.</p>
+<p>Problemura kusa o PMS kerdžon maj lokhi te miškij pe e žuvli vaj kana voj kerel relaxove treningura. Mišto si vi te sovel pe avri e žuvli thaj te zumavel te na stresulij tela kadi vrama so si a žuvliako čores.</p>
+</body></document>

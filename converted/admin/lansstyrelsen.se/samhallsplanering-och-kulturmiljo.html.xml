@@ -1,69 +1,31 @@
-<document xml:lang="rmy-rlo" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>866</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rlo"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/skane/rom-lo/samhallsplanering-och-kulturmiljo/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text xml:lang="fin" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text xml:lang="fit" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text xml:lang="sme" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text xml:lang="swe" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmu"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmy-rka"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmf"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmn"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Planeringo &amp; kulturako miljö - Länsstyrelsen Skåne</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe">Planeringo &amp; kulturako miljö</p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Planeringo &amp; kulturako miljö</p>
-    <p xml:lang="swe">Länsstyrelsens buci kusa kado planeringo si te vazdel opre lashie thaj pacake trajimaske konditci thaj jekh lashio lungo trajimako miljö e manushenge so kothe trajin thaj kodolenge so kote feri aven te dikhen. Kulturako miljö si jekh kotor anda e strukturaki historia kodo del kontinuiteto ando djes thaj del e manushen maj but acharipe krujal pende.</p>
-    <p type="title" xml:lang="swe">Infrastruktura thaj IT</p>
-    <p xml:lang="swe">Länsstyrelsen kerel buci te avel maj lettko te avel e kommunikatci ando länet thaj krujal o intrego them. Lashie kommunikatci thaj jekh lashio IT-infrastruktur kerel ke maj but manush, firmi thaj organizatci shaj te bulhjaren penge buciake marketi. Länsstyrelsen lishij te inkren pe e themeske intressi vaj intressura so e kommuni roden ande e paningi pa infrastukturne projekti. Ame keras administratcia vi e themesko zutipe te bararel pe o bredband pe gava.</p>
-    <p type="title" xml:lang="swe">Energia</p>
-    <p xml:lang="swe">Länsstyrelsen inkrel ketanes e regionalno buci pe jekh lungo vramako thaj pacimasko inkeripe pa energia. Ketanes kusa kaver aktorura ande länet lam ame avri jekh klimatoski- thaj energiaki strategia so sikavel sar e buci si te djal ando shvedo te aresel pe e cellura ande klimato thaj ande jekh energiako parujipe.Länsstyrelsen inkrel differentne projekti te avel jekh evulutcia thaj lel avri neve materialura ande e kommunake planingo pa energia. Si differentne tipura pa love so shaj te lel pe khatar o them te kerel pe maj effektovane bucia kusa e energia thaj sar te kerel pe jekh nevi energia so shaj te lel pe po dujto.pa kado lel o Länsstyrelsen decizia.Länsstyrelsens miljöprövningsdelegation lel decizia pa slobodia thaj permissi pa bare energiake thana sar vindkraftsparker thaj fjärrvärmeverk.</p>
-    <p type="title" xml:lang="swe">Khera</p>
-    <p xml:lang="swe">Länsstyrelsen inkrel ande peske vast e love khatar o them pe phurenge khera thaj kaver pacake khera, kana keravel pe khera khatar o radono vaj kana lel pe decizia pa energiake lovenge zutimata pe khera thaj kaver lokalura. Länsstyrelsen shiol khetnes informatcia thaj kerel sako bersh analyzi pa e kherengi situatcia ande sako län te birij e kommuna te kerel jekh maj lashi buci te aven maj but khera.</p>
-    <p type="title" xml:lang="swe">Planosko pushipe</p>
-    <p xml:lang="swe">Länsstyrelsen lel avri materialo pe differentne planeringura pe differentne thana so sikaven so si vazno kana vazdel pe differentne bucia. O cello si te keravel pe lashie thaj pacake trajimaske konditci thaj jekh lungo trajimasko miljö. E buci kusa o planeringo parudjiol pep a differentne nationalne thaj themeske intressura sar exemplo kana si pa energiakoproduktcia, naturako dikhipe, vaj kommunikatci. Ame dikhas vi perdal e kommunaki planeringi thaj dikhas kado vi pala e manushengo sastipe thaj pacape, themeske intressura. Te chi san chalo kusa e kommunake planura shaj te vazdes appelatcia amende.</p>
-    <p type="title" xml:lang="swe">Inkerdo monumento</p>
-    <p xml:lang="swe">Länsstyrelsen shaj te lel jekh decizia pe kulturake historicne khera, khangera, parkura, sadura, murmunci thaj kaver kasave thana sar thana so nashtik te paghel pe thele thaj kado si te inkerdjiol sar jekh inkerdo monumento. Länsstyrelsen dikhel thaj lel e decizia kana jekh kasavo thaj si te avel inkerdo maj dur sar jekh monumento.</p>
-    <p type="title" xml:lang="swe">Byggnadsvård</p>
-    <p xml:lang="swe">Byggnadsvårdensi jekh kotor ande Länsstyrelsens lungo buci te inkrel pe maj dur e shukar kultura ando länet. Te avel kade te inkerdjin kadala historicne kulturake bucia pesko shukaripe si atunci vazno te lel pe sama pala kadala thana pala specialne premissura. Si vi vazno te kerel pe kadi buci pala e purane metodi te na hasarel pe e purani shuk ande kadal bucia. Civilne manush, kommuni, stiftelser thaj firmi shaj temangen love khatar o Länsstyrelsen te len von sama pala jekh kulturhistoricno than thaj kodol love bushiol byggnadsvårdsbidrag.</p>
-    <p type="title" xml:lang="swe">Arkeologia thaj fornlämningar</p>
-    <p xml:lang="swe">Fornlämningar si resti pa purane manushikane bucia vaj thana sar exemplo purane trajimaske thana, murmunci, ruini vaj kulturake ashajimata pa purane anticne forura. Länsstyrelsens bucia si te lel sama, te inkrel thaj te sikavel e miljö khaj ashilas pala e paluni historicno. Pala o zakono kulturminneslagen naj slobodo te paruven, te len vaj te sharavel pe jekh fornlämning. Univar birij o Länsstyrelsen te mukhel jekh shajipe po parujipe.</p>
-    <p type="title" xml:lang="swe">Kulturake reservatura</p>
-    <p xml:lang="swe">Länsstyrelsen thaj e kommuni shaj te len e decizia ke uni thana shaj te ashion sar kulturake reservatur. Thaj kodolesa kerdjion sa e bucia so si pe kodi phuv vi kulturake reservatura thaj atunci djal vi e kultura thaj o djanglipe pe kadal bucia pe reservatura. Jekh kulturako reservato shaj te avel sa khatar jekh phuv zhi khaj jekh historicno industriako thaj – thana so inkren jekh historia shaj te len kado garajipe. Kana Länsstyrelsen lel jekh decizia pa jekh kulturako reservato si vi o gazda pe kadi buci kote thaj atunci del pe vi responsebilita pa buci thaj sar lel pe sama pala kadal thana.</p>
-    <p type="title" xml:lang="swe">Landskapsvård</p>
-    <p xml:lang="swe">Länsstyrelsen kerel buci kusa landskapsvård te inkrel pe maj dur thaj te sikavel pe o barvalipe pa o phuv. Te kames te les sama pala jekh varto kulturalno phuv so inkrel jekh historia pa kodo than shaj atunci te les jekh lov pa kado khatar o Länsstyrelsen. Ande kado shaj te lel pe sama vi pala animalura thaj zelenimata. Länsstyrelsen del vi love khaj föreningura, firmi thaj privatne manush so kamen te len sama pala lokalne naturake projekti (LONA). Te kames te les love pe jekh LONA-projeka si te des kodo opre khaj chiri kommuna thaj pala kado des andre jekh pushipe khaj o Länsstyrelsen.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rlo" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>866</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rlo"/><language xml:lang="swe"/></multilingual><origFileName>http://www.lansstyrelsen.se/skane/rom-lo/samhallsplanering-och-kulturmiljo/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text xml:lang="fin" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text xml:lang="fit" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text xml:lang="sme" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text xml:lang="swe" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmu"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmy-rka"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmf"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmn"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Planeringo &amp; kulturako miljö - Länsstyrelsen Skåne</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe">Planeringo &amp; kulturako miljö</p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Planeringo &amp; kulturako miljö</p>
+<p>Länsstyrelsens buci kusa kado planeringo si te vazdel opre lashie thaj pacake trajimaske konditci thaj jekh lashio lungo trajimako miljö e manushenge so kothe trajin thaj kodolenge so kote feri aven te dikhen. Kulturako miljö si jekh kotor anda e strukturaki historia kodo del kontinuiteto ando djes thaj del e manushen maj but acharipe krujal pende.</p>
+<p type="title">Infrastruktura thaj IT</p>
+<p>Länsstyrelsen kerel buci te avel maj lettko te avel e kommunikatci ando länet thaj krujal o intrego them. Lashie kommunikatci thaj jekh lashio IT-infrastruktur kerel ke maj but manush, firmi thaj organizatci shaj te bulhjaren penge buciake marketi. Länsstyrelsen lishij te inkren pe e themeske intressi vaj intressura so e kommuni roden ande e paningi pa infrastukturne projekti. Ame keras administratcia vi e themesko zutipe te bararel pe o bredband pe gava.</p>
+<p type="title">Energia</p>
+<p>Länsstyrelsen inkrel ketanes e regionalno buci pe jekh lungo vramako thaj pacimasko inkeripe pa energia. Ketanes kusa kaver aktorura ande länet lam ame avri jekh klimatoski- thaj energiaki strategia so sikavel sar e buci si te djal ando shvedo te aresel pe e cellura ande klimato thaj ande jekh energiako parujipe.Länsstyrelsen inkrel differentne projekti te avel jekh evulutcia thaj lel avri neve materialura ande e kommunake planingo pa energia. Si differentne tipura pa love so shaj te lel pe khatar o them te kerel pe maj effektovane bucia kusa e energia thaj sar te kerel pe jekh nevi energia so shaj te lel pe po dujto.pa kado lel o Länsstyrelsen decizia.Länsstyrelsens miljöprövningsdelegation lel decizia pa slobodia thaj permissi pa bare energiake thana sar vindkraftsparker thaj fjärrvärmeverk.</p>
+<p type="title" xml:lang="swe">Khera</p>
+<p>Länsstyrelsen inkrel ande peske vast e love khatar o them pe phurenge khera thaj kaver pacake khera, kana keravel pe khera khatar o radono vaj kana lel pe decizia pa energiake lovenge zutimata pe khera thaj kaver lokalura. Länsstyrelsen shiol khetnes informatcia thaj kerel sako bersh analyzi pa e kherengi situatcia ande sako län te birij e kommuna te kerel jekh maj lashi buci te aven maj but khera.</p>
+<p type="title">Planosko pushipe</p>
+<p>Länsstyrelsen lel avri materialo pe differentne planeringura pe differentne thana so sikaven so si vazno kana vazdel pe differentne bucia. O cello si te keravel pe lashie thaj pacake trajimaske konditci thaj jekh lungo trajimasko miljö. E buci kusa o planeringo parudjiol pep a differentne nationalne thaj themeske intressura sar exemplo kana si pa energiakoproduktcia, naturako dikhipe, vaj kommunikatci. Ame dikhas vi perdal e kommunaki planeringi thaj dikhas kado vi pala e manushengo sastipe thaj pacape, themeske intressura. Te chi san chalo kusa e kommunake planura shaj te vazdes appelatcia amende.</p>
+<p type="title">Inkerdo monumento</p>
+<p>Länsstyrelsen shaj te lel jekh decizia pe kulturake historicne khera, khangera, parkura, sadura, murmunci thaj kaver kasave thana sar thana so nashtik te paghel pe thele thaj kado si te inkerdjiol sar jekh inkerdo monumento. Länsstyrelsen dikhel thaj lel e decizia kana jekh kasavo thaj si te avel inkerdo maj dur sar jekh monumento.</p>
+<p type="title" xml:lang="swe">Byggnadsvård</p>
+<p>Byggnadsvårdensi jekh kotor ande Länsstyrelsens lungo buci te inkrel pe maj dur e shukar kultura ando länet. Te avel kade te inkerdjin kadala historicne kulturake bucia pesko shukaripe si atunci vazno te lel pe sama pala kadala thana pala specialne premissura. Si vi vazno te kerel pe kadi buci pala e purane metodi te na hasarel pe e purani shuk ande kadal bucia. Civilne manush, kommuni, stiftelser thaj firmi shaj temangen love khatar o Länsstyrelsen te len von sama pala jekh kulturhistoricno than thaj kodol love bushiol byggnadsvårdsbidrag.</p>
+<p type="title">Arkeologia thaj fornlämningar</p>
+<p>Fornlämningar si resti pa purane manushikane bucia vaj thana sar exemplo purane trajimaske thana, murmunci, ruini vaj kulturake ashajimata pa purane anticne forura. Länsstyrelsens bucia si te lel sama, te inkrel thaj te sikavel e miljö khaj ashilas pala e paluni historicno. Pala o zakono kulturminneslagen naj slobodo te paruven, te len vaj te sharavel pe jekh fornlämning. Univar birij o Länsstyrelsen te mukhel jekh shajipe po parujipe.</p>
+<p type="title">Kulturake reservatura</p>
+<p>Länsstyrelsen thaj e kommuni shaj te len e decizia ke uni thana shaj te ashion sar kulturake reservatur. Thaj kodolesa kerdjion sa e bucia so si pe kodi phuv vi kulturake reservatura thaj atunci djal vi e kultura thaj o djanglipe pe kadal bucia pe reservatura. Jekh kulturako reservato shaj te avel sa khatar jekh phuv zhi khaj jekh historicno industriako thaj – thana so inkren jekh historia shaj te len kado garajipe. Kana Länsstyrelsen lel jekh decizia pa jekh kulturako reservato si vi o gazda pe kadi buci kote thaj atunci del pe vi responsebilita pa buci thaj sar lel pe sama pala kadal thana.</p>
+<p type="title" xml:lang="swe">Landskapsvård</p>
+<p>Länsstyrelsen kerel buci kusa landskapsvård te inkrel pe maj dur thaj te sikavel pe o barvalipe pa o phuv. Te kames te les sama pala jekh varto kulturalno phuv so inkrel jekh historia pa kodo than shaj atunci te les jekh lov pa kado khatar o Länsstyrelsen. Ande kado shaj te lel pe sama vi pala animalura thaj zelenimata. Länsstyrelsen del vi love khaj föreningura, firmi thaj privatne manush so kamen te len sama pala lokalne naturake projekti (LONA). Te kames te les love pe jekh LONA-projeka si te des kodo opre khaj chiri kommuna thaj pala kado des andre jekh pushipe khaj o Länsstyrelsen.</p>
+</body></document>

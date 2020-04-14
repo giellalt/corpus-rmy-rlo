@@ -1,68 +1,30 @@
-<document xml:lang="rmy-rlo" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>954</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rlo"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/skane/rom-lo/djur-och-natur/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="djur-och-natur.html"/>
-    <parallel_text xml:lang="fin" location="djur-och-natur.html"/>
-    <parallel_text xml:lang="fit" location="djur-och-natur.html"/>
-    <parallel_text xml:lang="sma" location="djur-och-natur.html"/>
-    <parallel_text xml:lang="sme" location="djur-och-natur.html"/>
-    <parallel_text xml:lang="swe" location="djur-och-natur.html"/>
-    <parallel_text location="djur-och-natur.html" xml:lang="rmu"/>
-    <parallel_text location="djur-och-natur.html" xml:lang="rmy-rka"/>
-    <parallel_text location="djur-och-natur.html" xml:lang="rmf"/>
-    <parallel_text location="djur-och-natur.html" xml:lang="rmn"/>
-    <parallel_text location="djur-och-natur.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Animalura &amp; natura - Länsstyrelsen Skåne</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe">Animalura &amp; natura</p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Animalura &amp; natura</p>
-    <p xml:lang="swe"><em type="italic">Länsstyrelsen kerel buci te birin e zelenimata, animalura thaj e natura te inkerdjil pe maj feder thaj maj dur. Jekh anda bucia su te dikhel pe perdal sa e artura thaj e naturi, te zumavel pe te kerel pe differentne bucia thaj te mangel pe slobodia te kerel pe naturake reservatura so shaj te lashiarel e natura maj feder. E naturake reservatura thaj e nationalne parkura thaj e nationalne parkura si puterde pe jekh naturako trajo thaj pe naturake experiensi. </em></p>
-    <p xml:lang="swe">Länsstyrelsen inkrel e reposebilita pa e animalongo dikhipe ande länet. Ame keras buci te avel e animalonge maj feder. Ame shaj te las decizia te las e animalura kaverendar te dikhasam ke lenge si chorres pe kodola thana thaj birisaras vi te phenas ke naj slobodo varikaske te aven len animalura.</p>
-    <p type="title" xml:lang="swe">Djurskydd – Animalongi proteksia</p>
-    <p xml:lang="swe">Ande djurskyddslagen si grundoske zakoni sar e animalura si te aven inkerde thaj sar te lel pe sama pala lende kana von si nasvale. Länsstyrelsen kerel vi differentne kontrolli krujal ando länet. ’’’’’te si kodole animaloske chorre shaj te las e decizia te las les kotar. Te si kade ke ghindos ke si jekhe animaloske chorres le kontakto kusa o Länsstyrelsen.</p>
-    <p type="title" xml:lang="swe">Mashie</p>
-    <p xml:lang="swe">Länsstyrelsen inkrel responsebilita te inkerdjion pe e mashie maj dur thaj sar te kerel pe maj feder te birin e manush te phiren penge pala e mashie ande e regionura. Te keravel pe neve thana vaj te lashiarel pe e thana te aven kote maj but mashie zutij o Länstyrelseb differentne projekti pa mashie. Ame keras vi buci te aven lashie thana te phiren e manush pe mashie thaj kodo keras kana rakhas avri neve thana. Länsstyrelsen si te dikhel te avel mishto pa mashiaripe pala e regionalne intressura.</p>
-    <p type="title" xml:lang="swe">Skyddad natur – Natura tela vast</p>
-    <p xml:lang="swe">Länsstyrelsen inkrel responsebilita te keravel, lel sama thaj te lishij naturake- thaj kulturakereservat, nationalne parkerura thaj phirimaske thana ande fjällen – ande plaja. Si but differentne droma sar te lel pe sama pala e natura. Nationalne parkura si o maj zuralo drom te dikhel pe mishto. Kodo si kana lel pe sama thaj phandavel pe tele jekh baro than ande pengo naturako trajo bi kanchesko. Naturako reservato o maj normalno zutimaski forma. Kodo kerel pe te inkrel pe maj dur o biologicno zuralipe, kuch naturake thana vaj te lel pe sama pe jekh than te avel lashio e manushenge. Kulturako reservato si jekh zutimaski forma te lel pe sama pala jekh kulturalno than.</p>
-    <p type="title" xml:lang="swe">Friluftsliv – Naturako than e manushenge</p>
-    <p xml:lang="swe">Länsstyrelsen kerel buci ando länet te avel kadi natura puterdi savorenge. Uni thana si kerde kade ke vi manush so si nasvale thaj beshen ande nasvalenge skamina si te birin thaj te len partia ande e natura. Vi djuvljia si te birin te phiren e chavorenca so inke si ande chavorenge vurdona. Ando Shvedo si sa e manushen jekh shajipe te phiraven pe ande natura kado bushiol allemansrätten khaj o fonduno regulo si <span type="quote" xml:lang="swe">”na ker nasu – na phager”</span>. Allemansrätten djal vi ande naturake reservatura numa shaj te avel kaver zakonura kote.</p>
-    <p type="title" xml:lang="swe">Zelenimata thaj animalura so shaj te hasajven</p>
-    <p xml:lang="swe">Länsstyrelsen kerel buci te na hasajven kodola zelenimata thaj animalura so si. Ame keras buci thaj keras differentne programura sar te inkrel pe kado maj du rte trajin maj dur kodol artura so sip o drom te meren avri. Kodo arto so si po drom te merel thaj si tela e themesko vas – fridlyst, naj tuke slobodo te vazdes opre, te kiddes vaj te dukhaves. Kado drom si jekh te birij pe te inkrel pe e natura zuvindi.</p>
-    <p type="title" xml:lang="swe">Jakt thaj vilt</p>
-    <p xml:lang="swe">Ando jaktlagen phenel pe sa so si vilt so so trajil avri thaj si dziko, vi lenge anre thaj khera si pacake. Kodo znacil pe ke kadalen shaj feri te mudares kana si vrama pe kodo pala e shvedosko zakono. Ando Shvedo si normaln okade ke e gazdi pe penge phuva saj vi te mudarel dzike animalura so phiren pe leski phuv. Uni animalura si tele line katar kodo principe. Länsstyrelsen del informatcia pa kado thaj del e manushn licensi pe kadal bucia thaj regitrulij ekadal thana thaj kerel vi statestika pe kadal bucia. Ame las vi sama pala bucia so si pa kaver bucia so shaj te avel te na dukhaven pe e mansuh kana phiren pala dzike manush.</p>
-    <p type="title" xml:lang="swe">Rovdjur – Vesheske animalura</p>
-    <p xml:lang="swe">Länsstyrelsen inkrel e responsebilita pa e bare vesheske animalura ando länet. O cello si te inkren pe von pala pende thaj te inkren pe pala jekh siffra ke te si za but trobuj te lel pe maj bute telen.Khaj kadal bare rovdjur ginavel pe rish, ruv, vesheske bare muci - lodjur, järv thaj kungsörn. Länsstyrelsen kerel sako bersh dikiphe thaj lel neve decizi pe exemplo bucia sar te kerel pe maj feder po mudaripe pe kadal animalura, sar te kerel pe kadal bucia tela licencia thaj sar te malavel pe tele kodolen so mudaren animalon chordanes. Pasha kado las sama pala kodo so kadal anumalura pagren ande natura – viltskadeärenden.</p>
-    <p type="title" xml:lang="swe">Vurdonengi trafika ande natura</p>
-    <p xml:lang="swe">Länsstyrelsen dikhel perdal thaj lel sama pala e trafika ande natura thaj sar kodo si te mezij ande differentne thana sar ando vesh, e vurdonenca thaj e scoteronca. Ghindo si te na tranculij vaj te phagel e trafika a natura, te na rumuj pe o zelenipe, e animalon, sar lel pe sama pala e animalura thaj e kaver bucia so si ande e vesha. Terenosko tradipe po barmark är nastik te kerel pe ande intrego Shvedo, Ivesko scoter shaj feri te tradel pep o jiv ande uni thana thaj opre pasha e plaja. Pajesko scoter shaj feri te aven tradine pe kodola thana so o Länstyrelsen phendas ke shaj te tradel pe.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rlo" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>954</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rlo"/><language xml:lang="swe"/></multilingual><origFileName>http://www.lansstyrelsen.se/skane/rom-lo/djur-och-natur/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="djur-och-natur.html"/><parallel_text xml:lang="fin" location="djur-och-natur.html"/><parallel_text xml:lang="fit" location="djur-och-natur.html"/><parallel_text xml:lang="sma" location="djur-och-natur.html"/><parallel_text xml:lang="sme" location="djur-och-natur.html"/><parallel_text xml:lang="swe" location="djur-och-natur.html"/><parallel_text location="djur-och-natur.html" xml:lang="rmu"/><parallel_text location="djur-och-natur.html" xml:lang="rmy-rka"/><parallel_text location="djur-och-natur.html" xml:lang="rmf"/><parallel_text location="djur-och-natur.html" xml:lang="rmn"/><parallel_text location="djur-och-natur.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Animalura &amp; natura - Länsstyrelsen Skåne</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem">Animalura &amp; natura</p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Animalura &amp; natura</p>
+<p><em type="italic">Länsstyrelsen kerel buci te birin e zelenimata, animalura thaj e natura te inkerdjil pe maj feder thaj maj dur. Jekh anda bucia su te dikhel pe perdal sa e artura thaj e naturi, te zumavel pe te kerel pe differentne bucia thaj te mangel pe slobodia te kerel pe naturake reservatura so shaj te lashiarel e natura maj feder. E naturake reservatura thaj e nationalne parkura thaj e nationalne parkura si puterde pe jekh naturako trajo thaj pe naturake experiensi. </em></p>
+<p>Länsstyrelsen inkrel e reposebilita pa e animalongo dikhipe ande länet. Ame keras buci te avel e animalonge maj feder. Ame shaj te las decizia te las e animalura kaverendar te dikhasam ke lenge si chorres pe kodola thana thaj birisaras vi te phenas ke naj slobodo varikaske te aven len animalura.</p>
+<p type="title">Djurskydd – Animalongi proteksia</p>
+<p>Ande djurskyddslagen si grundoske zakoni sar e animalura si te aven inkerde thaj sar te lel pe sama pala lende kana von si nasvale. Länsstyrelsen kerel vi differentne kontrolli krujal ando länet. ’’’’’te si kodole animaloske chorre shaj te las e decizia te las les kotar. Te si kade ke ghindos ke si jekhe animaloske chorres le kontakto kusa o Länsstyrelsen.</p>
+<p type="title">Mashie</p>
+<p>Länsstyrelsen inkrel responsebilita te inkerdjion pe e mashie maj dur thaj sar te kerel pe maj feder te birin e manush te phiren penge pala e mashie ande e regionura. Te keravel pe neve thana vaj te lashiarel pe e thana te aven kote maj but mashie zutij o Länstyrelseb differentne projekti pa mashie. Ame keras vi buci te aven lashie thana te phiren e manush pe mashie thaj kodo keras kana rakhas avri neve thana. Länsstyrelsen si te dikhel te avel mishto pa mashiaripe pala e regionalne intressura.</p>
+<p type="title" xml:lang="swe">Skyddad natur – Natura tela vast</p>
+<p>Länsstyrelsen inkrel responsebilita te keravel, lel sama thaj te lishij naturake- thaj kulturakereservat, nationalne parkerura thaj phirimaske thana ande fjällen – ande plaja. Si but differentne droma sar te lel pe sama pala e natura. Nationalne parkura si o maj zuralo drom te dikhel pe mishto. Kodo si kana lel pe sama thaj phandavel pe tele jekh baro than ande pengo naturako trajo bi kanchesko. Naturako reservato o maj normalno zutimaski forma. Kodo kerel pe te inkrel pe maj dur o biologicno zuralipe, kuch naturake thana vaj te lel pe sama pe jekh than te avel lashio e manushenge. Kulturako reservato si jekh zutimaski forma te lel pe sama pala jekh kulturalno than.</p>
+<p type="title">Friluftsliv – Naturako than e manushenge</p>
+<p>Länsstyrelsen kerel buci ando länet te avel kadi natura puterdi savorenge. Uni thana si kerde kade ke vi manush so si nasvale thaj beshen ande nasvalenge skamina si te birin thaj te len partia ande e natura. Vi djuvljia si te birin te phiren e chavorenca so inke si ande chavorenge vurdona. Ando Shvedo si sa e manushen jekh shajipe te phiraven pe ande natura kado bushiol allemansrätten khaj o fonduno regulo si <span type="quote" xml:lang="swe">”na ker nasu – na phager”</span>. Allemansrätten djal vi ande naturake reservatura numa shaj te avel kaver zakonura kote.</p>
+<p type="title">Zelenimata thaj animalura so shaj te hasajven</p>
+<p>Länsstyrelsen kerel buci te na hasajven kodola zelenimata thaj animalura so si. Ame keras buci thaj keras differentne programura sar te inkrel pe kado maj du rte trajin maj dur kodol artura so sip o drom te meren avri. Kodo arto so si po drom te merel thaj si tela e themesko vas – fridlyst, naj tuke slobodo te vazdes opre, te kiddes vaj te dukhaves. Kado drom si jekh te birij pe te inkrel pe e natura zuvindi.</p>
+<p type="title">Jakt thaj vilt</p>
+<p>Ando jaktlagen phenel pe sa so si vilt so so trajil avri thaj si dziko, vi lenge anre thaj khera si pacake. Kodo znacil pe ke kadalen shaj feri te mudares kana si vrama pe kodo pala e shvedosko zakono. Ando Shvedo si normaln okade ke e gazdi pe penge phuva saj vi te mudarel dzike animalura so phiren pe leski phuv. Uni animalura si tele line katar kodo principe. Länsstyrelsen del informatcia pa kado thaj del e manushn licensi pe kadal bucia thaj regitrulij ekadal thana thaj kerel vi statestika pe kadal bucia. Ame las vi sama pala bucia so si pa kaver bucia so shaj te avel te na dukhaven pe e mansuh kana phiren pala dzike manush.</p>
+<p type="title">Rovdjur – Vesheske animalura</p>
+<p>Länsstyrelsen inkrel e responsebilita pa e bare vesheske animalura ando länet. O cello si te inkren pe von pala pende thaj te inkren pe pala jekh siffra ke te si za but trobuj te lel pe maj bute telen.Khaj kadal bare rovdjur ginavel pe rish, ruv, vesheske bare muci - lodjur, järv thaj kungsörn. Länsstyrelsen kerel sako bersh dikiphe thaj lel neve decizi pe exemplo bucia sar te kerel pe maj feder po mudaripe pe kadal animalura, sar te kerel pe kadal bucia tela licencia thaj sar te malavel pe tele kodolen so mudaren animalon chordanes. Pasha kado las sama pala kodo so kadal anumalura pagren ande natura – viltskadeärenden.</p>
+<p type="title">Vurdonengi trafika ande natura</p>
+<p>Länsstyrelsen dikhel perdal thaj lel sama pala e trafika ande natura thaj sar kodo si te mezij ande differentne thana sar ando vesh, e vurdonenca thaj e scoteronca. Ghindo si te na tranculij vaj te phagel e trafika a natura, te na rumuj pe o zelenipe, e animalon, sar lel pe sama pala e animalura thaj e kaver bucia so si ande e vesha. Terenosko tradipe po barmark är nastik te kerel pe ande intrego Shvedo, Ivesko scoter shaj feri te tradel pep o jiv ande uni thana thaj opre pasha e plaja. Pajesko scoter shaj feri te aven tradine pe kodola thana so o Länstyrelsen phendas ke shaj te tradel pe.</p>
+</body></document>

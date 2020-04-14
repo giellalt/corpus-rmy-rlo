@@ -1,115 +1,72 @@
-<document xml:lang="rmy-rlo" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1975</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rlo"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Regler-och-rattigheter/Vad-kostar-lakemedel-pa-recept</origFileName>
-    <parallel_text xml:lang="eng" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="fin" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="fit" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="sma" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="sme" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="smj" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="swe" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmy-rka"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmn"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmu"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="yid"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Sode koštulij medicina pe recepta? / Vad kostar läkemedel på recept? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib lovarickaRomska lovara</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Sode koštulij medicina pe recepta?Vad kostar läkemedel på recept?</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Sar si?</p>
-    <p type="title" xml:lang="swe">Protektcia karing uče košti</p>
-    <p xml:lang="swe">O them kerel subventcia, del ekonomiako žutipe, kana trobuj medicina thaj kaver žutipe kana si e manušes nasvalimata. Maj but anda e medicina so si pe recepta si tela subventcia. Pa subventcia skrij pe ando zakono Lagen om läkemedelsförmåner. E protektcia karing uče košti so o zakono žutij bušol normalno högkostnadsskyddet.</p>
-    <p xml:lang="swe">Pala zakono si te avel kade:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">ke lel pe rabato pe jekh trapta khaj so maj opre žas so maj cera počines thaj kado si pe e maj but medicini, p-piller thaj stomi artiklura</p>
-      <p type="listitem" xml:lang="swe">či počinel pe kanči pe artiklura so den žutipe kusa medicina (förbrukningsartiklar) kana si te kerel pe kontrola pe medicina, sar eksemplo suva kana dikhel pe o tsukro ando rat</p>
-      <p type="listitem" xml:lang="swe">lel pe jekh specialno protektcia karing uče košti pe uni habenata šavorenge so si tela 16 berš.</p>
-    </list>
-    <p type="title" xml:lang="swe">čimin thaj subventcia</p>
-    <p xml:lang="swe">Tandvårds- och Läkemedelsförmånsverket, TLV, si kodo than so lel decizia pe čimin thaj subventcia. Kana TLV si te lel decizia pe jekh subventcia dikhen von vaj e medicina avla laši pe kodi košta so avla tela subventicia. O lašipe si sar eksemplo te avel maj lungo trajo thaj maj lašo sastipe. TLV dikhel vi vaj e medicina šaj te činjarel e themeske košti, sar eksemplo operatci, nasvale lila vaj phurengo žutipe.</p>
-    <p xml:lang="swe">Medicinake firmi birin korkori te alosaren vaj kamen te biknen pengi medicina so thaj te na avel kodo andre ande högkostnadsskyddet. Atunči si e košta phuterdi, e medicinsko firma alosarel korkori e čimin. Medicina so naj andre ande e högkostnadsskyddet musaj o manuš korkori te počinel intrego košta.</p>
-    <p xml:lang="swe">Uni medicini šaj te aven tela jekh vramaki vaj grupaki subventcia. Kodo značil pe ke e medicina si feri tela subventcia unie pacientonge vaj te sačiarel varisavo nasvalipe.</p>
-    <p xml:lang="swe">TLV thaj FASS inkrel peske internet rihga khaj birij pet e dikhel pe vaj e medicina si tela subventcia vaj na .</p>
-    <p type="title" xml:lang="swe">Maj lezno parujimaski alternativa</p>
-    <p xml:lang="swe">Univar si medicina so žutin sa kade sar jekh alternativa khaj sa kodi medicina. Von bušon generiska medicina. Von inkren sa keči anda e medicina so si andre thaj den sa kodo efektno. Numa birin te mezin ekcera maj kaver thaj te inkren varisave kaver konserveringsmedel. Von šaj te aven anda kaver firmi thaj te koštulin diferentno. Kadal alternativi šaj te paruvel pe ande apoteka. Läkemedelsverket lel e decizia save medicini šaj te aven parude jekh kaveresa.</p>
-    <p xml:lang="swe">Te si but generiska medicini thaj kodo so si skirime pe recepta naj e maj lezno medicina musaj e apoteka te paruvel khaj kodi alternativa so si maj lezno pe marketi. Feri e maj lezno alternativa si intrego tela subventcia. Šaj te lel pe e maj kuč medicina so si pe recepta numa atunči musaj o manuš te počinel korkori kodo so naj ande subventcia, ke kodo naj ande högkostnadsskyddet. Te kamel pe jekh kaver alternativa šaj te alosarel pe jekh kaver medicina ande e generisk alternativa. Numa atunči počinel pe intrego košta korkori. Feri e medicina so si skirime pe recepta thaj e maj lezno alternativa si tela subventcia. Doš khaj kado si kodo te na počinel pe za but pe jekh medicina te si kaver alternativi so si maj lezni.</p>
-    <p xml:lang="swe">Te si kade anda medicinske doša ke o manuš naštik te paruvel e medicina so si pe recepta šaj o doktori te skrij kodo pe recepta. Atunči naj musaj o manuš te počinel e diferencia ande košta te si e medicina ande högkostnadsskyddet. Medicinska doša šaj te avel kodo ke si e manušes alergia karing variso so si ande tabletka vaj ke o manuš či birij te putrel e pačka.</p>
-    <p type="title" xml:lang="swe">Periodako produkto (periodens vara)</p>
-    <p xml:lang="swe">TLV lel decizia save čimina si te aven pala e medicinske firmenge čimina thaj kana von kamen te paruven e čimina. Čimin pe medicina šaj, pala jekh mangipe, te parudžon sako šon.</p>
-    <p xml:lang="swe">Kana si pa generiska medicina bušol e alternativa khaj si maj lezno periodako produkto (periodens vara) TLV del informatcia khaj e apoteki save alternativi si e periodako produkto thaj save si te aven parude. TLV lel decizia save duj reservovane alternatvi so si te avel alternativa te agorisajlas periodako produkto. Šaj te avel jekh variatcia khatar jekh šon po kaver šon save alternativi e apoteki paruven.</p>
-    <p xml:lang="swe">Ghindo kusa periodako produkto si te avel dosta kusa e skatoske love so si tela subventci pe medicina te avel dosta savorenge.</p>
-    <p xml:lang="swe">Periodako produkto si mindik sa kodo pe sa apoteki. Numa univar šaj te avel kade ke jekh apoteka kindas za but anda jekh periodako produkto. Atunči šaj e apoteka te biknel vi kodo po kaver šon. Kodo značil ke šaj te avel kade ke lel pe paluno šonesko produkto ande jekh apoteka thaj e čimin si jekh kaver. Kadal duj produktura šaj te koštulin atinči diferentno.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Högkostnadsskyddet (maximalno žutimasko počinipe)</p>
-    <p type="title" xml:lang="swe">Počinel pe maksimalno 2 200 koroni ande jekh berš</p>
-    <p xml:lang="swe">Högkostnadsskydd značil ke počinel pe maksimalno 2 200 koroni tela jekhe beršeski vrama. Kodo berš bušol högkostnadsperiod.</p>
-    <p xml:lang="swe">Högkostnadsskyddet si pe medicini so lel pe pe recepta thaj save o TLV las decizia ke si te aven tela subventcia. Kodo si vi pe förbrujkningsartiklar (žutimaske artiklura) so lel pe pe jekh hjälpmedelskort (žutimaski kartčia)</p>
-    <p xml:lang="swe">Kana si pa e kaver medicini počinel pe jekh košta sako (egenavgift) data kana lel pe avri jekh recepta ži o manuš aresel khej e 2 200 koroni. Sa kodo si pe förbrukningsartiklar so trobuh paša stomi.</p>
-    <p xml:lang="swe">Pe uni medicini či počinel pe jekh specialno košta (egenavgift). Te si e manušes žutipe kusa insulina po diabetes či počinel pe kanči pe insulina. Te si e manušes jekh nasvalipe so tela zakono smittskyddslagen počinel o landstinget intrego košta pe medicina ke kado kerel ke e manuš či perdžon jekh kaverestar, sar eksemplo virusoske medicini karing hiv.</p>
-    <p xml:lang="swe">Uni landsting počinen intrego vaj uni anda egenavgift pe uni medicini thaj unie pacientonge, sar eksemplo p-piller terne djuvliange.</p>
-    <p xml:lang="swe">Či počinel pe kanči pe förbrukningsartiklar so trobuj sar žutipe kana si te žutij pe e statos pe kontrolli pe medicina. Eksemplo pe kado si žutimske produktura sar suva pe sukrosko miripe.</p>
-    <p type="title" xml:lang="swe">Egenagift pala e högkostnadstrappan (počinimaski trapta)</p>
-    <p xml:lang="swe">Kana lel pe jekh högkostnadsperioda angla o berš počinel pe e intrego košta pe medicina thaj stomi artiklura korkori ži khaj o manuš počindas 1 100 kronor. Pala kodo cinjiol o egenavgiften pe e počinimaski trapta. Kana khinel pe jekh nevi medicina počinel pe khatar o paluni počinipe thaj pala jekh vrama aresel o manuš ži opre pe trapta.</p>
-    <p xml:lang="swe">Kana o manuš počindas 2 200 koroni či trobuj pe te počinel pe maj but tela kodi högkostnadsperioda. Numa te avel kade te aresel o manuš ži khaj e gor pe trapta musaj e medicina te aven andre ginade ande högkostnadsskyddet. Kana högkostnadsperioda agorij pe startulj o manuš pe angluni trapta, sajek si khaj o manuš sas maj angle ande e trapta.</p>
-    <p type="title" xml:lang="swe">Kado žal e buči kusa o högkostnadstrapta</p>
-    <p xml:lang="swe">Intrego košta pe medicina</p>
-    <p xml:lang="swe">počinel pe sar maj but</p>
-    <p xml:lang="swe">5.400</p>
-    <p xml:lang="swe">2.200</p>
-    <p xml:lang="swe">3.900</p>
-    <p xml:lang="swe">90% rabato</p>
-    <p xml:lang="swe">2.050</p>
-    <p xml:lang="swe">2.100</p>
-    <p xml:lang="swe">75% rabato</p>
-    <p xml:lang="swe">1.600</p>
-    <p xml:lang="swe">1.100</p>
-    <p xml:lang="swe">50% rabato</p>
-    <p xml:lang="swe">1.100</p>
-    <p xml:lang="swe">0% rabato</p>
-    <p xml:lang="swe">Tabela sikavel sar högkostnadsskyddet del del jekh maj cini košta.</p>
-    <p type="title" xml:lang="swe">Specialne habenata šavorenge</p>
-    <p xml:lang="swe">Vi habenata so si šavorenge si tela 16 berš thaj si nasvale, sar eksemplo si gluten intoleranso, si tela subventcia. Habenata si avri skirime pe jekh 90 džesengi vrama thaj šaj feri te anavel pe avri habe pe 90 džes tela jekh vrama. Počinel pe jekh egenavgift pe 120 koroni sako data, numa kado počinipe či žal andre ande högkostnadsskyddet.</p>
-    <p type="title" xml:lang="swe">Sode birij pe te khinel pe sako data?</p>
-    <p xml:lang="swe">Či birij pe te khinel pe sode kamel pe ande högkostnadsskyddet. Kodo so khinel pe si te avel dosta tela kodol 90 džes, trin šon. Preventivno žutipe, sar eksemplo p-piller thaj p-sprutor, naj andre šutine ande trine šonesko regulo</p>
-    <p xml:lang="swe">Te si kade ke si recepta khaj šaj te lel pe avri medicina maj butivar šaj o manuš te lel avri medicina po dujto kana jekh trito vrama nakhlas de khatar e paluni vrama khaj lan avri medicina. Sar eksemplo te sas kade ke o manuš las avri medicina so si te žutij trin šon musaj te nakhen duj šon ži pun šaj o manuš te lel avri nevi medicina pe kodi recepta po dujto.</p>
-    <p xml:lang="swe">Šaj te khinel pe maj but medicina sar e duj šon numa pe kodo musaj o manuš te počinel intrego košta. Te skirisardas o doktori vrama pe recepta, ke musaj vrama te nakhel ži pun o manuš šaj te lel avri medicina či birij o manuš te khinel medicina atunči.</p>
-    <p xml:lang="swe">Numa te si specialne doša, sar eksemplo ke si te tradel pe avri ande thema thaj ke avla o manuš avri maj but vrama, birij pe te anavel pe avri medicina pe maj lungo vrama sar trin šon. Numa atunči musaj o manuš te sikavel kodo, sar eksemplo tradimaske dokumentura.</p>
-    <p type="title" xml:lang="swe">Kana žal o högkostnadsskyddet?</p>
-    <p xml:lang="swe">Te avel kade ke o högkostnadsskyddet si te žal andre musaj o manuš kon skrij avri medicina te avel andre registirime ande recepta kusa kodura so si pe recepta. Te si kade ke e recepta žal pe jekh medicina khaj si subventcia musaj o skiritori pa recepta te skrij vi kodo te avel e recepta tela högkostnadsskyddet.</p>
-    <p xml:lang="swe">Högkostnadsskyddet si kodolenge si trajij vaj kerel buči ando Švedo vaj khas si jekh europaki insuransovo kartčia khatar jekh kaver EES-them vaj Šwaizo. Europaki insuransovo kartčia si te avel opre sikadi vi khaj e doktora thaj vi pe apoteka. E švedos si vi kontrakto kavere themenca so naj ande euroa; Algeria, Australia, stato Quebec ande Kanada, thaj kodo značil pe ke vi kadale citizenton si kado žutipe pe medicina kana von si ando Švedo.</p>
-    <p xml:lang="swe">Sa šavora so si tela 18 berš ande jekh kher, khaj si skirime tela jekh adresi, si tela jekh khetanimaski högkostnadsskydd. Kodo značil pe kesa e šavorenge egenavgifter ginadžon pe khetanes. Kodo značil pe ke biologicne pral,pheja so si skirime pe diferentne adresi naj tela jekh högkostnadsskydd.</p>
-    <p type="title" xml:lang="swe">Högkostnadsdatabasen (komputeroski basa pe högkostnadsskydd)</p>
-    <p xml:lang="swe">Či trobuj o manuš korkori te lel sama kečij vov korkori počindas. Ande e högkostnadsdatabasen, so si inkerdo khatar e themeski firma Apotekens Service AB, si sa e košti registirime ande högkostnadsskyddet. O systemo ginavel sa avri thaj žanel kečij o manuš počindas ande egenavgift thaj ginavel avri kečij rabato si te avel pala e počonimaski trapta sako data so jekh manuš khinel khatar e apoteka. Sa e apoteki si andre ulade ande jekh komuteroski basa anda kodi sajek si ande savi apoteka e manuš žan te khinen medicina.</p>
-    <p xml:lang="swe">Naj musaj o manuš te avel andre skirime ande e högkostnadsdatabasen (komputeroski basa) Kodo so si registirime si anav, personnummer, khinimasko džes, ande savi apoteka e medicina sas avri lini, kečij o manuš počindas, khaj si o manuš ande högkostnadsskyddet thaj angluno džes ande počinimaski perioda (högkostnadsperioden). Informatcia so si registirime si feri anda kodo te avel e manušes jekh čačo rabato. Naj či soski informatcia registirime pe save medicini e manuš khinde vaj save doktora skrin avri e medicina.</p>
-    <p xml:lang="swe">Manuš birij te mangel avri peski informatcia kana vov kamel anda högkostnadsdatabasen pe sa e informatcia so si pa peste thaj pe e manušeske šavora. Kodo šaj te kerel pe kana skrij pe jekh blanketa khaj Apotekens Service AB, kotar mangel pe vi e blanketa.</p>
-    <p type="title" xml:lang="swe">Alosar te na aves andre phanglo</p>
-    <p xml:lang="swe">Sahj te alosares te na aves phanglo khaj högkostnadsdatabasen. Atunči lel pe jekh kvito so bušol högkostnadsbevis (högkostnad evidensia) pe apoteka kana khinel pe medicina so si andre ande högkostnadsskyddet. Pe högkostnadsbevis skrij pe kečij o manuš počindas korkori ande egenavgift. Vazno si te inkrel pe e paluno högkostnadsbevis khatar e palune khinimata pa apoteka kana si te khinel pe nevi medicina. Apoteka trobuj te žanel pe savi trapta o manuš si te birij vov te lel rabato pe peske medicini.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rlo" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1966</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rlo"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Regler-och-rattigheter/Vad-kostar-lakemedel-pa-recept</origFileName><parallel_text xml:lang="eng" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="fin" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="fit" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="sma" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="sme" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="smj" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="swe" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmy-rka"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmn"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmu"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="yid"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Sode koštulij medicina pe recepta? / Vad kostar läkemedel på recept? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Sode koštulij medicina pe recepta?Vad kostar läkemedel på recept?</p>
+<p xml:lang="swe"></p>
+<p type="title">Sar si?</p>
+<p type="title">Protektcia karing uče košti</p>
+<p>O them kerel subventcia, del ekonomiako žutipe, kana trobuj medicina thaj kaver žutipe kana si e manušes nasvalimata. Maj but anda e medicina so si pe recepta si tela subventcia. Pa subventcia skrij pe ando zakono Lagen om läkemedelsförmåner. E protektcia karing uče košti so o zakono žutij bušol normalno högkostnadsskyddet.</p>
+<p>Pala zakono si te avel kade:</p>
+<list><p type="listitem">ke lel pe rabato pe jekh trapta khaj so maj opre žas so maj cera počines thaj kado si pe e maj but medicini, p-piller thaj stomi artiklura</p>
+<p type="listitem" xml:lang="swe">či počinel pe kanči pe artiklura so den žutipe kusa medicina (förbrukningsartiklar) kana si te kerel pe kontrola pe medicina, sar eksemplo suva kana dikhel pe o tsukro ando rat</p>
+<p type="listitem">lel pe jekh specialno protektcia karing uče košti pe uni habenata šavorenge so si tela 16 berš.</p>
+</list><p type="title">čimin thaj subventcia</p>
+<p>Tandvårds- och Läkemedelsförmånsverket, TLV, si kodo than so lel decizia pe čimin thaj subventcia. Kana TLV si te lel decizia pe jekh subventcia dikhen von vaj e medicina avla laši pe kodi košta so avla tela subventicia. O lašipe si sar eksemplo te avel maj lungo trajo thaj maj lašo sastipe. TLV dikhel vi vaj e medicina šaj te činjarel e themeske košti, sar eksemplo operatci, nasvale lila vaj phurengo žutipe.</p>
+<p>Medicinake firmi birin korkori te alosaren vaj kamen te biknen pengi medicina so thaj te na avel kodo andre ande högkostnadsskyddet. Atunči si e košta phuterdi, e medicinsko firma alosarel korkori e čimin. Medicina so naj andre ande e högkostnadsskyddet musaj o manuš korkori te počinel intrego košta.</p>
+<p>Uni medicini šaj te aven tela jekh vramaki vaj grupaki subventcia. Kodo značil pe ke e medicina si feri tela subventcia unie pacientonge vaj te sačiarel varisavo nasvalipe.</p>
+<p>TLV thaj FASS inkrel peske internet rihga khaj birij pet e dikhel pe vaj e medicina si tela subventcia vaj na .</p>
+<p type="title" xml:lang="swe">Maj lezno parujimaski alternativa</p>
+<p>Univar si medicina so žutin sa kade sar jekh alternativa khaj sa kodi medicina. Von bušon generiska medicina. Von inkren sa keči anda e medicina so si andre thaj den sa kodo efektno. Numa birin te mezin ekcera maj kaver thaj te inkren varisave kaver konserveringsmedel. Von šaj te aven anda kaver firmi thaj te koštulin diferentno. Kadal alternativi šaj te paruvel pe ande apoteka. Läkemedelsverket lel e decizia save medicini šaj te aven parude jekh kaveresa.</p>
+<p>Te si but generiska medicini thaj kodo so si skirime pe recepta naj e maj lezno medicina musaj e apoteka te paruvel khaj kodi alternativa so si maj lezno pe marketi. Feri e maj lezno alternativa si intrego tela subventcia. Šaj te lel pe e maj kuč medicina so si pe recepta numa atunči musaj o manuš te počinel korkori kodo so naj ande subventcia, ke kodo naj ande högkostnadsskyddet. Te kamel pe jekh kaver alternativa šaj te alosarel pe jekh kaver medicina ande e generisk alternativa. Numa atunči počinel pe intrego košta korkori. Feri e medicina so si skirime pe recepta thaj e maj lezno alternativa si tela subventcia. Doš khaj kado si kodo te na počinel pe za but pe jekh medicina te si kaver alternativi so si maj lezni.</p>
+<p>Te si kade anda medicinske doša ke o manuš naštik te paruvel e medicina so si pe recepta šaj o doktori te skrij kodo pe recepta. Atunči naj musaj o manuš te počinel e diferencia ande košta te si e medicina ande högkostnadsskyddet. Medicinska doša šaj te avel kodo ke si e manušes alergia karing variso so si ande tabletka vaj ke o manuš či birij te putrel e pačka.</p>
+<p type="title" xml:lang="swe">Periodako produkto (periodens vara)</p>
+<p>TLV lel decizia save čimina si te aven pala e medicinske firmenge čimina thaj kana von kamen te paruven e čimina. Čimin pe medicina šaj, pala jekh mangipe, te parudžon sako šon.</p>
+<p>Kana si pa generiska medicina bušol e alternativa khaj si maj lezno periodako produkto (periodens vara) TLV del informatcia khaj e apoteki save alternativi si e periodako produkto thaj save si te aven parude. TLV lel decizia save duj reservovane alternatvi so si te avel alternativa te agorisajlas periodako produkto. Šaj te avel jekh variatcia khatar jekh šon po kaver šon save alternativi e apoteki paruven.</p>
+<p>Ghindo kusa periodako produkto si te avel dosta kusa e skatoske love so si tela subventci pe medicina te avel dosta savorenge.</p>
+<p>Periodako produkto si mindik sa kodo pe sa apoteki. Numa univar šaj te avel kade ke jekh apoteka kindas za but anda jekh periodako produkto. Atunči šaj e apoteka te biknel vi kodo po kaver šon. Kodo značil ke šaj te avel kade ke lel pe paluno šonesko produkto ande jekh apoteka thaj e čimin si jekh kaver. Kadal duj produktura šaj te koštulin atinči diferentno.</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Högkostnadsskyddet (maximalno žutimasko počinipe)</p>
+<p type="title">Počinel pe maksimalno 2 200 koroni ande jekh berš</p>
+<p>Högkostnadsskydd značil ke počinel pe maksimalno 2 200 koroni tela jekhe beršeski vrama. Kodo berš bušol högkostnadsperiod.</p>
+<p>Högkostnadsskyddet si pe medicini so lel pe pe recepta thaj save o TLV las decizia ke si te aven tela subventcia. Kodo si vi pe förbrujkningsartiklar (žutimaske artiklura) so lel pe pe jekh hjälpmedelskort (žutimaski kartčia)</p>
+<p xml:lang="swe">Kana si pa e kaver medicini počinel pe jekh košta sako (egenavgift) data kana lel pe avri jekh recepta ži o manuš aresel khej e 2 200 koroni. Sa kodo si pe förbrukningsartiklar so trobuh paša stomi.</p>
+<p xml:lang="swe">Pe uni medicini či počinel pe jekh specialno košta (egenavgift). Te si e manušes žutipe kusa insulina po diabetes či počinel pe kanči pe insulina. Te si e manušes jekh nasvalipe so tela zakono smittskyddslagen počinel o landstinget intrego košta pe medicina ke kado kerel ke e manuš či perdžon jekh kaverestar, sar eksemplo virusoske medicini karing hiv.</p>
+<p xml:lang="swe">Uni landsting počinen intrego vaj uni anda egenavgift pe uni medicini thaj unie pacientonge, sar eksemplo p-piller terne djuvliange.</p>
+<p xml:lang="swe">Či počinel pe kanči pe förbrukningsartiklar so trobuj sar žutipe kana si te žutij pe e statos pe kontrolli pe medicina. Eksemplo pe kado si žutimske produktura sar suva pe sukrosko miripe.</p>
+<p type="title" xml:lang="swe">Egenagift pala e högkostnadstrappan (počinimaski trapta)</p>
+<p xml:lang="swe">Kana lel pe jekh högkostnadsperioda angla o berš počinel pe e intrego košta pe medicina thaj stomi artiklura korkori ži khaj o manuš počindas 1 100 kronor. Pala kodo cinjiol o egenavgiften pe e počinimaski trapta. Kana khinel pe jekh nevi medicina počinel pe khatar o paluni počinipe thaj pala jekh vrama aresel o manuš ži opre pe trapta.</p>
+<p xml:lang="swe">Kana o manuš počindas 2 200 koroni či trobuj pe te počinel pe maj but tela kodi högkostnadsperioda. Numa te avel kade te aresel o manuš ži khaj e gor pe trapta musaj e medicina te aven andre ginade ande högkostnadsskyddet. Kana högkostnadsperioda agorij pe startulj o manuš pe angluni trapta, sajek si khaj o manuš sas maj angle ande e trapta.</p>
+<p type="title" xml:lang="swe">Kado žal e buči kusa o högkostnadstrapta</p>
+<p>Intrego košta pe medicina</p>
+<p>počinel pe sar maj but</p>
+<p xml:lang="swe">5.400</p>
+<p xml:lang="swe">2.200</p>
+<p xml:lang="swe">3.900</p>
+<p xml:lang="swe">90% rabato</p>
+<p xml:lang="swe">2.050</p>
+<p xml:lang="swe">2.100</p>
+<p xml:lang="swe">75% rabato</p>
+<p xml:lang="swe">1.600</p>
+<p xml:lang="swe">1.100</p>
+<p xml:lang="swe">50% rabato</p>
+<p xml:lang="swe">1.100</p>
+<p xml:lang="swe">0% rabato</p>
+<p xml:lang="swe">Tabela sikavel sar högkostnadsskyddet del del jekh maj cini košta.</p>
+<p type="title">Specialne habenata šavorenge</p>
+<p>Vi habenata so si šavorenge si tela 16 berš thaj si nasvale, sar eksemplo si gluten intoleranso, si tela subventcia. Habenata si avri skirime pe jekh 90 džesengi vrama thaj šaj feri te anavel pe avri habe pe 90 džes tela jekh vrama. Počinel pe jekh egenavgift pe 120 koroni sako data, numa kado počinipe či žal andre ande högkostnadsskyddet.</p>
+<p type="title">Sode birij pe te khinel pe sako data?</p>
+<p xml:lang="swe">Či birij pe te khinel pe sode kamel pe ande högkostnadsskyddet. Kodo so khinel pe si te avel dosta tela kodol 90 džes, trin šon. Preventivno žutipe, sar eksemplo p-piller thaj p-sprutor, naj andre šutine ande trine šonesko regulo</p>
+<p>Te si kade ke si recepta khaj šaj te lel pe avri medicina maj butivar šaj o manuš te lel avri medicina po dujto kana jekh trito vrama nakhlas de khatar e paluni vrama khaj lan avri medicina. Sar eksemplo te sas kade ke o manuš las avri medicina so si te žutij trin šon musaj te nakhen duj šon ži pun šaj o manuš te lel avri nevi medicina pe kodi recepta po dujto.</p>
+<p>Šaj te khinel pe maj but medicina sar e duj šon numa pe kodo musaj o manuš te počinel intrego košta. Te skirisardas o doktori vrama pe recepta, ke musaj vrama te nakhel ži pun o manuš šaj te lel avri medicina či birij o manuš te khinel medicina atunči.</p>
+<p>Numa te si specialne doša, sar eksemplo ke si te tradel pe avri ande thema thaj ke avla o manuš avri maj but vrama, birij pe te anavel pe avri medicina pe maj lungo vrama sar trin šon. Numa atunči musaj o manuš te sikavel kodo, sar eksemplo tradimaske dokumentura.</p>
+<p type="title" xml:lang="swe">Kana žal o högkostnadsskyddet?</p>
+<p>Te avel kade ke o högkostnadsskyddet si te žal andre musaj o manuš kon skrij avri medicina te avel andre registirime ande recepta kusa kodura so si pe recepta. Te si kade ke e recepta žal pe jekh medicina khaj si subventcia musaj o skiritori pa recepta te skrij vi kodo te avel e recepta tela högkostnadsskyddet.</p>
+<p>Högkostnadsskyddet si kodolenge si trajij vaj kerel buči ando Švedo vaj khas si jekh europaki insuransovo kartčia khatar jekh kaver EES-them vaj Šwaizo. Europaki insuransovo kartčia si te avel opre sikadi vi khaj e doktora thaj vi pe apoteka. E švedos si vi kontrakto kavere themenca so naj ande euroa; Algeria, Australia, stato Quebec ande Kanada, thaj kodo značil pe ke vi kadale citizenton si kado žutipe pe medicina kana von si ando Švedo.</p>
+<p>Sa šavora so si tela 18 berš ande jekh kher, khaj si skirime tela jekh adresi, si tela jekh khetanimaski högkostnadsskydd. Kodo značil pe kesa e šavorenge egenavgifter ginadžon pe khetanes. Kodo značil pe ke biologicne pral,pheja so si skirime pe diferentne adresi naj tela jekh högkostnadsskydd.</p>
+<p type="title" xml:lang="swe">Högkostnadsdatabasen (komputeroski basa pe högkostnadsskydd)</p>
+<p>Či trobuj o manuš korkori te lel sama kečij vov korkori počindas. Ande e högkostnadsdatabasen, so si inkerdo khatar e themeski firma Apotekens Service AB, si sa e košti registirime ande högkostnadsskyddet. O systemo ginavel sa avri thaj žanel kečij o manuš počindas ande egenavgift thaj ginavel avri kečij rabato si te avel pala e počonimaski trapta sako data so jekh manuš khinel khatar e apoteka. Sa e apoteki si andre ulade ande jekh komuteroski basa anda kodi sajek si ande savi apoteka e manuš žan te khinen medicina.</p>
+<p>Naj musaj o manuš te avel andre skirime ande e högkostnadsdatabasen (komputeroski basa) Kodo so si registirime si anav, personnummer, khinimasko džes, ande savi apoteka e medicina sas avri lini, kečij o manuš počindas, khaj si o manuš ande högkostnadsskyddet thaj angluno džes ande počinimaski perioda (högkostnadsperioden). Informatcia so si registirime si feri anda kodo te avel e manušes jekh čačo rabato. Naj či soski informatcia registirime pe save medicini e manuš khinde vaj save doktora skrin avri e medicina.</p>
+<p>Manuš birij te mangel avri peski informatcia kana vov kamel anda högkostnadsdatabasen pe sa e informatcia so si pa peste thaj pe e manušeske šavora. Kodo šaj te kerel pe kana skrij pe jekh blanketa khaj Apotekens Service AB, kotar mangel pe vi e blanketa.</p>
+<p type="title">Alosar te na aves andre phanglo</p>
+<p>Sahj te alosares te na aves phanglo khaj högkostnadsdatabasen. Atunči lel pe jekh kvito so bušol högkostnadsbevis (högkostnad evidensia) pe apoteka kana khinel pe medicina so si andre ande högkostnadsskyddet. Pe högkostnadsbevis skrij pe kečij o manuš počindas korkori ande egenavgift. Vazno si te inkrel pe e paluno högkostnadsbevis khatar e palune khinimata pa apoteka kana si te khinel pe nevi medicina. Apoteka trobuj te žanel pe savi trapta o manuš si te birij vov te lel rabato pe peske medicini.</p>
+</body></document>

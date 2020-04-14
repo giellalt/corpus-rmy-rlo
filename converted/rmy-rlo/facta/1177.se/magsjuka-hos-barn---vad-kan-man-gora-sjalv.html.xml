@@ -1,76 +1,33 @@
-<document xml:lang="rmy-rlo" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1061</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rlo"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Egenvard-barn/Magsjuka-hos-barn---vad-kan-man-gora-sjalv</origFileName>
-    <parallel_text xml:lang="eng" location="magsjuka-hos-smabarn--vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="fin" location="magsjuka-hos-smabarn--vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="fit" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sma" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sme" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="smj" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="swe" location="f12.html"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
-    <parallel_text location="magsjuka-hos-sma-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Peresko nasvalipe khaj čine šavora – so šaj te kerel pe korkori? / Magsjuka hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib lovarickaRomska lovara</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Peresko nasvalipe khaj čine šavora – so šaj te kerel pe korkori?Magsjuka hos barn - vad kan man göra själv?</p>
-    <p xml:lang="swe"></p>
-    <list>
-      <p type="listitem" xml:lang="swe">Šavores trobuj paji. Univar šaj te avel maj lokho te del pe paji kusa roj cera numa butivar.</p>
-    </list>
-    <p type="title" xml:lang="swe">Problemura aven sigo</p>
-    <p xml:lang="swe">Kana si šavora nasvale po per si normalno ke šaden thaj si len diarré/fošo (šinel len pa per). Šaj vi te dukhal len o per thaj te avel len uči temperatura. Peresko nasvalipe kerdžol butivar khatar jekh infektcia so avilas khatar jekh viruso. Ande kado teksto kana phenel pe čine šavora phenel pe šavora khaj si panž-šov berš.</p>
-    <p xml:lang="swe">Problemura aven pala uni džes pala kodo ke o šavoro perdžilas och o nasvalipe aresel sigo. Butivar nasvajven but žene ande familja. Normalne xasajvel o nasvalipe pala uni džes. Šaglipe xasajvel pala jekh intrego džes thaj rači, numa o per džal maj dur kovles jekh intrego kurko.</p>
-    <p type="title" xml:lang="swe">Šavorenge si maj phares kana xasarel o manuš paji</p>
-    <p xml:lang="swe">Xasarel pe sigo paji thaj lon anda stato kana šadel pet haj kana džal o per (diarée). Čine šavora si maj sensetivne karing pajesko xasaripe sar maj phure manuš. Te xasarel jekh čino šavoro maj but paji sar khaj pel šaj kodo šavoro te nasvajvel maj phares. Uči temperature kerel ke o šavoro xasarel maj but paji. Anda kodo si zurales importantno te del pe pipe khatar e anglara kana lel pe e infektcia. E maj čine šavora si inke ekstra sensetivne te xasaren paji pester.</p>
-    <p type="title" xml:lang="swe">Te pel o šavoro anda kolin (čuči) vaj anda glaza</p>
-    <p xml:lang="swe">Te pel o šavoro anda kolin (čuči) sit e del pe kodo maj dur. Trobuj te del me kolin maj butivar atunči. Vi te šadel o šavoro trobuj te del pe kolin butivar. Sa kade te pel o šavoro anda glaza. Te si kade ke či cirdel o šavoro anda kolin šaj te zumavel pe te cirdel pe o thud avri kusa jekh pompa vaj te del pe thud rojasa. Šaj te cirdel pe avri thud vastesa vaj kusa jekh pompa. Laši pompa šaj khinel pe ande apoteka.</p>
-    <p xml:lang="swe">Te si e šavores but diarée naj dosta atunči feri te del pe kolin, e šavores trobuj atunči vi vätskeersättning.</p>
-    <p type="title" xml:lang="swe">Vätskeersättning – Pajesko žutipe</p>
-    <p xml:lang="swe">Te šadel o šavoro but si o vätskeersättning maj feder. Vätskeersättning šavorenge sit e khinel pe ande apoteka. Ke ande kadi paji si lon avel peste e pajeski balansa ando stato pe jekh lašo drom.</p>
-    <p xml:lang="swe">Te šadel o šavoro but trobuj te del pe karing duj roja paji sakopanžto minuta. Tela 24 časura trobuj maj but paji sar khaj o manuš del pe ghindo, sar eksemplo trobuj jekh šavoro te pel jekh litra paji.</p>
-    <p xml:lang="swe">Univar si maj lokho e šavoreske te pel varisavo kaver pipe. Atunči sit e zumavel pe kaver pimasa, ke maj importantno sit e avel variso pajaslo ando šavoro. Numa te na del pe but gugle paja, sar eksemplo läsk thaj saft, ke maj but zukro šaj te del maj but diarée. Na den či soske light paja ke ande kodola naj či sosko zukro.</p>
-    <p type="title" xml:lang="swe">Kana aba či šadel o šavoro numa o per inke džal</p>
-    <p xml:lang="swe">Normalno si ke o šavoro či šadel maj dur numa o per džal maj dur jekh vrama. Te si e šavores diaré thaj o šavoro pel maj dur kolin si te del pe kolin sar maj anglal. Te na xal o šavoro anda kolin, šaj te del pe modersmjölkersättning – jekh kompenzatciako thud khaj o kolin, ris- vaj majsveling pala e šavoreske berš. Startulin te den cine portci sako data de dikhel pe aj o xabe ašol ando stato.</p>
-    <p xml:lang="swe">Kana šavoro kamel te xal mištoj atunči te del pe xabe thaj te del pe maj but čiken. Te kamel pe te zumavel pe variso so ašavel o per šaj te del pe zumi kerdi pe ropaja (ropajengo puré) thaj paji, kado del pe šavorenge so si maj phure sar šov šon Ghindon ke frukto del kovlo per thaj kana si diaré či trobuj te del pe fullkornsveling. Žukaren kusa xabenata khaj si but fibri ži khaj sasčilas o šavoro.</p>
-    <p type="title" xml:lang="swe">Te avel o šaglipe palpale</p>
-    <p xml:lang="swe">Te avela o šaglipe palpale, den pale vätskeersättning, numa len sama ten a kerdžol o šavorokhino thaj či birija pesa.</p>
-    <p type="title" xml:lang="swe">Sar kerel pe te na žal o nasvalipe maj dur?</p>
-    <p xml:lang="swe">Peresko nasvalipe nasvaravel kaveren ke perimasko nasvalipe si kado thaj atunči si mišto te thovel o šavoro thaj e kaver ande familja penge vast sapujesa angla xabe thaj pala toaletaki vizita thaj te avel savoren lengo khedevo vaj te avel paperušne khendevura so šudel pe pala jekh data. Šaj vi te tovel pe e toaleta butivar.</p>
-    <p xml:lang="swe">Te phiravel o šavoro perno si mišto te šudel pe o perno anglunes ande jekh platikovo gono ži pun šudel pe o perno ando semeto. Kosen e šavoresko than khaj paruven e perne thaj thoven tumare vast mišto pala pernengo parujipe.</p>
-    <p xml:lang="swe">Šavoro sit e avel khere kna vov šadel vaj te si les diaré. Te phirel o šavoro ande cini skola faj familjedaghem šaj o šavoro te džal palpale kana nakle duj džes kana o šavoro či šadel vaj či džal e šavoresko per.</p>
-    <p type="title" xml:lang="swe">Šaj te avel kade ke trobuj kontakto kusa medcinsko žutipe</p>
-    <p xml:lang="swe">Si te lel pe kontakto tela jokhvareste khaj vårdcentral vaj khaver žutimasko than te si e šavores but diaré thaj šadel but thaj či pel thaj dičol ke nal e šavores zor thaj či kamel te kerel kanči thaj či mutrel. Si vi te rodel pe žutipe tela jokhvareste te si kade ke dukhal e šavores o per zurales vaj te si les uči temperatura paša o šaglipe thaj diaré, vaj te si rat vaj limasle paja (slem) ande diaré.</p>
-    <p xml:lang="swe">Si te vorbij pe khaj sjukvårdsrådgivningen vaj te lel pe kusa jekh vårdcentral te si e šavoreske čores vi pala 24 časura, vaj te si e šavoreske mišto numa sas les diaré maj but sar duj kurke.</p>
-    <p xml:lang="swe">Te si o šavoro tela šov šon thaj lel diaré thaj šaglimata si o manuš mindig te lel kontakto kusa sjukvårdsrådgivning vaj vårdcentral.</p>
-    <p xml:lang="swe">Te las o šavoro diaré pala jekh tradipe ande jekh kaver them si te lel pe kontakto kusa jekh vårdcentral vaj kusa jekh šavorengo doktori.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rlo" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1052</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rlo"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Egenvard-barn/Magsjuka-hos-barn---vad-kan-man-gora-sjalv</origFileName><parallel_text xml:lang="eng" location="magsjuka-hos-smabarn--vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="fin" location="magsjuka-hos-smabarn--vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="fit" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sma" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sme" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="smj" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="swe" location="f12.html"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/><parallel_text location="magsjuka-hos-sma-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Peresko nasvalipe khaj čine šavora – so šaj te kerel pe korkori? / Magsjuka hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Peresko nasvalipe khaj čine šavora – so šaj te kerel pe korkori?Magsjuka hos barn - vad kan man göra själv?</p>
+<p xml:lang="swe"></p>
+<list><p type="listitem">Šavores trobuj paji. Univar šaj te avel maj lokho te del pe paji kusa roj cera numa butivar.</p>
+</list><p type="title">Problemura aven sigo</p>
+<p>Kana si šavora nasvale po per si normalno ke šaden thaj si len diarré/fošo (šinel len pa per). Šaj vi te dukhal len o per thaj te avel len uči temperatura. Peresko nasvalipe kerdžol butivar khatar jekh infektcia so avilas khatar jekh viruso. Ande kado teksto kana phenel pe čine šavora phenel pe šavora khaj si panž-šov berš.</p>
+<p>Problemura aven pala uni džes pala kodo ke o šavoro perdžilas och o nasvalipe aresel sigo. Butivar nasvajven but žene ande familja. Normalne xasajvel o nasvalipe pala uni džes. Šaglipe xasajvel pala jekh intrego džes thaj rači, numa o per džal maj dur kovles jekh intrego kurko.</p>
+<p type="title">Šavorenge si maj phares kana xasarel o manuš paji</p>
+<p>Xasarel pe sigo paji thaj lon anda stato kana šadel pet haj kana džal o per (diarée). Čine šavora si maj sensetivne karing pajesko xasaripe sar maj phure manuš. Te xasarel jekh čino šavoro maj but paji sar khaj pel šaj kodo šavoro te nasvajvel maj phares. Uči temperature kerel ke o šavoro xasarel maj but paji. Anda kodo si zurales importantno te del pe pipe khatar e anglara kana lel pe e infektcia. E maj čine šavora si inke ekstra sensetivne te xasaren paji pester.</p>
+<p type="title" xml:lang="swe">Te pel o šavoro anda kolin (čuči) vaj anda glaza</p>
+<p>Te pel o šavoro anda kolin (čuči) sit e del pe kodo maj dur. Trobuj te del me kolin maj butivar atunči. Vi te šadel o šavoro trobuj te del pe kolin butivar. Sa kade te pel o šavoro anda glaza. Te si kade ke či cirdel o šavoro anda kolin šaj te zumavel pe te cirdel pe o thud avri kusa jekh pompa vaj te del pe thud rojasa. Šaj te cirdel pe avri thud vastesa vaj kusa jekh pompa. Laši pompa šaj khinel pe ande apoteka.</p>
+<p xml:lang="swe">Te si e šavores but diarée naj dosta atunči feri te del pe kolin, e šavores trobuj atunči vi vätskeersättning.</p>
+<p type="title" xml:lang="swe">Vätskeersättning – Pajesko žutipe</p>
+<p xml:lang="swe">Te šadel o šavoro but si o vätskeersättning maj feder. Vätskeersättning šavorenge sit e khinel pe ande apoteka. Ke ande kadi paji si lon avel peste e pajeski balansa ando stato pe jekh lašo drom.</p>
+<p>Te šadel o šavoro but trobuj te del pe karing duj roja paji sakopanžto minuta. Tela 24 časura trobuj maj but paji sar khaj o manuš del pe ghindo, sar eksemplo trobuj jekh šavoro te pel jekh litra paji.</p>
+<p>Univar si maj lokho e šavoreske te pel varisavo kaver pipe. Atunči sit e zumavel pe kaver pimasa, ke maj importantno sit e avel variso pajaslo ando šavoro. Numa te na del pe but gugle paja, sar eksemplo läsk thaj saft, ke maj but zukro šaj te del maj but diarée. Na den či soske light paja ke ande kodola naj či sosko zukro.</p>
+<p type="title" xml:lang="swe">Kana aba či šadel o šavoro numa o per inke džal</p>
+<p>Normalno si ke o šavoro či šadel maj dur numa o per džal maj dur jekh vrama. Te si e šavores diaré thaj o šavoro pel maj dur kolin si te del pe kolin sar maj anglal. Te na xal o šavoro anda kolin, šaj te del pe modersmjölkersättning – jekh kompenzatciako thud khaj o kolin, ris- vaj majsveling pala e šavoreske berš. Startulin te den cine portci sako data de dikhel pe aj o xabe ašol ando stato.</p>
+<p>Kana šavoro kamel te xal mištoj atunči te del pe xabe thaj te del pe maj but čiken. Te kamel pe te zumavel pe variso so ašavel o per šaj te del pe zumi kerdi pe ropaja (ropajengo puré) thaj paji, kado del pe šavorenge so si maj phure sar šov šon Ghindon ke frukto del kovlo per thaj kana si diaré či trobuj te del pe fullkornsveling. Žukaren kusa xabenata khaj si but fibri ži khaj sasčilas o šavoro.</p>
+<p type="title">Te avel o šaglipe palpale</p>
+<p xml:lang="swe">Te avela o šaglipe palpale, den pale vätskeersättning, numa len sama ten a kerdžol o šavorokhino thaj či birija pesa.</p>
+<p type="title">Sar kerel pe te na žal o nasvalipe maj dur?</p>
+<p>Peresko nasvalipe nasvaravel kaveren ke perimasko nasvalipe si kado thaj atunči si mišto te thovel o šavoro thaj e kaver ande familja penge vast sapujesa angla xabe thaj pala toaletaki vizita thaj te avel savoren lengo khedevo vaj te avel paperušne khendevura so šudel pe pala jekh data. Šaj vi te tovel pe e toaleta butivar.</p>
+<p>Te phiravel o šavoro perno si mišto te šudel pe o perno anglunes ande jekh platikovo gono ži pun šudel pe o perno ando semeto. Kosen e šavoresko than khaj paruven e perne thaj thoven tumare vast mišto pala pernengo parujipe.</p>
+<p>Šavoro sit e avel khere kna vov šadel vaj te si les diaré. Te phirel o šavoro ande cini skola faj familjedaghem šaj o šavoro te džal palpale kana nakle duj džes kana o šavoro či šadel vaj či džal e šavoresko per.</p>
+<p type="title">Šaj te avel kade ke trobuj kontakto kusa medcinsko žutipe</p>
+<p>Si te lel pe kontakto tela jokhvareste khaj vårdcentral vaj khaver žutimasko than te si e šavores but diaré thaj šadel but thaj či pel thaj dičol ke nal e šavores zor thaj či kamel te kerel kanči thaj či mutrel. Si vi te rodel pe žutipe tela jokhvareste te si kade ke dukhal e šavores o per zurales vaj te si les uči temperatura paša o šaglipe thaj diaré, vaj te si rat vaj limasle paja (slem) ande diaré.</p>
+<p>Si te vorbij pe khaj sjukvårdsrådgivningen vaj te lel pe kusa jekh vårdcentral te si e šavoreske čores vi pala 24 časura, vaj te si e šavoreske mišto numa sas les diaré maj but sar duj kurke.</p>
+<p xml:lang="swe">Te si o šavoro tela šov šon thaj lel diaré thaj šaglimata si o manuš mindig te lel kontakto kusa sjukvårdsrådgivning vaj vårdcentral.</p>
+<p>Te las o šavoro diaré pala jekh tradipe ande jekh kaver them si te lel pe kontakto kusa jekh vårdcentral vaj kusa jekh šavorengo doktori.</p>
+</body></document>

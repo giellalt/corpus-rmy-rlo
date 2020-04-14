@@ -1,73 +1,33 @@
-<document xml:lang="rmy-rlo" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>1112</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rlo"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Romska-lovara/Fungus-svamp-ande-telunipe-vagina-penis</origFileName>
-    <parallel_text xml:lang="fin" location="hiivatulehdus.html"/>
-    <parallel_text xml:lang="fit" location="svamppia-sukuelimessa-eli-alapaassa.html"/>
-    <parallel_text xml:lang="sma" location="goebperh-tsavhnosne.html"/>
-    <parallel_text xml:lang="sme" location="guoppar-vuolledabiin.html"/>
-    <parallel_text xml:lang="smj" location="guopparinfeksjavnna-vuollevajmon.html"/>
-    <parallel_text xml:lang="swe" location="svamp-i-underlivet.html"/>
-    <parallel_text location="rappani-an-minshe.html" xml:lang="rmu"/>
-    <parallel_text location="balanis-aro-teluni-trupos.html" xml:lang="rmf"/>
-    <parallel_text location="infektacija-makar-le-purne.html" xml:lang="rmy-rka"/>
-    <parallel_text location="parnothavdipa.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Fungus (svamp) ande telunipe (vagina, penis)</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Fungus (svamp) ande telunipe (vagina, penis)</p>
-    <p xml:lang="swe">Fungus si naturalno ando telunipe khaj maj but manuš. Univar barol o funguso thaj atunči šaj kodo te avel problematicno. Kado si normalno maškar e žuvlia. Trin anda štar žuvlia len varikhana funguso so si ekcera problematicno thaj maj butenge avel kado palpale butivar ando trajo. Vi muršen šaj te avel fungus. Fungus naj nasul po sastipe numa šaj te avel problematicno ke hanžoj but thaj vi phabarel.</p>
-    <p type="title" xml:lang="swe">Sostar lel pe problemo kusa o funguso?</p>
-    <p xml:lang="swe">Či žanel pe sostar lel pe problemo kusa o funguso. Jekh doš šaj te avel ke hal pe medicina, sar eksemplo antibiotika, so normalno malavel tele e bakteri so trobuj ando telunipe thaj atunči barol o funguso.</p>
-    <p xml:lang="swe">Fungus šaj vi te avel te si e manušeski immuna maladi tele khatar varisavi kaver doš, sar eksemplo kana o manuš nasvajvel vaj te sas za but stresso.</p>
-    <p xml:lang="swe">Hormonako balanso ando stato šaj vi te avel jekh doš khaj kado. Anda kodo si normalno ke len žuvlia fungus angla žuvliako šon vaj kana von peren phare.</p>
-    <p xml:lang="swe">Fungus naj jekh teluno (seksosko) nasvalipe. Šaj te nasvarel kaveres kana si e manušen sekso numa kado naj normalno. Funguso či birij te nasvarel kaveres kana si e manušen mujesko sekso vaj kana žal pe pe toaleta pala jekh manuš khaj inkrel funguso.</p>
-    <p type="title" xml:lang="swe">Sar lel pe sama ke si jekhes fungus?</p>
-    <p xml:lang="swe">Sar žuvli lel pe sama ke si fungus ke hanžoj thaj phabarel telal thaj pe e telune vušta (vagina) E telune vušta kerdžon vi lole thaj šuvlion. E folimata (flytning) šaj kerdžon parne, šuke thaj kišajasle, numa univar si kade sane thaj univar naj či soske folimata kana si a žuvlia fungus.</p>
-    <p xml:lang="swe">Fungus šaj vi te kerel ke phabol telal kana mutrel pe vaj kana si a žuvlia sekso. Univar avel eksema pe telune vušta thaj andral pe pulpi.</p>
-    <p xml:lang="swe">Muršeske hanžoj intrego penis (kar), pele vaj andral pe pulpi, e pulpi šaj vi te šutčion kana si e muršes fungus. Šaj vi te kerdžol pe jekh parni raj krujal o penisesko šero (ollon) tela morči, vaj opral. Kadi raj si ekcera maj phares te tovel pe tele sar smegma so si naturalno tela e penisoski morči.</p>
-    <p type="title" xml:lang="swe">Sar sastiarel pe o fungus?</p>
-    <p xml:lang="swe">Te si ekcera problemo telal hasajvel kodo anda peste pala unji džes thaj či trobuj žutipe.</p>
-    <p xml:lang="swe">Numa univar či hasajvel kado anda peste, vaj hanžoj thaj phabarel kade but ke kamel pe zutipe pe kado. Te si angluno data ke lel pe kadal problemura trobujas o manuš te lel kontakto kusa ungdomsmottagning, hud- och könsmottagning vaj vårdcentral te žanel pe vaj kodi hanžj si fungus. Te žal pe pala žutipe nakhel o manuš jekh eksaminatcia. Kado žal sigo ke kodo kon kerel e examinatcia dikhel sigo vaj kodo si funguso vaj na.</p>
-    <p xml:lang="swe">Te sas e manušes fungus maj anglal thaj pindžarel e problemura birj kodo te žal te khinel medicina bi receptako ande apoteka. Si vi kremura khaj šaj te makhel pe telal thaj pe telune vuš vaj po peniso thaj pe pele. Žuvliange si vi čopko, khaj bušon vagitoriom, khaj šol pe andre ande e vagina e najenca, thaj mukhel pe andre jekh kremo kusa jekh plastikovo suv. Pala jekh skurto vrama kana lel pe e medicinas haj e hanzj te avel maj zurali, numa kodo nakhel sigo.</p>
-    <p xml:lang="swe">Te inkrel pe inrego žutipe sar khaj si te kerel pe pe e medicina so si bi receptako trobujas sa te kerdžol maj feder. Numa te na kerdžol maj feder vaj te avel o fungus maj butivar sar duvar tela šov šon trobuj te lel pe kontakto kusa ungdomsmottagning, hud- och könsmottagning vaj vårdcentral te le pe žutipe.</p>
-    <p xml:lang="swe">Vazno si te na lel pe za butivar medicina khaj mudarel o funguso ke vramasa avla so maj pharo te mudarel pe o funguso te avela po dujto. Šaj vi te šutjiarel o membrano khaj e mucosa (slemhinna) thaj kerel kodo maj slabo thaj kodo šaj te kerel maj but problemura maj angle.</p>
-    <p type="title" xml:lang="swe">So si te kerel pe te na astarel pe fungus?</p>
-    <p xml:lang="swe">Kaj či žanel pe e doš khaj o fungus phares si te phenel sar te kerel pe te na lel pe o funguso.</p>
-    <p xml:lang="swe">Univar phenel pe ke si riziko te lel pe fungus kana tovel pe o telunipe butivar thaj sapujesa. Numa naj fakta ke kodo si čačipe. Numa te si e manušes fungus vaj kana lel pe butivar infektci khatar o fungus thaj tovel pe but o manuš maj angle si atunči maj feder te tovel pe o manuš maj cera. Vaj si e manušes fungus vaj naj si dosta te tovel pe o telunipe jokvar ando džes kusa paji. Či tovel pe o telunipe kusa jekh normalno sapuj ke kodo šutjarel avri. Te kamel pe šaj te makhel pe o telunipe kusa jekh ulej khaj naj parfumo andre.</p>
-    <p type="title" xml:lang="swe">Pušimata thaj atvetura pa fungus ando telunipe</p>
-    <p type="title" xml:lang="swe">Lel pe fungus khatar string, tate thaj kikidine ghada?</p>
-    <p xml:lang="swe">Naj či soske čače fakti khaj sikaven ke kodo si čačipe ke tate, kikidine ghada vaj string si e doš khaj fungus. Numa te si jekhe manušes fungus šaj te hanžoj maj cera te si e manušen telune ghada khaj si anda cotton thaj ghada khaj naj kade kikidine. Šaj vi te žutij te na aven telune ghada kana sovel pe pe račate thaj te na phiraven e žuvlia sostiangi protekcia (trosskydd)</p>
-    <p type="title" xml:lang="swe">Hasajvel o fungus te makhel pe o telunipe kusa yoghurto?</p>
-    <p xml:lang="swe">Kodo ke yoghurto žutij karing funguso si feri jekh myt (paramičia) ke naj čačimasa či soske fakti pe kodo. Numa o yoghurto šaj te šudrarel e chanžj thaj anda kodo šaj te avel kodo lašo.</p>
-    <p type="title" xml:lang="swe">Šaj o funguso te nasvaravel kaveren?</p>
-    <p xml:lang="swe">Fungus či nasvaravel pa toaletti. Numa fungus šaj te nasvaravel kaveren te si vaginalno sekso vi te naj kodo normalno.</p>
-    <p type="title" xml:lang="swe">Šaj te lel pe fungus te hal pe but sukro?</p>
-    <p xml:lang="swe">Naj či soske čačimaske fakti khaj sikaven ke o fungos avel te hal pe but sukro. Numa te si e manušes problemo kusa fungus naj čores te zumavel pe te paruvel pe o habe te dikhel pe vaj šaj te avel maj feder.</p>
-    <p type="title" xml:lang="swe">Šaj te avel e manušen sekso kana si jekhes fungus?</p>
-    <p xml:lang="swe">Naj nasul te avel sekso kana si fungus numa šaj te dukhal kana si sekso ke e membranura šaj te dukhan kana si fungus. Te si vaginalno sekso si jekh cini šansa ke šaj te nasvajvel o dujto. Paša kodo si jekh maj bari šansa ke perdžol pe vaj perel pe kaveres kana si aginaslno sekso kana si e manušes fungus ke e membranura si dukhade thaj kodo kerel ke maj lokho si atunči te lel pe vaj del pe maj dur infektci.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rlo" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>1107</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rlo"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Romska-lovara/Fungus-svamp-ande-telunipe-vagina-penis</origFileName><parallel_text xml:lang="fin" location="hiivatulehdus.html"/><parallel_text xml:lang="fit" location="svamppia-sukuelimessa-eli-alapaassa.html"/><parallel_text xml:lang="sma" location="goebperh-tsavhnosne.html"/><parallel_text xml:lang="sme" location="guoppar-vuolledabiin.html"/><parallel_text xml:lang="smj" location="guopparinfeksjavnna-vuollevajmon.html"/><parallel_text xml:lang="swe" location="svamp-i-underlivet.html"/><parallel_text location="rappani-an-minshe.html" xml:lang="rmu"/><parallel_text location="balanis-aro-teluni-trupos.html" xml:lang="rmf"/><parallel_text location="infektacija-makar-le-purne.html" xml:lang="rmy-rka"/><parallel_text location="parnothavdipa.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Fungus (svamp) ande telunipe (vagina, penis)</p>
+<p type="title" xml:lang="swe">Fungus (svamp) ande telunipe (vagina, penis)</p>
+<p>Fungus si naturalno ando telunipe khaj maj but manuš. Univar barol o funguso thaj atunči šaj kodo te avel problematicno. Kado si normalno maškar e žuvlia. Trin anda štar žuvlia len varikhana funguso so si ekcera problematicno thaj maj butenge avel kado palpale butivar ando trajo. Vi muršen šaj te avel fungus. Fungus naj nasul po sastipe numa šaj te avel problematicno ke hanžoj but thaj vi phabarel.</p>
+<p type="title" xml:lang="swe">Sostar lel pe problemo kusa o funguso?</p>
+<p>Či žanel pe sostar lel pe problemo kusa o funguso. Jekh doš šaj te avel ke hal pe medicina, sar eksemplo antibiotika, so normalno malavel tele e bakteri so trobuj ando telunipe thaj atunči barol o funguso.</p>
+<p>Fungus šaj vi te avel te si e manušeski immuna maladi tele khatar varisavi kaver doš, sar eksemplo kana o manuš nasvajvel vaj te sas za but stresso.</p>
+<p>Hormonako balanso ando stato šaj vi te avel jekh doš khaj kado. Anda kodo si normalno ke len žuvlia fungus angla žuvliako šon vaj kana von peren phare.</p>
+<p>Fungus naj jekh teluno (seksosko) nasvalipe. Šaj te nasvarel kaveres kana si e manušen sekso numa kado naj normalno. Funguso či birij te nasvarel kaveres kana si e manušen mujesko sekso vaj kana žal pe pe toaleta pala jekh manuš khaj inkrel funguso.</p>
+<p type="title">Sar lel pe sama ke si jekhes fungus?</p>
+<p xml:lang="swe">Sar žuvli lel pe sama ke si fungus ke hanžoj thaj phabarel telal thaj pe e telune vušta (vagina) E telune vušta kerdžon vi lole thaj šuvlion. E folimata (flytning) šaj kerdžon parne, šuke thaj kišajasle, numa univar si kade sane thaj univar naj či soske folimata kana si a žuvlia fungus.</p>
+<p>Fungus šaj vi te kerel ke phabol telal kana mutrel pe vaj kana si a žuvlia sekso. Univar avel eksema pe telune vušta thaj andral pe pulpi.</p>
+<p xml:lang="swe">Muršeske hanžoj intrego penis (kar), pele vaj andral pe pulpi, e pulpi šaj vi te šutčion kana si e muršes fungus. Šaj vi te kerdžol pe jekh parni raj krujal o penisesko šero (ollon) tela morči, vaj opral. Kadi raj si ekcera maj phares te tovel pe tele sar smegma so si naturalno tela e penisoski morči.</p>
+<p type="title">Sar sastiarel pe o fungus?</p>
+<p>Te si ekcera problemo telal hasajvel kodo anda peste pala unji džes thaj či trobuj žutipe.</p>
+<p>Numa univar či hasajvel kado anda peste, vaj hanžoj thaj phabarel kade but ke kamel pe zutipe pe kado. Te si angluno data ke lel pe kadal problemura trobujas o manuš te lel kontakto kusa ungdomsmottagning, hud- och könsmottagning vaj vårdcentral te žanel pe vaj kodi hanžj si fungus. Te žal pe pala žutipe nakhel o manuš jekh eksaminatcia. Kado žal sigo ke kodo kon kerel e examinatcia dikhel sigo vaj kodo si funguso vaj na.</p>
+<p>Te sas e manušes fungus maj anglal thaj pindžarel e problemura birj kodo te žal te khinel medicina bi receptako ande apoteka. Si vi kremura khaj šaj te makhel pe telal thaj pe telune vuš vaj po peniso thaj pe pele. Žuvliange si vi čopko, khaj bušon vagitoriom, khaj šol pe andre ande e vagina e najenca, thaj mukhel pe andre jekh kremo kusa jekh plastikovo suv. Pala jekh skurto vrama kana lel pe e medicinas haj e hanzj te avel maj zurali, numa kodo nakhel sigo.</p>
+<p xml:lang="swe">Te inkrel pe inrego žutipe sar khaj si te kerel pe pe e medicina so si bi receptako trobujas sa te kerdžol maj feder. Numa te na kerdžol maj feder vaj te avel o fungus maj butivar sar duvar tela šov šon trobuj te lel pe kontakto kusa ungdomsmottagning, hud- och könsmottagning vaj vårdcentral te le pe žutipe.</p>
+<p>Vazno si te na lel pe za butivar medicina khaj mudarel o funguso ke vramasa avla so maj pharo te mudarel pe o funguso te avela po dujto. Šaj vi te šutjiarel o membrano khaj e mucosa (slemhinna) thaj kerel kodo maj slabo thaj kodo šaj te kerel maj but problemura maj angle.</p>
+<p type="title">So si te kerel pe te na astarel pe fungus?</p>
+<p>Kaj či žanel pe e doš khaj o fungus phares si te phenel sar te kerel pe te na lel pe o funguso.</p>
+<p>Univar phenel pe ke si riziko te lel pe fungus kana tovel pe o telunipe butivar thaj sapujesa. Numa naj fakta ke kodo si čačipe. Numa te si e manušes fungus vaj kana lel pe butivar infektci khatar o fungus thaj tovel pe but o manuš maj angle si atunči maj feder te tovel pe o manuš maj cera. Vaj si e manušes fungus vaj naj si dosta te tovel pe o telunipe jokvar ando džes kusa paji. Či tovel pe o telunipe kusa jekh normalno sapuj ke kodo šutjarel avri. Te kamel pe šaj te makhel pe o telunipe kusa jekh ulej khaj naj parfumo andre.</p>
+<p type="title">Pušimata thaj atvetura pa fungus ando telunipe</p>
+<p type="title">Lel pe fungus khatar string, tate thaj kikidine ghada?</p>
+<p>Naj či soske čače fakti khaj sikaven ke kodo si čačipe ke tate, kikidine ghada vaj string si e doš khaj fungus. Numa te si jekhe manušes fungus šaj te hanžoj maj cera te si e manušen telune ghada khaj si anda cotton thaj ghada khaj naj kade kikidine. Šaj vi te žutij te na aven telune ghada kana sovel pe pe račate thaj te na phiraven e žuvlia sostiangi protekcia (trosskydd)</p>
+<p type="title">Hasajvel o fungus te makhel pe o telunipe kusa yoghurto?</p>
+<p>Kodo ke yoghurto žutij karing funguso si feri jekh myt (paramičia) ke naj čačimasa či soske fakti pe kodo. Numa o yoghurto šaj te šudrarel e chanžj thaj anda kodo šaj te avel kodo lašo.</p>
+<p type="title">Šaj o funguso te nasvaravel kaveren?</p>
+<p>Fungus či nasvaravel pa toaletti. Numa fungus šaj te nasvaravel kaveren te si vaginalno sekso vi te naj kodo normalno.</p>
+<p type="title">Šaj te lel pe fungus te hal pe but sukro?</p>
+<p>Naj či soske čačimaske fakti khaj sikaven ke o fungos avel te hal pe but sukro. Numa te si e manušes problemo kusa fungus naj čores te zumavel pe te paruvel pe o habe te dikhel pe vaj šaj te avel maj feder.</p>
+<p type="title">Šaj te avel e manušen sekso kana si jekhes fungus?</p>
+<p>Naj nasul te avel sekso kana si fungus numa šaj te dukhal kana si sekso ke e membranura šaj te dukhan kana si fungus. Te si vaginalno sekso si jekh cini šansa ke šaj te nasvajvel o dujto. Paša kodo si jekh maj bari šansa ke perdžol pe vaj perel pe kaveres kana si aginaslno sekso kana si e manušes fungus ke e membranura si dukhade thaj kodo kerel ke maj lokho si atunči te lel pe vaj del pe maj dur infektci.</p>
+</body></document>

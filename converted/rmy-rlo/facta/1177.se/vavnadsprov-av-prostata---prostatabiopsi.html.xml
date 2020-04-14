@@ -1,103 +1,59 @@
-<document xml:lang="rmy-rlo" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1417</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rlo"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Undersokningar--prover/Vavnadsprov-av-prostata---prostatabiopsi</origFileName>
-    <parallel_text xml:lang="eng" location="vavnadsprov_av_prostata_prostatabiopsi.html"/>
-    <parallel_text xml:lang="fin" location="vavnadsprov_av_prostata_prostatabiopsi.html"/>
-    <parallel_text xml:lang="fit" location="vavnadsprov-av-prostata---prostatabiopsi.html"/>
-    <parallel_text xml:lang="rus" location="vavnadsprov_av_prostata_prostatabiopsi.html"/>
-    <parallel_text xml:lang="sma" location="vavnadsprov-av-prostata---prostatabiopsi.html"/>
-    <parallel_text xml:lang="sme" location="vavnadsprov-av-prostata---prostatabiopsi.html"/>
-    <parallel_text xml:lang="smj" location="vavnadsprov-av-prostata---prostatabiopsi.html"/>
-    <parallel_text xml:lang="swe" location="vavnadsprov-av-prostata--prostatabiopsi.html"/>
-    <parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmf"/>
-    <parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmu"/>
-    <parallel_text location="vavnadsprov-av-prostata--prostatabiopsi.html" xml:lang="rmy-rka"/>
-    <parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmn"/>
-    <parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Morčaki proba pa prostata - prostatabiopsi / Vävnadsprov av prostata - prostatabiopsi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib lovarickaRomska lovara</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Morčaki proba pa prostata - prostatabiopsiVävnadsprov av prostata - prostatabiopsi</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Konklusia</p>
-    <p type="title" xml:lang="swe">Generalno</p>
-    <p xml:lang="swe">Jekh morčaki proba pa prostata, vaj prostatabiopsi, si ke o doktori lel cine kotora anda morči khatar prostata te kerel maj laši eksaminatcia.</p>
-    <p xml:lang="swe">Šaj te kerel pe e pruba anda kodo ke o doktori kamel te kerel jekh eksaminatcia te dikhel vaj kodo si cancercelli ande prostata.</p>
-    <p xml:lang="swe">Pruba si bišadi khaj jekh laboritorium khaj nakhel analysa. Doktori del pala kodo atveto pe pruba.</p>
-    <p type="title" xml:lang="swe">Preparatci</p>
-    <p xml:lang="swe">Kana si te lel pe e pruba lel o manuš butivar jekh antibiotikaki tabletka. Univar lel pe vi jekh antibiotikaki tabletka khere te xal pe kodo uni časura pala eksaminatcia. Zurales važno si te xal pe e tabletki te na lel o manuš infektcia.</p>
-    <p xml:lang="swe">Te si tut alergia pe varisavi antibiotika, si kodo važno ke phenes angla e eksaminatcia.</p>
-    <p xml:lang="swe">Te si jekhes diabetes, arakhadžilas problemosa po hjilo vaj kaver problemo e hjilesa si kodo važno te phenel pe khaj e doktora angla eksaminatcia. Sa kade si kana lel pe žutipe te sanjarel pe o rat vaj kana si te lel pe kortison tabletki.</p>
-    <p xml:lang="swe">Vorta angla e eksaminatsia žal o manuš ande toaleta thaj šušarel e pora.</p>
-    <p type="title" xml:lang="swe">Sar žal e eksaminatcia?</p>
-    <p xml:lang="swe">Kana kerdžol e eksaminatcia pašljol o manuš pe jekh pato thaj pašljol pe stungo righ. Doktoro lel te azbal e prostata jekhe najesa ande bul. pala kodo šol pe andre jekhultraljud sastri lokhes uni centrimetri ande bul. Či dukhal numa šaj te ačardžol ekcera čores.</p>
-    <p xml:lang="swe">Pa jekh kanalo so si andre ande ultraljud sastri šol o doktori jekh suv andre thaj lel kodolesa jekh pruba anda prostata. Maj but anda e manuš phenen ke kado či dukhal thaj ke či ačaren kanči khatar kado. Numa te si kade ke ačarel pe ke kado dukhal šaj te lel pe lokalbedövning -morcomaskodrab (nekcija/suv).</p>
-    <p xml:lang="swe">Eksaminal el karing 15 minutsi.</p>
-    <p type="title" xml:lang="swe">Sar ačarel pe o manuš pala kado?</p>
-    <p xml:lang="swe">Normalno si ke rat del andre ande sperma (getso), muter vaj ando khul. Kodo naj kanči khaj si kade. Šaj vi te dukhal ekcera pala kodo thaj te ačarel o manuš ke musaj te žal te mutrel direktno pala kodo.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Sostar trobuj kadi eksamina?</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p type="title" xml:lang="swe">Proba lel pe khatar o prostata kortel (körtel)</p>
-    <p xml:lang="swe">Prostata si jekh kortel so si krujal e mutereski rura opral so si vorta tela muteresko gono. Prostatako korteloski funktcia si te kerel transportovo paji e getsoske. Šaj te mukhel pe morčiaki prubi khatar prostata te dikhel pe vaj si khote cancer andre.</p>
-    <p xml:lang="swe">Jekh morčiaki pruba si zurales cine kotora khatar e morči thaj kerel pe eksaminatcia. Morčiaki pruba bušol vi biopsi.</p>
-    <p type="title" xml:lang="swe">Anglunes kerel pe kaver eksaminatci</p>
-    <p xml:lang="swe">Kadi morčiaki pruba lel pe mindik tela duj okazi. Jekh si e PSA-pruba si za uče. PSA si jekh substanso so si producirime ande prostata thaj mukhel pe avri ande rat. Kusa jekh normalno rateski pruba birij pe te kerel pe kontrola pe PSA. PSA-pruba šaj te avel maj uči te si varikhaste maj bari prostata. Kaver doša khaj jekh za uči PSA-pruba šaj te avel te si jekhes inflamatcia ande prostata, numa vi te si jekhes prostata cancer. Jekh za uči PSA naj musaj te avel prostatacancer.</p>
-    <p xml:lang="swe">Dujto okazia si te si jekh zuralipe ande prostata thaj kodo šaj te avel jekh semno pe prostatacancer. E maj zurali righ arakhel o doktori kana vov ačarel e prostata kana vov šol jekh naj ande bul. Prostata si uni centrimetri khatar e bul haj paše andral ande buliako falo. Normalno si te avel e prostata glatko.</p>
-    <p type="title" xml:lang="swe">E morčiake prubi si eksaminovane tela mikroskopi</p>
-    <p xml:lang="swe">Kodol morčiake prubi so lel pek hatar prostata si bišade pe jekh mikroskopicno dikhipe so tel jekh atveto vaj khote si cancer vaj naj. Canceroski morči si pala kodo dikli pala jekh skala khaj bušol Gleason.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Kade kerel pe</p>
-    <p type="title" xml:lang="swe">Antibiotika si važno preparatcia</p>
-    <p xml:lang="swe">Khetanes kusa e morčiaki pruba lel pe normalno jekh antibiotikaki tabletka. Univar šaj vi te lel pe jekh antibiotikaki tabletka khere te xal pe uni časura pala eksamina. Zurales važno si te xal pe e tabletki te na lel o manuš infektcia. Te si tut alergia pe varisavi antibiotika, sar eksemplo penicilina, si atunči važno te les kontakto klinikasa khaj si te avel e eksamina.</p>
-    <p type="title" xml:lang="swe">Medicina šaja te avel parudi</p>
-    <p xml:lang="swe">Te si kade ke lel pe medicina khaj sanjarel o rat anda tipo Waran so kado te avel phendo maj cera jekh kurko angla eksamina. PK-zor ande rat musaj te ušpeji pe te avel mišto, te birij o rat te zurajvel pe. O doktori so skirisardas e medicina Waran si te avel sa kodo manuš kon lel sama ke činjarel pe e dosa angla eksamina.</p>
-    <p xml:lang="swe">Zhutimasko than musaj vi te žanel jekh vrama anglal te si e manušes problemo e hjilesa, ke arakhadžilas o manuš kusa hjileske problemura. Sa kade te sas e manušes bakteriovo infektcia ande hjileske klafi. Te si e manušes diabetes vaj te si kade ke xal pe kortison tabletki si vi kodo važno te phenel pe khaj e žutimaske thana. Antibiotikako žutipe musaj te avel šutino pala sako jekhe manušeske problemura.</p>
-    <p type="title" xml:lang="swe">Eksaminatcia žal sigo</p>
-    <p xml:lang="swe">Eksaminatcia žal karing 15 minutci thaj šaj butivar te kerel pe bi bedövning (naj žutipe karing dukh) Relativno lokho eksaminatcia thaj sigo žal kado so sako jekh šaj te kerel.</p>
-    <p xml:lang="swe">Vorta angla eksamina žal pe pe toaleta thaj šušarel pe e pora. Pe uni bolnici šaj te kerel jekh microlavemang so kerel pe khere angla pruba.</p>
-    <p xml:lang="swe">Kana nakhel pe e eksaminatcia pašljol pe pe stungo rih pe jekh pato. Manuš si nango telal thaj jekh kendevo šaravel o telunipe. O doktori lel te ačarel pe prostata kusa jekh naj ande bul. Prostata si maj butivar vorta thaj uži, thaj ekcera elasticno. Te si kade ke e prostata ačardžol pe maj zurali thaj ke si pugnia šaj kodo te avel cancer.</p>
-    <p type="title" xml:lang="swe">Ultraljud sikavel jekh patreto pa prostata</p>
-    <p xml:lang="swe">Pala kodo kerel pe jekh dikhipe kusa ultraljud. Jekh ultraljud sastri si ekcera opre šutino ande bul, thaj o doktori dikhel jekh skurto vrama thaj dikhel e prostata.</p>
-    <p xml:lang="swe">Ultraljud sasti si karing 20 centimetri bari, numa feri o šero šol pe andre ande bul. Diametro po sastri si karing 2,5 centrimetri.</p>
-    <p xml:lang="swe">Ando sastri si jekh ultraljud transimetro (ultraljudsändare) Kodo mukhel avri fali so reflekturin andral e organura so si andre ando stato. E fali si pala kodo šutine ando jekh komputero so keravel jekh patreto khatar kado thaj jekh doktori birij te dikhel pe kado. Patreto si kalo parno thaj sikavel e prostata ande jekh šinado patreto si sikavel perdal e prostata.</p>
-    <p type="title" xml:lang="swe">Morči lel pe kusa jekh biopsi suv</p>
-    <p xml:lang="swe">Pala kodo lel pe morčiake prubi khatar o kortel (körtel) Ande ultraljud sastri si jekh kanalo khaj nakhel jekh biopsi suv andre. E suv si feri uni milimetri ande diametri. Pusavel pe perdal tarmslemhinnan (sani por) ande prostata. Žutimasa khatar ultraljud patreto birij o doktori te šol e suv mišto andre.</p>
-    <p xml:lang="swe">Ande suv si jekh sušo than khaj perdžol sigo kusa morči khat e prostata. Butivar pusavel o doktori butivar te lel prubi khatar maj but thana ande prostata. Normalno si khatar oxto ži khaj dešuduj prubi.</p>
-    <p type="title" xml:lang="swe">Šaj te ačardžol pe ekcera čores</p>
-    <p xml:lang="swe">O ultraljud sastri či dukhavel numa šaj vi kodo te ačardžol pe ekcera čores. Kana kikidel pe kodo karing e prostata šaj te ačarel pe o murš ke kamel te mutrel. Anda kodo si mišto te mutres angla eksaminatcia. Kana e morčake prubi si line šaj kodo te ačardžol čores thaj šaj vi univar te dukhal. But manuš so nakhle kadi pruba phenen ke či ačarde bari dukh vaj ke či ačarde či soski dukh. Šaj te lel pe jekh lokalbedövning (žutipe karing dukh) te si za bari dukh.</p>
-    <p type="title" xml:lang="swe">Ghindura pala eksaminatcia</p>
-    <p xml:lang="swe">Te na lel pe jekh urinvägsinfektion (infektcia ande mutereske droma) trobuj pe te pel pe but paji te xaladžol e rura mišto.</p>
-    <p type="title" xml:lang="swe">Komplikatci thaj rizikura</p>
-    <p xml:lang="swe">Rat ando getso, muter thaj ando khul si normalno pala jekh kasavi eksaminatcia thaj naj kanči nasul. Šaj vi te dukhal ekcera thaj ke kamel pe te mutrel pe pala kodo.</p>
-    <p xml:lang="swe">Rat ando getso šaj te inkerdžol pe maj lungo vrama, univar maj but kurke. Rat ande muter thaj khul xasajvel pala uni džes.</p>
-    <p xml:lang="swe">Vi te las o manuš antibiotika karing infektci birij o manuš te astarel jekh infektcia khatar bakteri. Riziko si maj baro jekh kurko pala eksaminatcia. Te lel o manuš uči temperatura thaj ačarel pe nasvalo si o manuš te lel kontakto doktorosa vaj te djas ande bolnica.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rlo" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1408</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rlo"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Undersokningar--prover/Vavnadsprov-av-prostata---prostatabiopsi</origFileName><parallel_text xml:lang="eng" location="vavnadsprov_av_prostata_prostatabiopsi.html"/><parallel_text xml:lang="fin" location="vavnadsprov_av_prostata_prostatabiopsi.html"/><parallel_text xml:lang="fit" location="vavnadsprov-av-prostata---prostatabiopsi.html"/><parallel_text xml:lang="rus" location="vavnadsprov_av_prostata_prostatabiopsi.html"/><parallel_text xml:lang="sma" location="vavnadsprov-av-prostata---prostatabiopsi.html"/><parallel_text xml:lang="sme" location="vavnadsprov-av-prostata---prostatabiopsi.html"/><parallel_text xml:lang="smj" location="vavnadsprov-av-prostata---prostatabiopsi.html"/><parallel_text xml:lang="swe" location="vavnadsprov-av-prostata--prostatabiopsi.html"/><parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmf"/><parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmu"/><parallel_text location="vavnadsprov-av-prostata--prostatabiopsi.html" xml:lang="rmy-rka"/><parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmn"/><parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Morčaki proba pa prostata - prostatabiopsi / Vävnadsprov av prostata - prostatabiopsi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Morčaki proba pa prostata - prostatabiopsiVävnadsprov av prostata - prostatabiopsi</p>
+<p xml:lang="swe"></p>
+<p type="title">Konklusia</p>
+<p type="title">Generalno</p>
+<p>Jekh morčaki proba pa prostata, vaj prostatabiopsi, si ke o doktori lel cine kotora anda morči khatar prostata te kerel maj laši eksaminatcia.</p>
+<p>Šaj te kerel pe e pruba anda kodo ke o doktori kamel te kerel jekh eksaminatcia te dikhel vaj kodo si cancercelli ande prostata.</p>
+<p>Pruba si bišadi khaj jekh laboritorium khaj nakhel analysa. Doktori del pala kodo atveto pe pruba.</p>
+<p type="title">Preparatci</p>
+<p>Kana si te lel pe e pruba lel o manuš butivar jekh antibiotikaki tabletka. Univar lel pe vi jekh antibiotikaki tabletka khere te xal pe kodo uni časura pala eksaminatcia. Zurales važno si te xal pe e tabletki te na lel o manuš infektcia.</p>
+<p>Te si tut alergia pe varisavi antibiotika, si kodo važno ke phenes angla e eksaminatcia.</p>
+<p>Te si jekhes diabetes, arakhadžilas problemosa po hjilo vaj kaver problemo e hjilesa si kodo važno te phenel pe khaj e doktora angla eksaminatcia. Sa kade si kana lel pe žutipe te sanjarel pe o rat vaj kana si te lel pe kortison tabletki.</p>
+<p>Vorta angla e eksaminatsia žal o manuš ande toaleta thaj šušarel e pora.</p>
+<p type="title">Sar žal e eksaminatcia?</p>
+<p>Kana kerdžol e eksaminatcia pašljol o manuš pe jekh pato thaj pašljol pe stungo righ. Doktoro lel te azbal e prostata jekhe najesa ande bul. pala kodo šol pe andre jekhultraljud sastri lokhes uni centrimetri ande bul. Či dukhal numa šaj te ačardžol ekcera čores.</p>
+<p>Pa jekh kanalo so si andre ande ultraljud sastri šol o doktori jekh suv andre thaj lel kodolesa jekh pruba anda prostata. Maj but anda e manuš phenen ke kado či dukhal thaj ke či ačaren kanči khatar kado. Numa te si kade ke ačarel pe ke kado dukhal šaj te lel pe lokalbedövning -morcomaskodrab (nekcija/suv).</p>
+<p xml:lang="swe">Eksaminal el karing 15 minutsi.</p>
+<p type="title">Sar ačarel pe o manuš pala kado?</p>
+<p>Normalno si ke rat del andre ande sperma (getso), muter vaj ando khul. Kodo naj kanči khaj si kade. Šaj vi te dukhal ekcera pala kodo thaj te ačarel o manuš ke musaj te žal te mutrel direktno pala kodo.</p>
+<p xml:lang="swe"></p>
+<p type="title">Sostar trobuj kadi eksamina?</p>
+<list><p type="listitem" xml:lang="swe"></p>
+</list><p type="title" xml:lang="swe">Proba lel pe khatar o prostata kortel (körtel)</p>
+<p>Prostata si jekh kortel so si krujal e mutereski rura opral so si vorta tela muteresko gono. Prostatako korteloski funktcia si te kerel transportovo paji e getsoske. Šaj te mukhel pe morčiaki prubi khatar prostata te dikhel pe vaj si khote cancer andre.</p>
+<p>Jekh morčiaki pruba si zurales cine kotora khatar e morči thaj kerel pe eksaminatcia. Morčiaki pruba bušol vi biopsi.</p>
+<p type="title">Anglunes kerel pe kaver eksaminatci</p>
+<p>Kadi morčiaki pruba lel pe mindik tela duj okazi. Jekh si e PSA-pruba si za uče. PSA si jekh substanso so si producirime ande prostata thaj mukhel pe avri ande rat. Kusa jekh normalno rateski pruba birij pe te kerel pe kontrola pe PSA. PSA-pruba šaj te avel maj uči te si varikhaste maj bari prostata. Kaver doša khaj jekh za uči PSA-pruba šaj te avel te si jekhes inflamatcia ande prostata, numa vi te si jekhes prostata cancer. Jekh za uči PSA naj musaj te avel prostatacancer.</p>
+<p>Dujto okazia si te si jekh zuralipe ande prostata thaj kodo šaj te avel jekh semno pe prostatacancer. E maj zurali righ arakhel o doktori kana vov ačarel e prostata kana vov šol jekh naj ande bul. Prostata si uni centrimetri khatar e bul haj paše andral ande buliako falo. Normalno si te avel e prostata glatko.</p>
+<p type="title" xml:lang="swe">E morčiake prubi si eksaminovane tela mikroskopi</p>
+<p>Kodol morčiake prubi so lel pek hatar prostata si bišade pe jekh mikroskopicno dikhipe so tel jekh atveto vaj khote si cancer vaj naj. Canceroski morči si pala kodo dikli pala jekh skala khaj bušol Gleason.</p>
+<p xml:lang="swe"></p>
+<p type="title">Kade kerel pe</p>
+<p type="title">Antibiotika si važno preparatcia</p>
+<p>Khetanes kusa e morčiaki pruba lel pe normalno jekh antibiotikaki tabletka. Univar šaj vi te lel pe jekh antibiotikaki tabletka khere te xal pe uni časura pala eksamina. Zurales važno si te xal pe e tabletki te na lel o manuš infektcia. Te si tut alergia pe varisavi antibiotika, sar eksemplo penicilina, si atunči važno te les kontakto klinikasa khaj si te avel e eksamina.</p>
+<p type="title">Medicina šaja te avel parudi</p>
+<p>Te si kade ke lel pe medicina khaj sanjarel o rat anda tipo Waran so kado te avel phendo maj cera jekh kurko angla eksamina. PK-zor ande rat musaj te ušpeji pe te avel mišto, te birij o rat te zurajvel pe. O doktori so skirisardas e medicina Waran si te avel sa kodo manuš kon lel sama ke činjarel pe e dosa angla eksamina.</p>
+<p>Zhutimasko than musaj vi te žanel jekh vrama anglal te si e manušes problemo e hjilesa, ke arakhadžilas o manuš kusa hjileske problemura. Sa kade te sas e manušes bakteriovo infektcia ande hjileske klafi. Te si e manušes diabetes vaj te si kade ke xal pe kortison tabletki si vi kodo važno te phenel pe khaj e žutimaske thana. Antibiotikako žutipe musaj te avel šutino pala sako jekhe manušeske problemura.</p>
+<p type="title">Eksaminatcia žal sigo</p>
+<p>Eksaminatcia žal karing 15 minutci thaj šaj butivar te kerel pe bi bedövning (naj žutipe karing dukh) Relativno lokho eksaminatcia thaj sigo žal kado so sako jekh šaj te kerel.</p>
+<p>Vorta angla eksamina žal pe pe toaleta thaj šušarel pe e pora. Pe uni bolnici šaj te kerel jekh microlavemang so kerel pe khere angla pruba.</p>
+<p>Kana nakhel pe e eksaminatcia pašljol pe pe stungo rih pe jekh pato. Manuš si nango telal thaj jekh kendevo šaravel o telunipe. O doktori lel te ačarel pe prostata kusa jekh naj ande bul. Prostata si maj butivar vorta thaj uži, thaj ekcera elasticno. Te si kade ke e prostata ačardžol pe maj zurali thaj ke si pugnia šaj kodo te avel cancer.</p>
+<p type="title">Ultraljud sikavel jekh patreto pa prostata</p>
+<p>Pala kodo kerel pe jekh dikhipe kusa ultraljud. Jekh ultraljud sastri si ekcera opre šutino ande bul, thaj o doktori dikhel jekh skurto vrama thaj dikhel e prostata.</p>
+<p xml:lang="swe">Ultraljud sasti si karing 20 centimetri bari, numa feri o šero šol pe andre ande bul. Diametro po sastri si karing 2,5 centrimetri.</p>
+<p>Ando sastri si jekh ultraljud transimetro (ultraljudsändare) Kodo mukhel avri fali so reflekturin andral e organura so si andre ando stato. E fali si pala kodo šutine ando jekh komputero so keravel jekh patreto khatar kado thaj jekh doktori birij te dikhel pe kado. Patreto si kalo parno thaj sikavel e prostata ande jekh šinado patreto si sikavel perdal e prostata.</p>
+<p type="title">Morči lel pe kusa jekh biopsi suv</p>
+<p>Pala kodo lel pe morčiake prubi khatar o kortel (körtel) Ande ultraljud sastri si jekh kanalo khaj nakhel jekh biopsi suv andre. E suv si feri uni milimetri ande diametri. Pusavel pe perdal tarmslemhinnan (sani por) ande prostata. Žutimasa khatar ultraljud patreto birij o doktori te šol e suv mišto andre.</p>
+<p>Ande suv si jekh sušo than khaj perdžol sigo kusa morči khat e prostata. Butivar pusavel o doktori butivar te lel prubi khatar maj but thana ande prostata. Normalno si khatar oxto ži khaj dešuduj prubi.</p>
+<p type="title">Šaj te ačardžol pe ekcera čores</p>
+<p>O ultraljud sastri či dukhavel numa šaj vi kodo te ačardžol pe ekcera čores. Kana kikidel pe kodo karing e prostata šaj te ačarel pe o murš ke kamel te mutrel. Anda kodo si mišto te mutres angla eksaminatcia. Kana e morčake prubi si line šaj kodo te ačardžol čores thaj šaj vi univar te dukhal. But manuš so nakhle kadi pruba phenen ke či ačarde bari dukh vaj ke či ačarde či soski dukh. Šaj te lel pe jekh lokalbedövning (žutipe karing dukh) te si za bari dukh.</p>
+<p type="title">Ghindura pala eksaminatcia</p>
+<p>Te na lel pe jekh urinvägsinfektion (infektcia ande mutereske droma) trobuj pe te pel pe but paji te xaladžol e rura mišto.</p>
+<p type="title">Komplikatci thaj rizikura</p>
+<p>Rat ando getso, muter thaj ando khul si normalno pala jekh kasavi eksaminatcia thaj naj kanči nasul. Šaj vi te dukhal ekcera thaj ke kamel pe te mutrel pe pala kodo.</p>
+<p>Rat ando getso šaj te inkerdžol pe maj lungo vrama, univar maj but kurke. Rat ande muter thaj khul xasajvel pala uni džes.</p>
+<p>Vi te las o manuš antibiotika karing infektci birij o manuš te astarel jekh infektcia khatar bakteri. Riziko si maj baro jekh kurko pala eksaminatcia. Te lel o manuš uči temperatura thaj ačarel pe nasvalo si o manuš te lel kontakto doktorosa vaj te djas ande bolnica.</p>
+</body></document>

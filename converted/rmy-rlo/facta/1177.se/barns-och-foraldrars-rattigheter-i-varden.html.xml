@@ -1,95 +1,48 @@
-<document xml:lang="rmy-rlo" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1238</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rlo"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Regler-och-rattigheter/Barns-och-foraldrars-rattigheter-i-varden</origFileName>
-    <parallel_text xml:lang="eng" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
-    <parallel_text xml:lang="fin" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
-    <parallel_text xml:lang="fit" location="barns-och-.html"/>
-    <parallel_text xml:lang="sma" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
-    <parallel_text xml:lang="sme" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
-    <parallel_text xml:lang="smj" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
-    <parallel_text xml:lang="swe" location="barns-och-foraldrars-rattigheter-i-varden2.html"/>
-    <parallel_text location="barns-och-foraldrars-rattigheter.html" xml:lang="rmy-rka"/>
-    <parallel_text location="barn-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmn"/>
-    <parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmu"/>
-    <parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="yid"/>
-    <parallel_text location="barn-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Šavorenge thaj lenge gazdenge čačimata ando žutipe / Barns och vårdnadshavares rättigheter i vården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani chib lovarickaRomska lovara</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Šavorenge thaj lenge gazdenge čačimata ando žutipeBarns och vårdnadshavares rättigheter i vården</p>
-    <p xml:lang="swe">Sar šavoresko gazda- vårdnadshavare si te avel tut jekh kotor thaj vi vorba khaj e šavoresko žutipe. Kodo žnačij kodoke tu sar gazda si te les informatsia pa kodo žutipe o šavoro lel, save žutimaske alternativi si thaj khaj birin te len kodo žutipe.</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe">Numa vi o šavoro si te lel partča ande pesko žutipe. Kodo žnačij ke žutimaske bučara si te len sama pala e šavoreski maj laši thaj si te žanen avri so o šavoro korkori mangel. E šavoren si čačipe te porunčin korkori thaj so maj phure von si so maj važno si kodo. Kana o šavoro perdžol 18 berš kerdžol o šavoro – myndig thaj atunči ašon e but decizi pe leste.</p>
-    <p xml:lang="swe">Sar si e reguli si o šavoro thaj tu khaj san o gazda po šavoro te les e informatsia thaj te inkres o šajipe te porunčis pe jekh žutimaski metoda. Šaj vi te avel kade ke trobuj tumen jekh tolmačo, jekh teksto khere, vaj jekh kaver žutipe tumenge te ačaren čačes so kerel pe te birin te len jekh čači partča ande šavoresko žutipe.</p>
-    <p xml:lang="swe">But diferentne zakonura phenen save čačimata e šavoren si ando žutipe thaj save musajimata o žutipe musaj te kerel e šavorenge thaj ternenge thaj pa lenge gazdenge porunčimata ande kadal buča - medbestämmande. Maj but skrij pe pa zakonura ande patientlagen thaj hälso- och sjukvårdslagen. Švedo skirisardas vi tela FN:oski konventsia pa šavorenge čačimata, šavorengi konventsia. Kote skrij kodo ke e šavoren si čačipe khaj o maj lašo sastipe thaj nasvalengo žutipe . Thaj vi kodo ke si e manušes čačipe khaj jekh personalno integriteto thaj te birij o manuš te phenel so vov ghindoj.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Šavorenge čačipe ando medecinsko žutipe</p>
-    <p xml:lang="swe">Čačipe khaj informatsia</p>
-    <p xml:lang="swe">Važno si te lel pe kodi informatsia so trobuj te birij o manuš te lel partča. Si te len informatsia sar eksemplo</p>
-    <list>
-      <p type="listitem" xml:lang="swe">sastimaski konditsia</p>
-      <p type="listitem" xml:lang="swe">save medoti si po rodipe, žutipe thaj kaver droma ando žutipe</p>
-      <p type="listitem" xml:lang="swe">save žutimata si</p>
-      <p type="listitem" xml:lang="swe">savo resultato avla khatar o žutipe</p>
-      <p type="listitem" xml:lang="swe">save rizikura si thaj save komplikatsi si</p>
-      <p type="listitem" xml:lang="swe">save metodi si te na kerdžon nasvalimata thaj dukhajimata.</p>
-    </list>
-    <p xml:lang="swe">Naj či soski beršeski granitsia kana jekh šavoro šaj te avel ande jekh žutimaski situatsia thaj te porunčil. Šavoresko čačipe si ketanes kusa leski godži – mognad, thaj berš naj e maj važo so sikavel e šavoreski godži. Sar eksemplo šaj te avel kade ke jekh šavoro sas nasvalo but vrama vaj inkrel jekh funktsiako nasvalipe thaj te avel maj godžako sar jekh kaver šavoro khas nas kadal eksperiensi.</p>
-    <p xml:lang="swe">So maj phuro kerdžol o šavoro, so maj butivar trobuj o šavoro thaj o gazda te phenen so von ghindon khetanes, te phenel pe jo, khaj kodo žutipe so del pe. Von inkren e responsebiliteta po žutipe, butivar khetanes tusa khaj san gazda, kana dikhel pe sar thaj kana jekh šavoro šaj te avel ande jekh žutimaski situatsia thaj te porunčil.</p>
-    <p type="title" xml:lang="swe">Informatsia bi dadengo vaj dejangi partča</p>
-    <p xml:lang="swe">Šaj te aven situatsi khaj o šavoro inkrel jekh direktno kontakto kusa doktorongo žutipe thaj tu sar gazda či san andre, vi te si kade ke žanes pa kado. Šavoren si sar eksemplo čačipe te vorbin korkori kusa e žutimaske bučara thaj e dada thaj e deja naj kote thaj naj musaj te žanen kanči pa kodo so e šavora vorbinas. Te avla avri ando vorbipe e šavoresa ke si variso važno so si pa e šavoeriski protektsia musaj e žutimaske bučara te den kodo opre khaj e komunako socialo.</p>
-    <p xml:lang="swe">Te birij jekh šavoro te rodel korkori žutipe pe peski inisiativa si kodole šavores čačipe te lel sastimasko žutipe khaj naj o dad thaj e dej thaj ke von či žanena pa kodo so si resultatlo. Terne so žan khaj ternikano žutipe - ungdomsmottagning, inkren o čačipe te alosaren te si te avel kade ke varikhon kaver si te žanel pa lengi vizita vaj te ginaven o žurnalo.</p>
-    <p xml:lang="swe">Šavoren si čačipe te len dumo, informatsia ande situatsi so si pa familjia. Sar eksemplo kana varikhon ande familja si nasvalo ande jekh funksionalno nasvalipe, jekh syzicno vaj psykicno nasvalipe vaj kana varikhon merel.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Žutipe si te avel kerdo pala e šavorengo trobujipe</p>
-    <p xml:lang="swe">Jekh šavoro si te lel žutipe pe jekh šavorikano avdelningo – than te si than. Kaver eksemplura si sar sastimasko thaj bolnicako žutipe - hälso- och sjukvården si te lel sama pala e šavorengo trobujipe thaj te len</p>
-    <list>
-      <p type="listitem" xml:lang="swe">te avel maj tsera jekh manuš so si lenge paše ande bolnica</p>
-      <p type="listitem" xml:lang="swe">te agorij pe jekh dikhipe vaj rodipete lel pe jekh pauza vaj te zumavel pe jekh kaver data</p>
-      <p type="listitem" xml:lang="swe">te birin te porunčin sar medicina si te lel pe thaj sar jekh doktoritsko dikhipe si te avel kerdo kana si diferentne alternativi.</p>
-    </list>
-    <p type="title" xml:lang="swe">Kana šavora naštik te len partča</p>
-    <p xml:lang="swe">Si uni sitatsi khaj šavora thaj e terne naštik te len partča thaj te porunčin, vi te šaj te aven po than thaj te šunen thaj te zumaven te len partča. Kodo si kana jekh decizia musaj te avel kerdi pala medicinako žanglipe. Te lel o šavoro žutipe pala smittskyddslagen – zakono pe perimaske nasvalimata či birij konik, či o šavoro vaj o gazda te phenel ke či kamel kodo žutipe so del pe, zakono khaj inkrel spesialne reguli pa terne - lagen med särskilda bestämmelser om vård av unga (LVU) vaj o zakono pa psykiatricno phandajipe -lagen om psykiatrisk tvångsvård (LPT).</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Čiro čačipe sar gazda - vårdnadshavare</p>
-    <p xml:lang="swe">Sar gazda biris te phenes ke či kames uni žutimata čire šavoreske. Vi te phendan ke kames variso vaj či kames biris te paruves kodi vorba.</p>
-    <p xml:lang="swe">Te si kade ke o gazda thaj o šavoro či ghindon sa kade ande jekh decizia musaj univar o socialo te dikhen avri kon si medicinako gazda te či birin e gazdi te den vast ande uni buča.</p>
-    <p xml:lang="swe">Šaj te phenes na te na biris te aves ande uni situatsi so si phare. Šaj te avel sar eksemplo ke e bučara mangen tut te inkres čire šavores kana žanes ke kodo si tuke thaj e šavoreske phares ande jekh doktoritsko dikhipe. Šaj te alosares te aves paša avoro angla dikhipe thaj pala dikhipe. š</p>
-    <p xml:lang="swe">Tut si čačipe te soves paša šavoro te lel o šavoro žutipe ande bolnica thaj tu si te les jekh dikhipe sar e bolnica mezij te manges kodo thaj te žanes save rutini si kote.</p>
-    <p xml:lang="swe">Tut si čačipe te les kopia pe šavoresko žurnalo, numa vramasa sar o šavoro barol trobuj o šavoro te phenel vaj kamel te avel avri leske žurnalura.</p>
-    <p type="title" xml:lang="swe">So e gazdi či birin te porunčin</p>
-    <p xml:lang="swe">Si uni situatsi khaj e bolnicake bučara či trobun te inkren pe pala čire mangimata sar gazda thaj kodol si sar eksemplo</p>
-    <list>
-      <p type="listitem" xml:lang="swe">ke o šavoro si te lel žutipe so naj dikhlo ande rodimata thaj phagel e doktoritska rodimata thaj žanglimata</p>
-      <p type="listitem" xml:lang="swe">te na den trajosko žutipe</p>
-      <p type="listitem" xml:lang="swe">phandavel pe e šavoreske informatsi ande šavoresko žurnalo kavere gazdenge.</p>
-    </list>
-    <p type="title" xml:lang="swe">Te či san čalo e žutimasa</p>
-    <p xml:lang="swe">Te ghindos ke čire šavoresko žutipe nas lašo vaj ke nas e manuš laše trobuj anglunes te booldes tut khaj e manuš khaj sanas. Šaj vi te boldes tut khaj patientnämnden, khaj šaj te žutin tut te aves ando kontakto kusa žutimaske bučara khaj inkren responsebilita sar te les informatsia sar te raportulis pa kodo so sas čores.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rlo" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1229</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rlo"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romanska-lovara/Regler-och-rattigheter/Barns-och-foraldrars-rattigheter-i-varden</origFileName><parallel_text xml:lang="eng" location="barns-och-foraldrars-rattigheter-i-varden.html"/><parallel_text xml:lang="fin" location="barns-och-foraldrars-rattigheter-i-varden.html"/><parallel_text xml:lang="fit" location="barns-och-.html"/><parallel_text xml:lang="sma" location="barns-och-foraldrars-rattigheter-i-varden.html"/><parallel_text xml:lang="sme" location="barns-och-foraldrars-rattigheter-i-varden.html"/><parallel_text xml:lang="smj" location="barns-och-foraldrars-rattigheter-i-varden.html"/><parallel_text xml:lang="swe" location="barns-och-foraldrars-rattigheter-i-varden2.html"/><parallel_text location="barns-och-foraldrars-rattigheter.html" xml:lang="rmy-rka"/><parallel_text location="barn-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmn"/><parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmu"/><parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="yid"/><parallel_text location="barn-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Šavorenge thaj lenge gazdenge čačimata ando žutipe / Barns och vårdnadshavares rättigheter i vården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Šavorenge thaj lenge gazdenge čačimata ando žutipeBarns och vårdnadshavares rättigheter i vården</p>
+<p>Sar šavoresko gazda- vårdnadshavare si te avel tut jekh kotor thaj vi vorba khaj e šavoresko žutipe. Kodo žnačij kodoke tu sar gazda si te les informatsia pa kodo žutipe o šavoro lel, save žutimaske alternativi si thaj khaj birin te len kodo žutipe.</p>
+<p xml:lang="swe"></p>
+<p>Numa vi o šavoro si te lel partča ande pesko žutipe. Kodo žnačij ke žutimaske bučara si te len sama pala e šavoreski maj laši thaj si te žanen avri so o šavoro korkori mangel. E šavoren si čačipe te porunčin korkori thaj so maj phure von si so maj važno si kodo. Kana o šavoro perdžol 18 berš kerdžol o šavoro – myndig thaj atunči ašon e but decizi pe leste.</p>
+<p>Sar si e reguli si o šavoro thaj tu khaj san o gazda po šavoro te les e informatsia thaj te inkres o šajipe te porunčis pe jekh žutimaski metoda. Šaj vi te avel kade ke trobuj tumen jekh tolmačo, jekh teksto khere, vaj jekh kaver žutipe tumenge te ačaren čačes so kerel pe te birin te len jekh čači partča ande šavoresko žutipe.</p>
+<p>But diferentne zakonura phenen save čačimata e šavoren si ando žutipe thaj save musajimata o žutipe musaj te kerel e šavorenge thaj ternenge thaj pa lenge gazdenge porunčimata ande kadal buča - medbestämmande. Maj but skrij pe pa zakonura ande patientlagen thaj hälso- och sjukvårdslagen. Švedo skirisardas vi tela FN:oski konventsia pa šavorenge čačimata, šavorengi konventsia. Kote skrij kodo ke e šavoren si čačipe khaj o maj lašo sastipe thaj nasvalengo žutipe . Thaj vi kodo ke si e manušes čačipe khaj jekh personalno integriteto thaj te birij o manuš te phenel so vov ghindoj.</p>
+<p xml:lang="swe"></p>
+<p type="title">Šavorenge čačipe ando medecinsko žutipe</p>
+<p>Čačipe khaj informatsia</p>
+<p>Važno si te lel pe kodi informatsia so trobuj te birij o manuš te lel partča. Si te len informatsia sar eksemplo</p>
+<list><p type="listitem">sastimaski konditsia</p>
+<p type="listitem">save medoti si po rodipe, žutipe thaj kaver droma ando žutipe</p>
+<p type="listitem">save žutimata si</p>
+<p type="listitem">savo resultato avla khatar o žutipe</p>
+<p type="listitem">save rizikura si thaj save komplikatsi si</p>
+<p type="listitem">save metodi si te na kerdžon nasvalimata thaj dukhajimata.</p>
+</list><p>Naj či soski beršeski granitsia kana jekh šavoro šaj te avel ande jekh žutimaski situatsia thaj te porunčil. Šavoresko čačipe si ketanes kusa leski godži – mognad, thaj berš naj e maj važo so sikavel e šavoreski godži. Sar eksemplo šaj te avel kade ke jekh šavoro sas nasvalo but vrama vaj inkrel jekh funktsiako nasvalipe thaj te avel maj godžako sar jekh kaver šavoro khas nas kadal eksperiensi.</p>
+<p>So maj phuro kerdžol o šavoro, so maj butivar trobuj o šavoro thaj o gazda te phenen so von ghindon khetanes, te phenel pe jo, khaj kodo žutipe so del pe. Von inkren e responsebiliteta po žutipe, butivar khetanes tusa khaj san gazda, kana dikhel pe sar thaj kana jekh šavoro šaj te avel ande jekh žutimaski situatsia thaj te porunčil.</p>
+<p type="title" xml:lang="swe">Informatsia bi dadengo vaj dejangi partča</p>
+<p>Šaj te aven situatsi khaj o šavoro inkrel jekh direktno kontakto kusa doktorongo žutipe thaj tu sar gazda či san andre, vi te si kade ke žanes pa kado. Šavoren si sar eksemplo čačipe te vorbin korkori kusa e žutimaske bučara thaj e dada thaj e deja naj kote thaj naj musaj te žanen kanči pa kodo so e šavora vorbinas. Te avla avri ando vorbipe e šavoresa ke si variso važno so si pa e šavoeriski protektsia musaj e žutimaske bučara te den kodo opre khaj e komunako socialo.</p>
+<p>Te birij jekh šavoro te rodel korkori žutipe pe peski inisiativa si kodole šavores čačipe te lel sastimasko žutipe khaj naj o dad thaj e dej thaj ke von či žanena pa kodo so si resultatlo. Terne so žan khaj ternikano žutipe - ungdomsmottagning, inkren o čačipe te alosaren te si te avel kade ke varikhon kaver si te žanel pa lengi vizita vaj te ginaven o žurnalo.</p>
+<p xml:lang="swe">Šavoren si čačipe te len dumo, informatsia ande situatsi so si pa familjia. Sar eksemplo kana varikhon ande familja si nasvalo ande jekh funksionalno nasvalipe, jekh syzicno vaj psykicno nasvalipe vaj kana varikhon merel.</p>
+<p xml:lang="swe"></p>
+<p type="title">Žutipe si te avel kerdo pala e šavorengo trobujipe</p>
+<p>Jekh šavoro si te lel žutipe pe jekh šavorikano avdelningo – than te si than. Kaver eksemplura si sar sastimasko thaj bolnicako žutipe - hälso- och sjukvården si te lel sama pala e šavorengo trobujipe thaj te len</p>
+<list><p type="listitem">te avel maj tsera jekh manuš so si lenge paše ande bolnica</p>
+<p type="listitem">te agorij pe jekh dikhipe vaj rodipete lel pe jekh pauza vaj te zumavel pe jekh kaver data</p>
+<p type="listitem">te birin te porunčin sar medicina si te lel pe thaj sar jekh doktoritsko dikhipe si te avel kerdo kana si diferentne alternativi.</p>
+</list><p type="title" xml:lang="swe">Kana šavora naštik te len partča</p>
+<p>Si uni sitatsi khaj šavora thaj e terne naštik te len partča thaj te porunčin, vi te šaj te aven po than thaj te šunen thaj te zumaven te len partča. Kodo si kana jekh decizia musaj te avel kerdi pala medicinako žanglipe. Te lel o šavoro žutipe pala smittskyddslagen – zakono pe perimaske nasvalimata či birij konik, či o šavoro vaj o gazda te phenel ke či kamel kodo žutipe so del pe, zakono khaj inkrel spesialne reguli pa terne - lagen med särskilda bestämmelser om vård av unga (LVU) vaj o zakono pa psykiatricno phandajipe -lagen om psykiatrisk tvångsvård (LPT).</p>
+<p xml:lang="swe"></p>
+<p type="title">Čiro čačipe sar gazda - vårdnadshavare</p>
+<p xml:lang="swe">Sar gazda biris te phenes ke či kames uni žutimata čire šavoreske. Vi te phendan ke kames variso vaj či kames biris te paruves kodi vorba.</p>
+<p>Te si kade ke o gazda thaj o šavoro či ghindon sa kade ande jekh decizia musaj univar o socialo te dikhen avri kon si medicinako gazda te či birin e gazdi te den vast ande uni buča.</p>
+<p>Šaj te phenes na te na biris te aves ande uni situatsi so si phare. Šaj te avel sar eksemplo ke e bučara mangen tut te inkres čire šavores kana žanes ke kodo si tuke thaj e šavoreske phares ande jekh doktoritsko dikhipe. Šaj te alosares te aves paša avoro angla dikhipe thaj pala dikhipe. š</p>
+<p>Tut si čačipe te soves paša šavoro te lel o šavoro žutipe ande bolnica thaj tu si te les jekh dikhipe sar e bolnica mezij te manges kodo thaj te žanes save rutini si kote.</p>
+<p>Tut si čačipe te les kopia pe šavoresko žurnalo, numa vramasa sar o šavoro barol trobuj o šavoro te phenel vaj kamel te avel avri leske žurnalura.</p>
+<p type="title" xml:lang="swe">So e gazdi či birin te porunčin</p>
+<p>Si uni situatsi khaj e bolnicake bučara či trobun te inkren pe pala čire mangimata sar gazda thaj kodol si sar eksemplo</p>
+<list><p type="listitem">ke o šavoro si te lel žutipe so naj dikhlo ande rodimata thaj phagel e doktoritska rodimata thaj žanglimata</p>
+<p type="listitem" xml:lang="swe">te na den trajosko žutipe</p>
+<p type="listitem">phandavel pe e šavoreske informatsi ande šavoresko žurnalo kavere gazdenge.</p>
+</list><p type="title" xml:lang="swe">Te či san čalo e žutimasa</p>
+<p>Te ghindos ke čire šavoresko žutipe nas lašo vaj ke nas e manuš laše trobuj anglunes te booldes tut khaj e manuš khaj sanas. Šaj vi te boldes tut khaj patientnämnden, khaj šaj te žutin tut te aves ando kontakto kusa žutimaske bučara khaj inkren responsebilita sar te les informatsia sar te raportulis pa kodo so sas čores.</p>
+</body></document>

@@ -1,82 +1,40 @@
-<document xml:lang="rmy-rlo" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>1187</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rmy-rlo"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Romska-lovara/Ongesto</origFileName>
-    <parallel_text xml:lang="fin" location="ahdistus.html"/>
-    <parallel_text xml:lang="fit" location="ahistus.html"/>
-    <parallel_text xml:lang="sma" location="asve.html"/>
-    <parallel_text xml:lang="sme" location="aestus.html"/>
-    <parallel_text xml:lang="smj" location="goavgge.html"/>
-    <parallel_text xml:lang="swe" location="angest.html"/>
-    <parallel_text location="nervolo.html" xml:lang="rmu"/>
-    <parallel_text location="dar.html" xml:lang="rmf"/>
-    <parallel_text location="dar.html" xml:lang="rmy-rka"/>
-    <parallel_text location="baridar.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Ongesto</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Ongesto</p>
-    <p xml:lang="swe">Ongesto si zurale ačarimata khatar dar thaj kana naj pacia ande intrego štato, thaj kado len e manuš varikana ando trajo. Ongesto šaj te avel jekh čoro ačaripe, numa vi kade si te zumavel pe te kerel pe kodo so kamel pe maj dur thaj te na garuvel pe o manuš khatar situatci so ghindoj pe šaj te anavel ongesto.</p>
-    <p xml:lang="swe">Ongesto si reaktci ande nervovo systemo so o manuš chi birij te inkrel korkori. Mišto si te žanel pe kodo ke o ongesto naj nasul po trajo thaj ke mindig hasajvel pala jekh vrama.</p>
-    <p type="title" xml:lang="swe">Šaj te ačardžol ande intrego štato</p>
-    <p xml:lang="swe">Kana si ongesti si e vrama kana daral o manuš thaj kana naj les pacia. Jekh zuralo ačaripe so šaj te ačardžol pe ande intrego štato. Tela kadi vrama šaj o hjilo te marel maj sigo thaj maj zurales, o phurdipe kerdžol maj sigo thaj e muskuli cirden pe khetanes. E paja šaj te šiordžon, zalipe, izdrajipe thaj čores kerdžol pe, vaj ačarel pe jekh kikidipe po kollin, kado kerel ke phares s ite lel pe rozduho.</p>
-    <p xml:lang="swe">Anglunes kerdžol o ačaripe maj zuralo thaj maj zuralo, numa pala jekh vrama chi kerdžol inke maj zuralo. Atunci mukhel kado thaj o manuš avel peste.</p>
-    <p xml:lang="swe">Šaj te ačardžol kado daravno. Numa mindik kerdžol pe maj pacia pala jekh vrama, thaj kado naj nasul.</p>
-    <p xml:lang="swe">Ongest šaj te ačardžol pe kaver kana avel o ongesto kaver dati. Thaj naj kade ke mindik žanel pe ke si ongesto ando štato.</p>
-    <p xml:lang="swe">Univar phenel pe e vorba ongest kana ačarel pe ke si variso pharo. Phenel pe ke si e manušes ongesto ke sar eksemplo si jekh proba ande skola vaj ke si phares bute buciansa pe buci. Numa o ongesto si variso maj kaver sar sako džesesko pharipe, so univar šaj te avel stresso.</p>
-    <p type="title" xml:lang="swe">Či žanel pe mindik sostar resel e manušes ongesto</p>
-    <p xml:lang="swe">Maj buten lel ongesto varikhana, numa vi kodo naj mindik sa kasavo thaj či žanel pe sodivar kodo kerdžol pe. Unien lel kodo feri varikhana. Kaveren šaj te resel jekh zuralo ongesto maj butivar, vaj ongesto so inkrel pe lungo vrama. Šaj vi te aresen skurte atakura po ongesto so hasajvel sigo.</p>
-    <p xml:lang="swe">Univar žanel pe sostar lel pe o ongesto. Kodo šaj te avel kana si variso pharo, sar kana varikhon merel. Šaj te lel pe ongesto kana varikhon kerdas nasulipe pe leste. Vaj kana varikhon sas nasul po internet, vaj zumadas te hohavel vaj te lel hasna pa jekheste.</p>
-    <p xml:lang="swe">Unien lel ongest angla jekh proba vaj angla jekh buciako vorbipe. Vaj kana si te kerel pe variso so žanel pe ke si daravno. Šaj te avel variso zurales pharo, numa atunci žanel pe sostar lel pe kodo ongesto. Kodo šaj te kerel ke žanel pe so te kerel pe kana lel e manušes o ongesto.</p>
-    <p xml:lang="swe">Šaj te lel pe ongestok hatar alkoholo vaj khatar drogi.</p>
-    <p xml:lang="swe">Ongesto šaj te avel thaj či žanel pe sostar kodo avilas, vaj khatar bajura so ghindoj pe ke či trobujas te vazdel ongesto. Kodo šaj te kerel kodo ke o ongesto kerdžol pe maj pharo thaj o manuš darajvel.</p>
-    <p xml:lang="swe">Naj či soski granitcia pe kadal formi po ongesto. Šaj vi te avel kade ke žanel pe sostar o ongesto avilas, numa ačarel pe ke za zuraloj, sar eksemplo kana lel e manušes ando hjilo, zalij pe thaj maren les paja angla jekh proba.</p>
-    <p type="title" xml:lang="swe">Del po sojipe thaj pe ačarimata</p>
-    <p xml:lang="swe">Ongesto šaj te kerel kodo ke či birij pe te sovel pe thaj či lel o manuš pacia. Šaj te uštiel pe raciate vaj ke romuj pe o sojipe, vaj lel pe za cera sojipe. Ongesto šaj vi te kerel kodo ke naj e manušes pacia, than thaj kerdžol hojarniko, vaj maj lokho kerdžol brigako thaj rovel.</p>
-    <p type="title" xml:lang="swe">Ongesto angla ongesto</p>
-    <p xml:lang="swe">Ongesto šaj te del zurale ačarimata thaj reaktci ando štato ke ačarel pe ke šaj te merel pe vaj ke diljajvel pe. Šaj te avel kade phares ke kerel pe sa te na kerdžol kado po dujto. Atunci lel pe ongesto te na lel pe ongesto po dujto. Kodo bušiol žukarimasko ongesto (förväntansångest)</p>
-    <p xml:lang="swe">Šaj te daral o manuš te na lel les ongesto angla kaver manuš, thaj ke si phares te vorbij pe pa kodo. Kodo šaj te kerel kodo ke o manuš agorij te maladžol kavere manušenca thaj atunci či kerla maj dur kodo so si leske drago. E dar angla ongesto kerel kodo ke o manuš phandavel pe korkori khatar but bajura ande pesko trajo.</p>
-    <p xml:lang="swe">Te na kerel pe bajura ke si dar ke kodo šaj te vazdel ongeston aj mišto, ke kodo šaj te kerel ke o ongesto avla maj nasul. Maj feder si te rodel pe žutipe sigo. Si lašio žutipe.</p>
-    <p type="title" xml:lang="swe">So šaj te kerel pe korkori?</p>
-    <p xml:lang="swe">Šaj te šudel pe tele o ongesto. Butivar šaj te arakhel pe droma sar te inkrel pe pesko ongesto. Kate si uni tipsura.</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Butivar žutij kodo te vorbij pe pa pesko ongesto manušenge khaj si paciape. Te šiol pe vorbi pe peske ačarimata te birin vi kaver te ačaren kodo so o manuš nakhel.</p>
-      <p type="listitem" xml:lang="swe">Butenge žutij kodo feri te skrin tele e phare ačarimata, vaj te makhen vaj te keren variso kaver.</p>
-      <p type="listitem" xml:lang="swe">Streso šaj te vazdel ongesto. Te si manuš stresovano šaj o manuš te del pe ghindo so vov birij te kerel te na avel kade but streso, thaj kodo šaj te cinjarel o ongesto.</p>
-      <p type="listitem" xml:lang="swe">Šaj te kerel pe bajura so šaj te kovliarel e manušes (avslappningsövningar). Šaj te cirdel pe kodo tele pa internet vaj te khinel pe cd pe apoteki.</p>
-      <p type="listitem" xml:lang="swe">Ongesto kerel butivar ke sovel pe maj čores. Numa te birij pe te sovel pe o manuš avri šaj kodo te hasajvel. Anda kodo si kodo vazno te zumavel pe te sovel pe mišto avri.</p>
-      <p type="listitem" xml:lang="swe">Ongesto šaj te cinjiol te miškij pe o manuš, trenulij vaj phirel.</p>
-      <p type="listitem" xml:lang="swe">Te pel pe civari, snusa, pel alkoholo vaj pel but kava šaj te zumavel pe te šudel pe ekcera anda kodo te dikhel pe vaj maj feder kerdžol pe. But nikotina thaj koffeinas haj te zurarel o ongesto thaj kodo kerel ke sovel pe maj čores.</p>
-      <p type="listitem" xml:lang="swe">Šaj te ginavel pe pa ongest thaj te lel pe maj but tipsura kaverendar, sar eksemplo pa internet. Si organizatci so šaj te žutin tipsonca thaj kavere žutimatonca.</p>
-      <p type="listitem" xml:lang="swe">Te kamel pe te vorbij pe varikhasa, šaj te vorbij pe khaj e telefonicne jourura khaj si.</p>
-    </list>
-    <p xml:lang="swe">Či lel pe alkoholo vaj kaver drogi te cinjarel pe o ongesto. Šaj te ačardžol pe ke žutij kodo jekh skurto vrama, numa o ongesto avela palpalet haj avla atunci inke maj zuralo.</p>
-    <p type="title" xml:lang="swe">Savo žutipe šaj te lel pe?</p>
-    <p xml:lang="swe">Šaj vi te lel pe žutipe sar te arakhel pe jekh drom sar te šudel pe tele o ongesto. Maj normalno žutipe si vorbimaski terapia, medicina vaj kana zumavel pe te kovljiol andral (avslappning).</p>
-    <p xml:lang="swe">Kodo so žutij jekhes naj musaj te žutij kaveres. Anda kodo si vazno te lel pe žutipe so si vorta pala tute.</p>
-    <p xml:lang="swe">Šaj te lel pe kontakto kusa jekh ungdomsmottagning, elevhälsan vaj kusa jekh vårdcentral. Te trobuj šaj kodo kon žutij angluni data te žutij kaver žutipe kontaktosa khaj jekh doktori vaj psykologo.</p>
-  </body>
-</document>
+<document xml:lang="rmy-rlo" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>1182</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rmy-rlo"/><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Romska-lovara/Ongesto</origFileName><parallel_text xml:lang="fin" location="ahdistus.html"/><parallel_text xml:lang="fit" location="ahistus.html"/><parallel_text xml:lang="sma" location="asve.html"/><parallel_text xml:lang="sme" location="aestus.html"/><parallel_text xml:lang="smj" location="goavgge.html"/><parallel_text xml:lang="swe" location="angest.html"/><parallel_text location="nervolo.html" xml:lang="rmu"/><parallel_text location="dar.html" xml:lang="rmf"/><parallel_text location="dar.html" xml:lang="rmy-rka"/><parallel_text location="baridar.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Ongesto</p>
+<p type="title">Ongesto</p>
+<p>Ongesto si zurale ačarimata khatar dar thaj kana naj pacia ande intrego štato, thaj kado len e manuš varikana ando trajo. Ongesto šaj te avel jekh čoro ačaripe, numa vi kade si te zumavel pe te kerel pe kodo so kamel pe maj dur thaj te na garuvel pe o manuš khatar situatci so ghindoj pe šaj te anavel ongesto.</p>
+<p>Ongesto si reaktci ande nervovo systemo so o manuš chi birij te inkrel korkori. Mišto si te žanel pe kodo ke o ongesto naj nasul po trajo thaj ke mindig hasajvel pala jekh vrama.</p>
+<p type="title" xml:lang="swe">Šaj te ačardžol ande intrego štato</p>
+<p>Kana si ongesti si e vrama kana daral o manuš thaj kana naj les pacia. Jekh zuralo ačaripe so šaj te ačardžol pe ande intrego štato. Tela kadi vrama šaj o hjilo te marel maj sigo thaj maj zurales, o phurdipe kerdžol maj sigo thaj e muskuli cirden pe khetanes. E paja šaj te šiordžon, zalipe, izdrajipe thaj čores kerdžol pe, vaj ačarel pe jekh kikidipe po kollin, kado kerel ke phares s ite lel pe rozduho.</p>
+<p>Anglunes kerdžol o ačaripe maj zuralo thaj maj zuralo, numa pala jekh vrama chi kerdžol inke maj zuralo. Atunci mukhel kado thaj o manuš avel peste.</p>
+<p>Šaj te ačardžol kado daravno. Numa mindik kerdžol pe maj pacia pala jekh vrama, thaj kado naj nasul.</p>
+<p>Ongest šaj te ačardžol pe kaver kana avel o ongesto kaver dati. Thaj naj kade ke mindik žanel pe ke si ongesto ando štato.</p>
+<p>Univar phenel pe e vorba ongest kana ačarel pe ke si variso pharo. Phenel pe ke si e manušes ongesto ke sar eksemplo si jekh proba ande skola vaj ke si phares bute buciansa pe buci. Numa o ongesto si variso maj kaver sar sako džesesko pharipe, so univar šaj te avel stresso.</p>
+<p type="title" xml:lang="swe">Či žanel pe mindik sostar resel e manušes ongesto</p>
+<p>Maj buten lel ongesto varikhana, numa vi kodo naj mindik sa kasavo thaj či žanel pe sodivar kodo kerdžol pe. Unien lel kodo feri varikhana. Kaveren šaj te resel jekh zuralo ongesto maj butivar, vaj ongesto so inkrel pe lungo vrama. Šaj vi te aresen skurte atakura po ongesto so hasajvel sigo.</p>
+<p>Univar žanel pe sostar lel pe o ongesto. Kodo šaj te avel kana si variso pharo, sar kana varikhon merel. Šaj te lel pe ongesto kana varikhon kerdas nasulipe pe leste. Vaj kana varikhon sas nasul po internet, vaj zumadas te hohavel vaj te lel hasna pa jekheste.</p>
+<p>Unien lel ongest angla jekh proba vaj angla jekh buciako vorbipe. Vaj kana si te kerel pe variso so žanel pe ke si daravno. Šaj te avel variso zurales pharo, numa atunci žanel pe sostar lel pe kodo ongesto. Kodo šaj te kerel ke žanel pe so te kerel pe kana lel e manušes o ongesto.</p>
+<p>Šaj te lel pe ongestok hatar alkoholo vaj khatar drogi.</p>
+<p>Ongesto šaj te avel thaj či žanel pe sostar kodo avilas, vaj khatar bajura so ghindoj pe ke či trobujas te vazdel ongesto. Kodo šaj te kerel kodo ke o ongesto kerdžol pe maj pharo thaj o manuš darajvel.</p>
+<p>Naj či soski granitcia pe kadal formi po ongesto. Šaj vi te avel kade ke žanel pe sostar o ongesto avilas, numa ačarel pe ke za zuraloj, sar eksemplo kana lel e manušes ando hjilo, zalij pe thaj maren les paja angla jekh proba.</p>
+<p type="title">Del po sojipe thaj pe ačarimata</p>
+<p>Ongesto šaj te kerel kodo ke či birij pe te sovel pe thaj či lel o manuš pacia. Šaj te uštiel pe raciate vaj ke romuj pe o sojipe, vaj lel pe za cera sojipe. Ongesto šaj vi te kerel kodo ke naj e manušes pacia, than thaj kerdžol hojarniko, vaj maj lokho kerdžol brigako thaj rovel.</p>
+<p type="title">Ongesto angla ongesto</p>
+<p>Ongesto šaj te del zurale ačarimata thaj reaktci ando štato ke ačarel pe ke šaj te merel pe vaj ke diljajvel pe. Šaj te avel kade phares ke kerel pe sa te na kerdžol kado po dujto. Atunci lel pe ongesto te na lel pe ongesto po dujto. Kodo bušiol žukarimasko ongesto (förväntansångest)</p>
+<p>Šaj te daral o manuš te na lel les ongesto angla kaver manuš, thaj ke si phares te vorbij pe pa kodo. Kodo šaj te kerel kodo ke o manuš agorij te maladžol kavere manušenca thaj atunci či kerla maj dur kodo so si leske drago. E dar angla ongesto kerel kodo ke o manuš phandavel pe korkori khatar but bajura ande pesko trajo.</p>
+<p>Te na kerel pe bajura ke si dar ke kodo šaj te vazdel ongeston aj mišto, ke kodo šaj te kerel ke o ongesto avla maj nasul. Maj feder si te rodel pe žutipe sigo. Si lašio žutipe.</p>
+<p type="title">So šaj te kerel pe korkori?</p>
+<p>Šaj te šudel pe tele o ongesto. Butivar šaj te arakhel pe droma sar te inkrel pe pesko ongesto. Kate si uni tipsura.</p>
+<list><p type="listitem">Butivar žutij kodo te vorbij pe pa pesko ongesto manušenge khaj si paciape. Te šiol pe vorbi pe peske ačarimata te birin vi kaver te ačaren kodo so o manuš nakhel.</p>
+<p type="listitem">Butenge žutij kodo feri te skrin tele e phare ačarimata, vaj te makhen vaj te keren variso kaver.</p>
+<p type="listitem">Streso šaj te vazdel ongesto. Te si manuš stresovano šaj o manuš te del pe ghindo so vov birij te kerel te na avel kade but streso, thaj kodo šaj te cinjarel o ongesto.</p>
+<p type="listitem">Šaj te kerel pe bajura so šaj te kovliarel e manušes (avslappningsövningar). Šaj te cirdel pe kodo tele pa internet vaj te khinel pe cd pe apoteki.</p>
+<p type="listitem">Ongesto kerel butivar ke sovel pe maj čores. Numa te birij pe te sovel pe o manuš avri šaj kodo te hasajvel. Anda kodo si kodo vazno te zumavel pe te sovel pe mišto avri.</p>
+<p type="listitem">Ongesto šaj te cinjiol te miškij pe o manuš, trenulij vaj phirel.</p>
+<p type="listitem">Te pel pe civari, snusa, pel alkoholo vaj pel but kava šaj te zumavel pe te šudel pe ekcera anda kodo te dikhel pe vaj maj feder kerdžol pe. But nikotina thaj koffeinas haj te zurarel o ongesto thaj kodo kerel ke sovel pe maj čores.</p>
+<p type="listitem">Šaj te ginavel pe pa ongest thaj te lel pe maj but tipsura kaverendar, sar eksemplo pa internet. Si organizatci so šaj te žutin tipsonca thaj kavere žutimatonca.</p>
+<p type="listitem">Te kamel pe te vorbij pe varikhasa, šaj te vorbij pe khaj e telefonicne jourura khaj si.</p>
+</list><p>Či lel pe alkoholo vaj kaver drogi te cinjarel pe o ongesto. Šaj te ačardžol pe ke žutij kodo jekh skurto vrama, numa o ongesto avela palpalet haj avla atunci inke maj zuralo.</p>
+<p type="title">Savo žutipe šaj te lel pe?</p>
+<p xml:lang="swe">Šaj vi te lel pe žutipe sar te arakhel pe jekh drom sar te šudel pe tele o ongesto. Maj normalno žutipe si vorbimaski terapia, medicina vaj kana zumavel pe te kovljiol andral (avslappning).</p>
+<p>Kodo so žutij jekhes naj musaj te žutij kaveres. Anda kodo si vazno te lel pe žutipe so si vorta pala tute.</p>
+<p xml:lang="swe">Šaj te lel pe kontakto kusa jekh ungdomsmottagning, elevhälsan vaj kusa jekh vårdcentral. Te trobuj šaj kodo kon žutij angluni data te žutij kaver žutipe kontaktosa khaj jekh doktori vaj psykologo.</p>
+</body></document>
